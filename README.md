@@ -86,8 +86,8 @@ The application can be configured via environment variables. Add these to your `
 | `RATE_LIMIT_WINDOW` | Time window (in seconds) for rate limiting. | `60` |
 | `LOG_LEVEL` | Application logging level (INFO, DEBUG, WARNING, etc.). | `INFO` |
 | `LOG_DIR` | Directory where log files will be stored. | `.` |
-| `SUPABASE_URL` | (Optional) Supabase URL for authentication/database. | |
-| `SUPABASE_PUBLISHABLE_KEY` | (Optional) Supabase Key. | |
+| `SUPABASE_URL` |  Supabase URL for authentication/database. | |
+| `SUPABASE_PUBLISHABLE_KEY` |  Supabase Key. | |
 
 ## Project Structure
 
