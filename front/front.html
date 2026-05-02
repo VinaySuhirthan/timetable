@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saveetha Timetable Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/front/front.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <button id="logoutBtn" style="
+        margin-top:15px;
+        padding:10px 20px;
+        background:#ef4444;
+        color:white;
+        border:none;
+        border-radius:8px;
+        cursor:pointer;
+        font-weight:600;
+      ">
+        Logout
+      </button>
+      <h1>SCHEDULA MATRIX GENERATOR</h1>
+      <p>FlexiLearn made it complex. I make it clear</p>
+      <p><span>~ a Fitboy Product</span></p>
+    </header>
+
+    <!-- Wizard Steps Indicator -->
+    <div class="wizard-steps">
+      <div class="step-indicator">
+        <div id="step1Circle" class="step-circle active">1</div>
+        <span class="step-label">Select Subjects</span>
+      </div>
+      <div class="step-indicator">
+        <div id="step2Circle" class="step-circle">2</div>
+        <span class="step-label">Set Constraints</span>
+      </div>
+    </div>
+
+    <!-- Page 1 -->
+    <div id="page1" class="wizard-page active">
+      <div class="card">
+        <h2>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+          Step 1: Select Your Subjects
+        </h2>
+
+        <div class="subject-selection-container">
+          <div class="subject-list">
+            <div class="subject-search">
+              <input type="text" id="subjectSearch" placeholder="Search subjects...">
+            </div>
+            <div id="allSubjectsList"></div>
+          </div>
+
+          <div class="selected-subjects">
+            <h3>Selected Subjects <span id="selectedCount">(0)</span></h3>
+            <div id="selectedSubjectsList">
+              <div class="empty-state"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg><p>No subjects selected yet. Click on subjects from the left list to add them.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="wizard-navigation">
+          <div></div>
+          <button id="nextToPage2" class="wizard-btn primary">Continue to Constraints <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg></button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Page 2 -->
+    <div id="page2" class="wizard-page" style="display:none;">
+      <div class="card">
+        <div class="title-with-toggle">
+          <div class="title-left">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/></svg>
+            <h2>Step 2: Set Constraints & Generate</h2>
+          </div>
+          
+          <div class="constraints-toggle-container">
+            <span class="constraints-toggle-label">Constraints:</span>
+            <label class="constraints-toggle">
+              <input type="checkbox" id="constraintsStrictnessToggle">
+              <span class="constraints-toggle-slider"></span>
+            </label>
+            <span id="constraintsStrictnessStatus" class="constraints-toggle-status flexible">FLEXIBLE</span>
+          </div>
+        </div>
+
+        <div class="selected-summary">
+          <h3>Selected Subjects</h3><br>
+          <div id="selectedSubjectsSummary" class="selected-cards"></div>
+          <div class="wizard-navigation" style="margin-top:20px;"><button id="backToPage1" class="wizard-btn"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>Back to Subject Selection</button></div>
+        </div>
+
+        <div class="constraints-grid">
+          <div class="constraint-group"><label>Morning Classes</label><select id="allow_morning" class="styled-select">
+<option value="less">Prefer fewer morning classes</option><option value="anything" selected>Anything (allow morning)</option><option value="no">No morning classes</option><option value="yes">Allow morning</option></select></div>
+          <div class="constraint-group"><label>Evening Classes</label><select id="allow_evening" class="styled-select">
+<option value="less">Prefer fewer evening classes</option><option value="anything" selected>Anything (allow evening)</option><option value="no">No evening classes</option><option value="yes">Allow evening</option></select></div>
+          <div class="constraint-group">
+            <label style="display:flex;align-items:center;gap:8px;">
+              Saturday Classes
+                <svg title="Locked by system" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.85; margin-left:2px;"><rect x="3" y="11" width="18" height="11" rx="2"></rect><path d="M7 11V7a5 5 0 0110 0v4"></path></svg>
+            </label>
+            <select id="allow_sat" class="styled-select" disabled>
+              <option value="anything" selected>Anything (allow Saturday)</option>
+            </select>
+          </div>
+          <div class="constraint-group"><label>Max Classes/Day</label><select id="max_classes" class="styled-select"><option value="anything" selected>Unlimited</option><option value="1">1 class per day</option><option value="2">2 classes per day</option><option value="3">3 classes per day</option><option value="4">4 classes per day</option></select></div>
+          <div class="constraint-group"><label>Free Day Required</label><select id="need_free_day" class="styled-select"><option value="no" selected>No free day needed</option><option value="yes">Need a free day</option></select></div>
+          <div class="constraint-group"><label>Free Day Choice</label><select id="free_day" class="styled-select"><option value="">No preference</option><option value="Monday">Monday</option><option value="Tuesday">Tuesday</option><option value="Wednesday">Wednesday</option><option value="Thursday">Thursday</option><option value="Friday">Friday</option></select></div>
+        </div>
+
+        <!-- Staff Preferences -->
+        <div class="staff-preferences">
+          <div class="staff-pref-header">
+            <div class="staff-pref-title">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+              <h3>Staff Preferences (Drag to reorder priority)</h3>
+            </div>
+            
+            <div class="staff-strictness-toggle-container">
+              <span class="staff-strictness-label">Staff:</span>
+              <label class="staff-strictness-toggle">
+                <input type="checkbox" id="staffStrictnessToggle">
+                <span class="staff-strictness-slider"></span>
+              </label>
+              <span id="staffStrictnessStatus" class="staff-strictness-status flexible">FLEXIBLE</span>
+            </div>
+          </div>
+          
+          <p class="staff-pref-subtitle">
+            <strong>STRICT mode:</strong> Only uses your preferred staff. If no preferred staff meet time constraints, falls back to available staff with warning.<br>
+            <strong>FLEXIBLE mode:</strong> Considers both preferred AND leftover staff. Timetables with preferred staff are ranked higher.
+          </p>
+          
+          <div id="staffColumnsContainer" class="staff-columns-container">
+            <div class="empty-selection" style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-secondary);border:2px dashed var(--border);border-radius:10px;">
+              Select subjects first to load staff lists
+            </div>
+          </div>
+          
+          <div class="staff-actions">
+            <button id="clearStaffBtn" class="staff-action-btn clear">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="16" height="16"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+              Clear All Selections
+            </button>
+          </div>
+        </div>
+
+        <!-- Priority Mode Selector -->
+        <div class="priority-mode-selector">
+          <div class="priority-mode-header">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11l-8-8-8 8m16 0l-8 8-8-8"/></svg>
+            <h4>Priority Mode</h4>
+            <span class="priority-badge">IMPORTANT</span>
+          </div>
+          
+          <div class="priority-options">
+            <div class="priority-option selected" onclick="selectPriority('staff')">
+              <input type="radio" id="priority_staff" name="priority_mode" value="staff" class="priority-radio" checked>
+              <div class="priority-info">
+                <span class="priority-title">Staff First (Recommended)</span>
+                <span class="priority-description">Filter sections by staff preferences first, then apply constraints. Best when you have specific faculty preferences.</span>
+              </div>
+            </div>
+            
+            <div class="priority-option" onclick="selectPriority('constraints')">
+              <input type="radio" id="priority_constraints" name="priority_mode" value="constraints" class="priority-radio">
+              <div class="priority-info">
+                <span class="priority-title">Constraints First</span>
+                <span class="priority-description">Apply time constraints first, then filter by staff preferences. Best when schedule constraints are most important.</span>
+              </div>
+            </div>
+          </div>
+          
+          <div style="margin-top: 15px; padding: 12px; background: rgba(59,130,246,0.06); border-radius: 8px; border-left: 4px solid var(--accent);">
+            <p style="color: var(--text-secondary); font-size: 0.85rem; margin: 0;">
+              <strong>Note:</strong> When no staff preferences are set, both modes work the same way. Staff First mode ensures your preferred faculty are prioritized.
+            </p>
+          </div>
+        </div>
+
+        <div class="info-box" style="background: rgba(59,130,246,0.06); border-left:4px solid var(--accent); padding:20px; border-radius:8px; margin:20px 0;">
+          <h4 style="color:var(--accent); display:flex;align-items:center;gap:10px;"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>About Search</h4>
+          <ul style="padding-left:20px;color:var(--text-secondary)">
+            <li>Checks 100% of all possible combinations for complete results</li>
+            <li>Generation may take longer for many subjects</li>
+            <li>This mode may contain ~5% flaw rate so please cross check everytime</li>
+          </ul>
+        </div>
+
+        <div class="wizard-navigation">
+          <button id="backToSubjects" class="wizard-btn"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>Back</button>
+          <button id="generateBtn" class="wizard-btn primary"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>Generate Timetables</button>
+        </div>
+
+        <div id="status" class="status"></div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="results"><div id="result"></div></div>
+
+    <!-- Legend -->
+    <div class="legend"><div class="legend-item"><div class="legend-color occupied"></div><span>Class Scheduled</span></div><div class="legend-item"><div class="legend-color empty"></div><span>No Class (Empty Slot)</span></div></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.39.0/dist/umd/supabase.min.js"></script>
+  <script src="/config.js"></script>
+  <script src="/static/front/front.js"></script>
+</body>
+</html>
