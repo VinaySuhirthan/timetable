@@ -108,6 +108,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## Snaps of website
 
-This project is open-source and available for public use.
+<img width="3234" height="848" alt="image" src="https://github.com/user-attachments/assets/dac362f0-8d61-4017-8f56-b45c0c6f54e4" />
+
