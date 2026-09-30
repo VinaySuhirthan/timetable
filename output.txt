@@ -1,4 +1,4 @@
-Subject: 19ME533 [14 Credits]
+Subject: 19ME533 [4 Credits]
 Type: OPEN ELECTIVE
 Course Name: 3D Printing processes
 Status: Full
@@ -15,17 +15,13 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 15:00 – 17:00
 
-  Section: Tl-R8, ENGLISH - Saranya V
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-
-  Section: Tl-Z7, ENGLISH - MEGALA J
+  Section: Tl-W7, MECH - CALEB DANIEL R
     Date: 16-07-2026 to 26-09-2026
     Saturday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
+    Thursday: 08:00 – 10:00
+    Wednesday: 08:00 – 10:00
 
-Subject: 19A1305 [3 Credits]
+Subject: 19AI305 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: Advanced C Programming
 Status: Full
@@ -95,7 +91,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19A1553 [13 Credits]
+Subject: 19AI553 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Advanced Java Web Applications
 Status: Full
@@ -134,7 +130,7 @@ Status: Full
     Thursday: 08:00 – 10:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19A1404 [3 Credits]
+Subject: 19AI404 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Course pverview
 Status: Full
@@ -173,7 +169,7 @@ Status: Full
     Thursday: 08:00 – 10:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19A1409 [3 Credits]
+Subject: 19AI409 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Applied Artificial Intelligence
 Status: Full
@@ -199,7 +195,7 @@ Status: Full
     Tuesday: 08:00 – 10:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19A1550 [3 Credits]
+Subject: 19AI550 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Course pyerview
 Status: Full
@@ -238,7 +234,7 @@ Status: Full
     Friday: 08:00 – 10:00
     Thursday: 13:00 – 15:00
 
-Subject: 19A1516 [3 Credits]
+Subject: 19AI516 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Big Data Mining and Analysis
 Status: Full
@@ -261,7 +257,7 @@ Status: Full
     Saturday: 08:00 – 10:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19A1547 [3 Credits]
+Subject: 19AI547 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Course pyerview
 Status: Full
@@ -278,7 +274,7 @@ Status: Full
     Thursday: 13:00 – 15:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19AIS41 [14 Credits]
+Subject: 19AIS41 [4 Credits]
 Type: OPEN ELECTIVE
 Course Name: Cloud Computing
 Status: Full
@@ -340,7 +336,7 @@ Status: Full
     Friday: 15:00 – 17:00
     Thursday: 15:00 – 17:00
 
-Subject: 19CS416 [13 Credits]
+Subject: 19CS416 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Cloud Security
 Status: Full
@@ -376,7 +372,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Saturday: 15:00 – 17:00
 
-Subject: 19CS409 [14 Credits]
+Subject: 19CS409 [4 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Compiler Design
 Status: Full
@@ -404,7 +400,7 @@ Status: Full
     Saturday: 15:00 – 17:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19EC604 [13 Credits]
+Subject: 19EC604 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Consumer Electronics
 Status: Full
@@ -415,7 +411,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19CS556 [13 Credits]
+Subject: 19CS556 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Core Computing Concepts
 Status: Full
@@ -438,7 +434,7 @@ Status: Full
     Saturday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19CS415 [13 Credits]
+Subject: 19CS415 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: UG - 04, PHASE-I, CSE - AIDS & AIML
 Status: Full
@@ -471,7 +467,7 @@ Status: Full
     Tuesday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19CS418 [13 Credits]
+Subject: 19CS418 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Cyber Law and Compliance
 Status: Full
@@ -493,7 +489,7 @@ Status: Full
     Monday: 10:00 – 12:00
     Saturday: 15:00 – 17:00
 
-Subject: 19A1408 [3 Credits]
+Subject: 19AI408 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Course pvervie"'
 Status: Full
@@ -559,7 +555,7 @@ Status: Full
     Thursday: 15:00 – 17:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19CS404 [14 Credits]
+Subject: 19CS404 [4 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Database Management System and its Applications
 Status: Full
@@ -618,7 +614,7 @@ Status: Full
     Tuesday: 13:00 – 15:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19A1413 [13 Credits]
+Subject: 19AI413 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Deep Learning and its Applications
 Status: Full
@@ -659,7 +655,7 @@ Status: Full
     Friday: 13:00 – 15:00
     Thursday: 10:00 – 12:00
 
-Subject: 19CS419 [13 Credits]
+Subject: 19CS419 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Digital Forensics and Digital Investigations
 Status: Full
@@ -669,7 +665,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 15:00 – 17:00
 
-Subject: 19A1406 [3 Credits]
+Subject: 19AI406 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Digital Image Processing Techniques
 Status: Full
@@ -720,7 +716,7 @@ Status: Full
     Saturday: 15:00 – 17:00
     Thursday: 13:00 – 15:00
 
-Subject: 19CS421 [13 Credits]
+Subject: 19CS421 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: PROFESSIONAL ELECTIVE
 Status: Full
@@ -730,7 +726,7 @@ Status: Full
     Monday: 15:00 – 17:00
     Saturday: 10:00 – 12:00
 
-Subject: 19EY712 [11 Credits]
+Subject: 19EY712 [1 Credits]
 Type: EMPLOYABILITY ENHANCEMENT COURSES
 Course Name: Employment Enrichment Skills
 Status: Full
@@ -745,7 +741,7 @@ Status: Full
     Tuesday: 10:00 – 12:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19A1302 [3 Credits]
+Subject: 19AI302 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: overview
 Status: Full
@@ -768,7 +764,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS580 [13 Credits]
+Subject: 19CS580 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Enterprise Cyber Security and Threat Detection
 Status: Full
@@ -779,7 +775,7 @@ Status: Full
     Thursday: 13:00 – 15:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS570 [13 Credits]
+Subject: 19CS570 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Entrepreneurship and Small Business Development
 Status: Full
@@ -796,7 +792,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CY801 [12 Credits]
+Subject: 19CY801 [2 Credits]
 Type: BASIC SCIENCES
 Course Name: Environmental Sciences and Sustainability
 Status: Full
@@ -817,7 +813,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Friday: 17:26 – 17:27
 
-Subject: 19CS417 [13 Credits]
+Subject: 19CS417 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Ethical Hacking Techniques
 Status: Full
@@ -834,7 +830,7 @@ Status: Full
     Tuesday: 13:00 – 15:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19A1555 [3 Credits]
+Subject: 19AI555 [3 Credits]
 Type: PROFESSIONAL ELECr1VE
 Course Name: Exploratory Data Analysis
 Status: Full
@@ -857,7 +853,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CY601 [12 Credits]
+Subject: 19CY601 [2 Credits]
 Type: OPEN ELECTIVE
 Course Name: Food Nutrition and Health Technology
 Status: Full
@@ -898,7 +894,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Saturday: 08:00 – 10:00
 
-Subject: 19A1405 [13 Credits]
+Subject: 19AI405 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Fundamentals of Artificial Intelligence
 Status: Full
@@ -987,7 +983,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19A1304 [3 Credits]
+Subject: 19AI304 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: Course pyerview
 Status: Full
@@ -1006,7 +1002,7 @@ Status: Full
     Tuesday: 15:00 – 17:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19CSS47 [13 Credits]
+Subject: 19CSS47 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Fundamentals of Cryptocurrency
 Status: Full
@@ -1029,7 +1025,7 @@ Status: Full
     Saturday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19A1513 [4 Credits]
+Subject: 19AI513 [4 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Game Programming
 Status: Full
@@ -1046,7 +1042,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19CS579 [13 Credits]
+Subject: 19CS579 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Generative Al Application Development
 Status: Full
@@ -1056,7 +1052,7 @@ Status: Full
     Friday: 13:00 – 15:00
     Tuesday: 13:00 – 15:00
 
-Subject: 19AM509 [13 Credits]
+Subject: 19AM509 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Industrial Intemet of Things
 Status: Full
@@ -1067,7 +1063,7 @@ Status: Full
     Monday: 13:00 – 15:00
     Thursday: 15:00 – 17:00
 
-Subject: 19GE628 [12 Credits]
+Subject: 19GE628 [2 Credits]
 Type: OPEN ELECTIVE
 Course Name: Industrial Product Development and Prototyping
 Status: Full
@@ -1084,7 +1080,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Thursday: 10:00 – 12:00
 
-Subject: 19PH601 [13 Credits]
+Subject: 19PH601 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Instrumentation and Applied Physics in Engineering
 Status: Full
@@ -1095,7 +1091,7 @@ Status: Full
     Saturday: 15:00 – 17:00
     Tuesday: 15:00 – 17:00
 
-Subject: 19A1403 [3 Credits]
+Subject: 19AI403 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Conrse overview
 Status: Full
@@ -1130,7 +1126,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19AM508 [13 Credits]
+Subject: 19AM508 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Conrse overview
 Status: Full
@@ -1153,7 +1149,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Thursday: 10:00 – 12:00
 
-Subject: 19EC602 [13 Credits]
+Subject: 19EC602 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Introduction to Micro Electro Mechanical Systems
 Status: Full
@@ -1164,7 +1160,7 @@ Status: Full
     Tuesday: 08:00 – 10:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19A1533 [13 Credits]
+Subject: 19AI533 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Introduction to Robotics
 Status: Full
@@ -1175,7 +1171,7 @@ Status: Full
     Tuesday: 15:00 – 17:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19A1534 [3 Credits]
+Subject: 19AI534 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Kinematics and Dynamics of Robots
 Status: Full
@@ -1192,7 +1188,7 @@ Status: Full
     Monday: 15:00 – 17:00
     Saturday: 10:00 – 12:00
 
-Subject: 19A1539 [13 Credits]
+Subject: 19AI539 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Mobile User Interface Development
 Status: Full
@@ -1214,7 +1210,7 @@ Status: Full
     Thursday: 13:00 – 15:00
     Tuesday: 08:00 – 10:00
 
-Subject: 19EN605 [12 Credits]
+Subject: 19EN605 [2 Credits]
 Type: OPEN ELECTIVE
 Course Name: Modern Trends in Physical Education and Sports Sciences
 Status: Full
@@ -1227,7 +1223,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Wednesday: 15:00 – 17:00
 
-Subject: 19A1545 [13 Credits]
+Subject: 19AI545 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Modem Web Application Development
 Status: Full
@@ -1267,7 +1263,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Tuesday: 13:00 – 15:00
 
-Subject: 19PH602 [13 Credits]
+Subject: 19PH602 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Course pyerview
 Status: Full
@@ -1277,7 +1273,7 @@ Status: Full
     Saturday: 10:00 – 12:00
     Thursday: 13:00 – 15:00
 
-Subject: 19CS581 [13 Credits]
+Subject: 19CS581 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Network Infrastructure and Protocols
 Status: Full
@@ -1288,7 +1284,7 @@ Status: Full
     Thursday: 15:00 – 17:00
     Tuesday: 13:00 – 15:00
 
-Subject: 19A1411 [13 Credits]
+Subject: 19AI411 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Neural Networks
 Status: Full
@@ -1318,7 +1314,7 @@ Status: Full
     Saturday: 08:00 – 10:00
     Tuesday: 08:00 – 10:00
 
-Subject: 19A1307 [13 Credits]
+Subject: 19AI307 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: Object Oriented Programming using Java
 Status: Full
@@ -1377,7 +1373,7 @@ Status: Full
     Thursday: 15:00 – 17:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS545 [13 Credits]
+Subject: 19CS545 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Open Source Operating System
 Status: Full
@@ -1394,7 +1390,7 @@ Status: Full
     Thursday: 13:00 – 15:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19A1407 [4 Credits]
+Subject: 19AI407 [4 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Parallel Computing Architecture
 Status: Full
@@ -1427,7 +1423,7 @@ Status: Full
     Thursday: 13:00 – 15:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19PH814 [13 Credits]
+Subject: 19PH814 [3 Credits]
 Type: BASIC SCIENCES
 Course Name: Physics for Quantum Computing
 Status: Full
@@ -1444,7 +1440,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 08:00 – 10:00
 
-Subject: 19EE309 [13 Credits]
+Subject: 19EE309 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: Programming Microcontrollers
 Status: Full
@@ -1484,7 +1480,7 @@ Status: Full
     Saturday: 15:00 – 17:00
     Thursday: 15:00 – 17:00
 
-Subject: 19A1540 [3 Credits]
+Subject: 19AI540 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Programming Mobile Devices
 Status: Full
@@ -1507,7 +1503,7 @@ Status: Full
     Tuesday: 13:00 – 15:00
     Wednesday: 10:00 – 12:00
 
-Subject: 19TD608 [12 Credits]
+Subject: 19TD608 [2 Credits]
 Type: OPEN ELECTIVE
 Course Name: prompt Engineering
 Status: Full
@@ -1542,7 +1538,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Thursday: 08:00 – 10:00
 
-Subject: 19CS420 [13 Credits]
+Subject: 19CS420 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: PROFESSIONAL ELECTIVE
 Status: Full
@@ -1553,7 +1549,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19A1301 [3 Credits]
+Subject: 19AI301 [3 Credits]
 Type: ENGINEERING SCIENCES
 Course Name: Python Programming
 Status: Full
@@ -1585,7 +1581,7 @@ Status: Full
     Saturday: 08:00 – 10:00
     Tuesday: 13:00 – 15:00
 
-Subject: 19EY710 [11 Credits]
+Subject: 19EY710 [1 Credits]
 Type: EMPLOYABILITY ENHANCEMENT COURSES
 Course Name: Quantitative Ability I
 Status: Full
@@ -1639,7 +1635,7 @@ Status: Full
     Friday: 15:00 – 17:00
     Saturday: 15:00 – 17:00
 
-Subject: 19EV711 [11 Credits]
+Subject: 19EV711 [1 Credits]
 Type: EMPLOYABILITY ENHANCEMENT COURSES
 Course Name: Quantitative Ability 11
 Status: Full
@@ -1713,7 +1709,7 @@ Status: Full
     Friday: 08:00 – 10:00
     Thursday: 10:00 – 12:00
 
-Subject: 19CS529 [13 Credits]
+Subject: 19CS529 [3 Credits]
 Type: PROFESSIONAL ELECr1VE
 Course Name: Quantum Computing
 Status: Full
@@ -1734,7 +1730,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Wednesday: 10:00 – 12:00
 
-Subject: 19A1505 [3 Credits]
+Subject: 19AI505 [3 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Course pyerview
 Status: Full
@@ -1767,7 +1763,7 @@ Status: Full
     Monday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS422 [13 Credits]
+Subject: 19CS422 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Security for IoT Systems
 Status: Full
@@ -1778,7 +1774,7 @@ Status: Full
     Saturday: 08:00 – 10:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS408 [14 Credits]
+Subject: 19CS408 [4 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Software Engineering
 Status: Full
@@ -1848,7 +1844,7 @@ Status: Full
     Thursday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
 
-Subject: 19CS407 [13 Credits]
+Subject: 19CS407 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Theory Of Computation
 Status: Full
@@ -1871,7 +1867,7 @@ Status: Full
     Saturday: 10:00 – 12:00
     Thursday: 10:00 – 12:00
 
-Subject: 19AM401 [14 Credits]
+Subject: 19AM401 [4 Credits]
 Type: PROFESSIONAL CORE
 Course Name: Time Series Analysis and Forecasting
 Status: Full
@@ -1882,7 +1878,7 @@ Status: Full
     Saturday: 13:00 – 15:00
     Tuesday: 13:00 – 15:00
 
-Subject: 19MA219 [14 Credits]
+Subject: 19MA219 [4 Credits]
 Type: BASIC SCIENCES
 Course Name: Transforms and its Applications
 Status: Full
@@ -1901,7 +1897,7 @@ Status: Full
     Tuesday: 15:00 – 17:00
     Wednesday: 15:00 – 17:00
 
-Subject: 19A1412 [14 Credits]
+Subject: 19AI412 [4 Credits]
 Type: PROFESSIONAL ELECTIVE
 Course Name: Web Data Mining
 Status: Full
@@ -1932,7 +1928,7 @@ Status: Full
     Friday: 10:00 – 12:00
     Saturday: 15:00 – 17:00
 
-Subject: 19EN616 [11 Credits]
+Subject: 19EN616 [1 Credits]
 Type: OPEN ELECTIVE
 Course Name: Yoga and Meditation
 Status: Full
