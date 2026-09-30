@@ -16,3 +16,66 @@
 2026-09-30 20:04:05,412 - activity - INFO - GEN start user=fennixag@gmail.com subjects=3 page=1 active=1 users=fennixag@gmail.com
 2026-09-30 20:04:06,052 - activity - INFO - REQ POST /generate status=200 user=fennixag@gmail.com ip=127.0.0.1 time=646ms page=1 selected=3 limit=1000 priority=staff staff_mode=flexible constraint_mode=flexible results=5 search=0.01s active=0 active_users=-
 2026-09-30 20:04:34,054 - activity - INFO - Process pool shutdown
+2026-09-30 20:37:40,991 - activity - INFO - ================================================================================
+2026-09-30 20:37:40,991 - activity - INFO - Timetable Generator started
+2026-09-30 20:37:40,991 - activity - INFO - Rate limiting: 100 req/60s
+2026-09-30 20:37:40,991 - activity - INFO - CORS Origins: ['*']
+2026-09-30 20:37:40,991 - activity - INFO - ================================================================================
+2026-09-30 20:37:40,991 - activity - INFO - Loading courses...
+2026-09-30 20:37:41,012 - activity - INFO - Loaded 71 courses at startup
+2026-09-30 20:38:00,014 - activity - INFO - REQ GET /subjects status=200 user=fennixag@gmail.com ip=127.0.0.1 time=4ms subjects=71 sections=222
+2026-09-30 20:38:03,211 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=2
+2026-09-30 20:44:17,385 - activity - INFO - ================================================================================
+2026-09-30 20:44:17,385 - activity - INFO - Timetable Generator started
+2026-09-30 20:44:17,385 - activity - INFO - Rate limiting: 100 req/60s
+2026-09-30 20:44:17,385 - activity - INFO - CORS Origins: ['*']
+2026-09-30 20:44:17,385 - activity - INFO - ================================================================================
+2026-09-30 20:44:17,385 - activity - INFO - Loading courses...
+2026-09-30 20:44:17,385 - activity - INFO - Loaded 5 courses at startup
+2026-09-30 20:45:14,516 - activity - INFO - ================================================================================
+2026-09-30 20:45:14,516 - activity - INFO - Timetable Generator started
+2026-09-30 20:45:14,516 - activity - INFO - Rate limiting: 100 req/60s
+2026-09-30 20:45:14,516 - activity - INFO - CORS Origins: ['*']
+2026-09-30 20:45:14,516 - activity - INFO - ================================================================================
+2026-09-30 20:45:14,516 - activity - INFO - Loading courses...
+2026-09-30 20:45:14,516 - activity - INFO - Loaded 5 courses at startup
+2026-09-30 20:45:17,040 - activity - INFO - REQ GET /subjects status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subjects=5 sections=34
+2026-09-30 20:45:20,567 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:28,525 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:30,015 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:30,415 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:30,485 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:30,836 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:31,017 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:32,189 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:32,197 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:33,387 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:33,396 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=0ms subject=19AI307 staff=3
+2026-09-30 20:45:34,906 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:34,915 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:35,018 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=6ms subject=19AI541 staff=5
+2026-09-30 20:45:35,031 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:35,175 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:35,177 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:36,195 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:36,204 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:36,212 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI411 staff=2
+2026-09-30 20:45:37,153 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:37,157 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:37,166 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI411 staff=2
+2026-09-30 20:45:37,542 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:37,548 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI307 staff=3
+2026-09-30 20:45:37,555 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI411 staff=2
+2026-09-30 20:45:37,651 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI541 staff=5
+2026-09-30 20:45:37,666 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI307 staff=3
+2026-09-30 20:45:37,666 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=2ms subject=19AI411 staff=2
+2026-09-30 20:45:38,007 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:38,011 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:38,034 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI411 staff=2
+2026-09-30 20:45:38,511 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:38,517 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=0ms subject=19AI307 staff=3
+2026-09-30 20:45:38,526 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=4ms subject=19AI411 staff=2
+2026-09-30 20:45:39,865 - activity - INFO - REQ GET /staff/19AI541 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI541 staff=5
+2026-09-30 20:45:39,867 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
+2026-09-30 20:45:39,867 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI411 staff=2
+2026-09-30 20:45:39,882 - activity - INFO - REQ GET /staff/19AI410 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI410 staff=6
