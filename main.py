@@ -104,6 +104,33 @@ app.add_middleware(
     max_age=3600,
 )
 
+# Domain configuration for canonical redirects (Render custom domain)
+PRIMARY_DOMAIN = os.getenv("PRIMARY_DOMAIN", "tt.vinaysuhirthan.tech").strip()
+REDIRECT_DOMAINS = [
+    d.strip().lower()
+    for d in os.getenv("REDIRECT_DOMAINS", "fitboy-tt.onrender.com").split(",")
+    if d.strip()
+]
+
+@app.middleware("http")
+async def redirect_to_primary_domain(request: Request, call_next):
+    """
+    Redirect requests arriving on old hostnames (e.g. fitboy-tt.onrender.com)
+    to the primary domain (e.g. tt.vinaysuhirthan.tech), preserving path and query.
+    """
+    forwarded_host = request.headers.get("x-forwarded-host")
+    host_header = forwarded_host or request.headers.get("host") or request.url.hostname or ""
+    host_name = host_header.split(":")[0].strip().lower()
+
+    if PRIMARY_DOMAIN and host_name in REDIRECT_DOMAINS:
+        target_url = f"https://{PRIMARY_DOMAIN}{request.url.path}"
+        if request.url.query:
+            target_url += f"?{request.url.query}"
+        status_code = 301 if request.method in ("GET", "HEAD") else 308
+        return RedirectResponse(url=target_url, status_code=status_code)
+
+    return await call_next(request)
+
 # Rate limiting (simple memory-based)
 RATE_LIMIT_REQUESTS = int(os.getenv("RATE_LIMIT_REQUESTS", "10"))
 RATE_LIMIT_WINDOW = int(os.getenv("RATE_LIMIT_WINDOW", "60"))

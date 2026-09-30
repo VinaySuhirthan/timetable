@@ -6,3 +6,13 @@
 2026-09-30 20:01:22,922 - activity - INFO - Loading courses...
 2026-09-30 20:01:22,940 - activity - INFO - Loaded 71 courses at startup
 2026-09-30 20:02:04,888 - activity - INFO - REQ GET /subjects status=200 user=fennixag@gmail.com ip=127.0.0.1 time=3ms subjects=71 sections=222
+2026-09-30 20:04:03,685 - activity - INFO - ================================================================================
+2026-09-30 20:04:03,686 - activity - INFO - Timetable Generator started
+2026-09-30 20:04:03,686 - activity - INFO - Rate limiting: 100 req/60s
+2026-09-30 20:04:03,686 - activity - INFO - CORS Origins: ['*']
+2026-09-30 20:04:03,686 - activity - INFO - ================================================================================
+2026-09-30 20:04:03,686 - activity - INFO - Loading courses...
+2026-09-30 20:04:03,709 - activity - INFO - Loaded 71 courses at startup
+2026-09-30 20:04:05,412 - activity - INFO - GEN start user=fennixag@gmail.com subjects=3 page=1 active=1 users=fennixag@gmail.com
+2026-09-30 20:04:06,052 - activity - INFO - REQ POST /generate status=200 user=fennixag@gmail.com ip=127.0.0.1 time=646ms page=1 selected=3 limit=1000 priority=staff staff_mode=flexible constraint_mode=flexible results=5 search=0.01s active=0 active_users=-
+2026-09-30 20:04:34,054 - activity - INFO - Process pool shutdown
