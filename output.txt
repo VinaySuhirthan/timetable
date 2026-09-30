@@ -1,0 +1,1656 @@
+Subject: 19ME533 [4 Credits]
+Type: OPEN ELECTIVE
+Course Name: 3D Printing Processes
+Status: Full
+
+  Section: T2-N2, MECH - Sellakumar S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-H9, MECH - CALEB DANIEL R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-I11, MECH - Vinothraj U T
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-J16, MECH - YUVARAJ M
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19TD609 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Abroad Studies Entry Preparation
+Status: Full
+
+  Section: T2-W11, ENGLISH - Saranya V
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-W10, ENGLISH - MEGALA J
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI553 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Advanced Java Web Applications
+Status: Full
+
+  Section: T2-E2, AI - MANOJ V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-L18, AI - MANOJ V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19AI404 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Analysis of Algorithms
+Status: Full
+
+  Section: T2-Q4, AI - Selvanayaki S S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-H6, AI - MANICKAM S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-F17, AI - MANICKAM S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-E15, AI - VISHWANATH MUDALIYAR .
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-D20, AI - VISHWANATH MUDALIYAR .
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI409 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Applied Artificial Intelligence
+Status: Full
+
+  Section: T2-J7, AI - Saravanan N
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-F18, AI - Swedha .V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI550 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Artificial Intelligence for Games
+Status: Full
+
+  Section: T2-Q11, AM - Uma Rani V
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-J5, AM - Uma Rani V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-J14, AM - Uma Rani V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19MS154 [3 Credits]
+Type: HUMANITIES AND SCIENCES
+Course Name: Basic Financial Accounting
+Status: Full
+
+  Section: T2-U7, MBA - ELANGO J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-G2, MBA - GANESAN ALIAS KANAGARAJ M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G8, MBA - SELVI K
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-E1, MBA - PERIASAMY P
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI516 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Big Data Mining and Analysis
+Status: Full
+
+  Section: T2-R4, AI - DHANALAKSHMI J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-L6, AI - DHANALAKSHMI J
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-R18, AI - DHANALAKSHMI J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI547 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Blockchain for Business
+Status: Full
+
+  Section: T2-J17, AI - KALADEVI R (TSAI042)
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19ME803 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: CAD/CAM
+Status: Full
+
+  Section: T2-D2, MECH - GOPALARAMASUBRAMANIYAN G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19AI541 [4 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Cloud Computing
+Status: Full
+
+  Section: T2-BLENDED-1, AI - Malathi K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00, 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-BLENDED-4, AI - Malathi K
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-BLENDED-2, AI - PONMATHI JEBA KIRUBA P
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19CS416 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Cloud Security
+Status: Full
+
+  Section: T2-J8, CSE - RAJESH C
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-J2, CSE - RAJESH C
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19EN101 [4 Credits]
+Type: HUMANITIES AND SCIENCES
+Course Name: Communicative English
+Status: Full
+
+  Section: T2-P4, ENGLISH - Pariventhan K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19HS602 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Community Engagement and Social Responsibility
+Status: Full
+
+  Section: T2-D18, ENGLISH - GOPALARAMASUBRAMANIYAN G
+    Date: 16-04-2026 to 06-06-2026
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-D19, ENGLISH - GOPALARAMASUBRAMANIYAN G
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19AI509 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Concepts of Virtual and Augmented Reality
+Status: Full
+
+  Section: T2-N7, AI - Archana S H
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19EC604 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: Consumer Electronics
+Status: Full
+
+  Section: T2-T5, ECE - Sowmiya Manoj M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19CS415 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Cryptography
+Status: Full
+
+  Section: T2-K18, CSE - Saravanan T
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-I17, CSE - Saravanan T
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-I13, CSE - Arul Oli A
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-H18, CSE - Arul Oli A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19CS418 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Cyber Law and Compliance
+Status: Full
+
+  Section: T2-J3, CSE - Hemadharsana S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-N5, CSE - Nagappan G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-H1, CSE - Hemadharsana S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-B12, CSE - Sangeetha Priya M
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-I12, CSE - Hemadharsana S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI408 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Data Structures
+Status: Full
+
+  Section: T2-S17, AI - RENUGADEVI R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-S15, AI - RENUGADEVI R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-A5, AI - POTNURI ANITHA
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K17, AI - POTNURI ANITHA
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19CS404 [4 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Database Management System and its Applications
+Status: Full
+
+  Section: T2-BLENDED-2, CSE - ABINAYA G
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-BLENDED-1, CSE - ABINAYA G
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-K15, CSE - VINOTHINI M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-I5, CSE - Thirunavukkarasu S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G18, CSE - VINOTHINI M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-I18, CSE - Thirunavukkarasu S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-BLENDED, CSE - ABINAYA G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19AI413 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Deep Learning and its Applications
+Status: Full
+
+  Section: T2-BLENDED-1, AI - Nadar Akila P Mohan
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-H19, AI - MICHAEL MAHESH K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-BLENDED-2, AI - Nadar Akila P Mohan
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI406 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Digital Image Processing Techniques
+Status: Full
+
+  Section: T2-K11, AI - MANIKANDAN SP
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-J6, AI - MICHAEL MAHESH K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19EC606 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: Drones for Agriculture
+Status: Full
+
+  Section: T2-I10, ECE - GOKUL KANNAN K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19CS421 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Edge Computing
+Status: Full
+
+  Section: T2-L19, CSE - ANNA PALAGAN C
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19EC605 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: Electronic System Design
+Status: Full
+
+  Section: T2-N4, ECE - Praveen M
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19CS542 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Embedded Board Design
+Status: Full
+
+  Section: T2-U8, CSE - AnishKumar J
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19CS543 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Embedded Board Manufacturing
+Status: Full
+
+  Section: T2-U11, CSE - AnishKumar J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19AI302 [3 Credits]
+Type: ENGINEERING SCIENCES
+Course Name: Engineering Design and Modelling
+Status: Full
+
+  Section: T2-K13, AI - SUDHARSAN K
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G6, AI - SUDHARSAN K
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19CY801 [2 Credits]
+Type: BASIC SCIENCES
+Course Name: Environmental Sciences and Sustainability
+Status: Full
+
+  Section: T2-V17, CHEMISTRY - SHANTHI S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 20:48 – 20:49
+
+  Section: T2-V16, CHEMISTRY - Yamini B
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 20:46 – 20:47
+
+Subject: 19CS417 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Ethical Hacking Techniques
+Status: Full
+
+  Section: T2-P16, CSE - AUGUSTIAN ISAAC R
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N16, CSE - AUGUSTIAN ISAAC R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI405 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Fundamentals of Artificial Intelligence
+Status: Full
+
+  Section: T2-G17, AI - Saravanan N
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-G14, AI - Swedha .V
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-E16, AI - RAMSHANKAR N
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-U6, AI - Murugesan S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19CS547 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Fundamentals of Cryptocurrency
+Status: Full
+
+  Section: T2-L5, CSE - SASIKALA G M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI414 [5 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Fundamentals of Web Application Development
+Status: Full
+
+  Section: T2-E6, AI - BERLIN MAGTHALIN R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-B10, AI - BERLIN MAGTHALIN R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI513 [4 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Game Programming
+Status: Full
+
+  Section: T2-L7, AI - MONOLITH FACULTY
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K8, AI - MONOLITH FACULTY
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19EN609 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Gender Sensitization
+Status: Full
+
+  Section: T2-N3, ENGLISH - ARUNA DEVI K
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19CS579 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Generative AI Application Development
+Status: Full
+
+  Section: T2-BLENDED, CSE - Jaba Jasphin E.T
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19MS156 [3 Credits]
+Type: HUMANITIES AND SCIENCES
+Course Name: Human Resource Management and Team Building
+Status: Full
+
+  Section: T2-H2, MBA - DIVYA RANJANI R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G9, MBA - Vanitha A
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-A8, MBA - Deepa M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19HS801 [2 Credits]
+Type: HUMANITIES AND SCIENCES
+Course Name: Human Values and Professional Ethics
+Status: Full
+
+  Section: T2-W8, ENGLISH - SUBHASHINI R TSSH208
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 20:54 – 20:55
+
+  Section: T2-W7, ENGLISH - ANNE DORTHY
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 20:52 – 20:53
+
+  Section: T2-W9, ENGLISH - UDHAYAKUMAR R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 20:56 – 20:57
+
+Subject: 19EN618 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Indian Astronomy and Mathematics
+Status: Full
+
+  Section: T2-W2, ENGLISH - Rangarathnam Gopu
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00, 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19AM509 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Industrial Internet of Things
+Status: Full
+
+  Section: T2-J20, AM - ANNA PALAGAN C
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19PH601 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: Instrumentation and Applied Physics in Engineering
+Status: Full
+
+  Section: T2-R7, PHYSICS - S VARALAKSHMI
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N17, PHYSICS - Priya M
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI403 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Introduction to Data Science
+Status: Full
+
+  Section: T2-P17, AI - Pradeep R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-M4, AI - Karthi Govindharaju
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19AM508 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Introduction to IoT
+Status: Full
+
+  Section: T2-I4, IOT - Karthiga M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-D5, IOT - ANNA PALAGAN C
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-F13, IOT - Sripriya Ranganathan
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI410 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Introduction to Machine Learning
+Status: Full
+
+  Section: T2-M8, AI - Jesila mol J
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N9, AI - ATHIRAJA A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K20, AI - Jesila mol J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19EC602 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: Introduction to Micro Electro Mechanical Systems
+Status: Full
+
+  Section: T2-S14, ECE - IMRAN HUSSAIN
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI534 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Kinematics and Dynamics of Robots
+Status: Full
+
+  Section: T2-B7, AI - Sellakumar S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19MA220 [4 Credits]
+Type: BASIC SCIENCES
+Course Name: Mathematics for Artificial Intelligence
+Status: Full
+
+  Section: T2-L12, AI - RAMESH KUMAR M TSSH264
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-H15, AI - Bhuvaneswari G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI539 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Mobile User Interface Development
+Status: Full
+
+  Section: T2-L9, AI - Surya S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-K1, AI - Surya S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-Q12, AI - Surya S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19EN605 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Modern Trends in Physical Education and Sports Sciences
+Status: Full
+
+  Section: T2-R9, ENGLISH - Prabhakaran G
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-D3, ENGLISH - Balasingh D
+    Date: 16-04-2026 to 06-06-2026
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19AI545 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Modern Web Application Development
+Status: Full
+
+  Section: T2-G20, AI - G PANDIYAN
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-G4, AI - G PANDIYAN
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-D7, AI - G PANDIYAN
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19PH602 [3 Credits]
+Type: OPEN ELECTIVE
+Course Name: NanoPhotonics: Physics, Fabrication and Technologies
+Status: Full
+
+  Section: T2-A7, PHYSICS - Silambarasan M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI411 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Neural Networks
+Status: Full
+
+  Section: T2-E5, AI - LAVANYA G SCOFT
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-M2, AI - Jayanthi G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-I20, AI - LAVANYA G SCOFT
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI307 [3 Credits]
+Type: ENGINEERING SCIENCES
+Course Name: Object Oriented Programming using Java
+Status: Full
+
+  Section: T2-M12, AI - NANDAKUMAR S D
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K7, AI - RAJALAKSHMI E
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-J15, AI - RAJALAKSHMI E
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-N20, AI - Tenali Ravi Kumar
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-H3, AI - ALAGUMANI S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-H17, AI - ALAGUMANI S
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N10, AI - Tenali Ravi Kumar
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-F3, AI - Shanmuga Priya S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19PH814 [3 Credits]
+Type: BASIC SCIENCES
+Course Name: Physics for Quantum Computing
+Status: Full
+
+  Section: T2-K12, PHYSICS - THENNARASU S
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-J12, PHYSICS - Suresh S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19EY713 [1 Credits]
+Type: EMPLOYABILITY ENHANCEMENT COURSES
+Course Name: Placement Readiness Assessment
+Status: Full
+
+  Section: T2-N18, TRAINING - PRASATH M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-M15, TRAINING - MATHIVANAN A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-K4, TRAINING - ELUMALAI K
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-J18, TRAINING - PREMKUMAR P
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-J4, TRAINING - AYILYA BL
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-B17, TRAINING - SHABANA S
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-B13, TRAINING - SHABANA S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-S4, TRAINING - RAVINDRA BABU G
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-I14, TRAINING - Manoj Krishna M
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-B6, TRAINING - ARUNACHALAM S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-H8, TRAINING - PRASATH M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-B1, TRAINING - RAVINDRA BABU G
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19MA222 [4 Credits]
+Type: BASIC SCIENCES
+Course Name: Probability and Queueing Models
+Status: Full
+
+  Section: T2-H16, Maths - USHA M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI540 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Programming Mobile Devices
+Status: Full
+
+  Section: T2-N1, AI - THAVA VINU A
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-K9, AI - Shanmuga Priya S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19TD608 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Prompt Engineering
+Status: Full
+
+  Section: T2-L8, AI - AJITH KUMAR S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-K6, AI - Hemavathy P
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-H20, AI - Hemavathy P
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G12, AI - Dr C. Rajendra Thilahar
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-F12, AI - KISHORE VERMA S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-E17, AI - KISHORE VERMA S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-L14, AI - AJITH KUMAR S
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-R8, AI - KISHORE VERMA S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19CS420 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Prototyping of IoT Systems
+Status: Full
+
+  Section: T2-L1, IOT - Sripriya Ranganathan
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI301 [3 Credits]
+Type: ENGINEERING SCIENCES
+Course Name: Python Programming
+Status: Full
+
+  Section: T2-Q14, AI - KRISHNAMOORTHY J
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q6, AI - K SARANYA
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-P6, AI - K SARANYA
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-N8, AI - Mariya Monica Celestina A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-K19, AI - Mariya Monica Celestina A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-I6, AI - RAJAKRISHNAMMAL A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q13, AI - KRISHNAMOORTHY J
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-E11, AI - D PAVAI
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-B9, AI - D PAVAI
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19EY710 [1 Credits]
+Type: EMPLOYABILITY ENHANCEMENT COURSES
+Course Name: Quantitative Ability I
+Status: Full
+
+  Section: T2-R5, TRAINING - MATHIVANAN A
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q18, TRAINING - ELUMALAI K
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-P18, TRAINING - PREMKUMAR P
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-P14, TRAINING - AYILYA BL
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-I2, TRAINING - PRASATH M
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-R13, TRAINING - RAVINDRA BABU G
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-H13, TRAINING - Manoj Krishna M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q16, TRAINING - ELUMALAI K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-Q8, TRAINING - PREMKUMAR P
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-I16, TRAINING - MEGALA J
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-E7, TRAINING - ARUNACHALAM S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K14, TRAINING - AYILYA BL
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-F7, TRAINING - SHABANA S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+
+Subject: 19EY711 [1 Credits]
+Type: EMPLOYABILITY ENHANCEMENT COURSES
+Course Name: Quantitative Ability II
+Status: Full
+
+  Section: T2-R19, TRAINING - AYILYA BL
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-R20, TRAINING - PREMKUMAR P
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N19, TRAINING - SHABANA S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N12, TRAINING - SHABANA S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-M13, TRAINING - ARUNACHALAM S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-L3, TRAINING - ARUNACHALAM S
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-G7, TRAINING - PRASATH M
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-J13, TRAINING - RAVINDRA BABU G
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-P10, TRAINING - Manoj Krishna M
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-K5, TRAINING - RAVINDRA BABU G
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-S6, TRAINING - ELUMALAI K
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q1, TRAINING - MEGALA J
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-S10, TRAINING - MATHIVANAN A
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19EY709 [1 Credits]
+Type: EMPLOYABILITY ENHANCEMENT COURSES
+Course Name: Reasoning Ability
+Status: Full
+
+  Section: T2-R2, TRAINING - Sneha Priya p
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-Q17, TRAINING - Sneha Priya p
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-R17, TRAINING - Saranya V
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-S2, TRAINING - Saranya V
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-R16, TRAINING - Sneha Priya p
+    Date: 16-04-2026 to 06-06-2026
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-J9, TRAINING - JAYPREETHA V R
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-I19, TRAINING - JAYPREETHA V R
+    Date: 16-04-2026 to 06-06-2026
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-S7, TRAINING - Saranya V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-Q20, TRAINING - Sneha Priya p
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-L15, TRAINING - JAYPREETHA V R
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-R1, TRAINING - Sneha Priya p
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-N13, TRAINING - JAYPREETHA V R
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-S5, TRAINING - Saranya V
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19AI505 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Reinforcement Learning
+Status: Full
+
+  Section: T2-P8, AI - Jaba Jasphin E.T
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19CS408 [4 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Software Engineering
+Status: Full
+
+  Section: T2-P9, CSE - Deepa A
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-L13, CSE - Deepa A
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Thursday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-L4, CSE - Madhumitha N
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Monday: 13:00 – 14:00, 14:00 – 15:00
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-P20, CSE - Deepa A
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-H12, CSE - Ravindhar N.V
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-F15, CSE - Ravindhar N.V
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 15:00 – 16:00, 16:00 – 17:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19CS504 [3 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Software Project Management
+Status: Full
+
+  Section: T2-M16, CSE - ANBARASAN M
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19MS155 [3 Credits]
+Type: HUMANITIES AND SCIENCES
+Course Name: Stock Market and Company Operations
+Status: Full
+
+  Section: T2-H7, MBA - Anitha L
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-R10, MBA - Sathiyamurthi K
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-M20, MBA - SEEMA BALAN
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-J1, MBA - CATHERINE REX S
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+Subject: 19EN624 [2 Credits]
+Type: OPEN ELECTIVE
+Course Name: Theatre Art
+Status: Full
+
+  Section: T2-W3, ENGLISH - Rajkumar M
+    Date: 16-04-2026 to 06-06-2026
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00, 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19CS407 [3 Credits]
+Type: PROFESSIONAL CORE
+Course Name: Theory of Computation
+Status: Full
+
+  Section: T2-N6, CSE - JANAKI RAMAL R
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Tuesday: 10:00 – 11:00, 11:00 – 12:00
+    Wednesday: 08:00 – 09:00, 09:00 – 10:00
+
+  Section: T2-G13, CSE - SUNITHA T
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 08:00 – 09:00, 09:00 – 10:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+
+  Section: T2-P13, CSE - MANI S V J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Tuesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-N11, CSE - MANI S V J
+    Date: 16-04-2026 to 06-06-2026
+    Saturday: 10:00 – 11:00, 11:00 – 12:00
+    Tuesday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+  Section: T2-P19, CSE - MANI S V J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
+    Thursday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 10:00 – 11:00, 11:00 – 12:00
+
+Subject: 19AI412 [4 Credits]
+Type: PROFESSIONAL ELECTIVE
+Course Name: Web Data Mining
+Status: Full
+
+  Section: T2-F6, AI - Varalakshmi J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 10:00 – 11:00, 11:00 – 12:00
+    Monday: 15:00 – 16:00, 16:00 – 17:00
+    Saturday: 15:00 – 16:00, 16:00 – 17:00
+    Thursday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-E3, AI - Varalakshmi J
+    Date: 16-04-2026 to 06-06-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
+    Wednesday: 15:00 – 16:00, 16:00 – 17:00
+
+Subject: 19EN616 [1 Credits]
+Type: OPEN ELECTIVE
+Course Name: Yoga and Meditation
+Status: Full
+
+  Section: T2-W1, PED - Raghuram G
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
+
+  Section: T2-V20, PED - Raghuram G
+    Date: 16-04-2026 to 06-06-2026
+    Monday: 08:00 – 09:00, 09:00 – 10:00
