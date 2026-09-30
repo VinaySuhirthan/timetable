@@ -36,6 +36,7 @@ Status: Full
   Section: Tl-J18, A1 - ALAGUMANI S
     Date: 16-07-2026 to 26-09-2026
     Friday: 10:00 – 12:00
+    Monday: 10:00 – 11:00, 11:00 – 12:00
     Saturday: 15:00 – 17:00
     Wednesday: 15:00 – 17:00
 
@@ -116,6 +117,7 @@ Status: Full
 
   Section: Tl-V8, A1 - MANOJV
     Date: 16-07-2026 to 26-09-2026
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
     Thursday: 13:00 – 15:00
     Tuesday: 13:00 – 15:00
 
@@ -124,11 +126,6 @@ Status: Full
     Friday: 13:00 – 15:00
     Thursday: 15:00 – 17:00
     Wednesday: 15:00 – 17:00
-
-  Section: UG 04, A1 - Surabhi M
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
 
 Subject: 19AI404 [3 Credits]
 Type: PROFESSIONAL CORE
@@ -279,10 +276,6 @@ Type: OPEN ELECTIVE
 Course Name: Cloud Computing
 Status: Full
 
-  Section: PHASBI, A1 - AIDS & AIML
-    Date: 21-06-2026 to 21-06-2026
-    Monday: 18:08 – 18:09
-
   Section: Tl-BLENDED-2, A1 - Malathi K
     Date: 16-07-2026 to 26-09-2026
     Monday: 13:00 – 15:00
@@ -309,6 +302,7 @@ Status: Full
 
   Section: Tl-P14, A1 - Balaji Palani.
     Date: 16-07-2026 to 26-09-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
     Monday: 10:00 – 12:00
     Saturday: 15:00 – 17:00
 
@@ -352,12 +346,6 @@ Status: Full
     Friday: 08:00 – 10:00
     Saturday: 08:00 – 10:00
     Tuesday: 08:00 – 10:00
-
-  Section: UG- 04, Tl - M13, selva ReeganA
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
 
 Subject: 19HS602 [2 Credits]
 Type: OPEN ELECTIVE
@@ -434,39 +422,6 @@ Status: Full
     Saturday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-Subject: 19CS415 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: UG - 04, PHASE-I, CSE - AIDS & AIML
-Status: Full
-
-  Section: UG- 04, Tl - L17, CSE Arul O" A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-T12, CSE - Saravanan T
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: UG- 04, TI - UII, CSE Arul OKA
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-
-  Section: Tl-G19, CSE - Saravanan T
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
 Subject: 19CS418 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Cyber Law and Compliance
@@ -477,12 +432,6 @@ Status: Full
     Friday: 15:00 – 17:00
     Monday: 13:00 – 15:00
     Wednesday: 15:00 – 17:00
-
-  Section: UG- 04, TI - JII, Nagappan G
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
 
   Section: Tl-S7, CSE - Sangeetha Priya M
     Date: 16-07-2026 to 26-09-2026
@@ -503,6 +452,7 @@ Status: Full
 
   Section: Tl-A13, A1 - RENUGADEVIR
     Date: 16-07-2026 to 26-09-2026
+    Monday: 10:00 – 11:00, 11:00 – 12:00
     Saturday: 10:00 – 12:00
     Tuesday: 13:00 – 15:00
     Wednesday: 08:00 – 10:00
@@ -533,20 +483,6 @@ Status: Full
     Saturday: 15:00 – 17:00
     Thursday: 10:00 – 12:00
     Wednesday: 15:00 – 17:00
-
-  Section: UG 04, Tl - X8, R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-  Section: UG- 04, Tl - F8,A1 -
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 13:00 – 15:00
-    Saturday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
 
   Section: Tl-U7, A1 - POTNURI AMTHA
     Date: 16-07-2026 to 26-09-2026
@@ -610,6 +546,7 @@ Status: Full
 
   Section: TI-KIO, CSE - MAHALAKSHMI G
     Date: 16-07-2026 to 26-09-2026
+    Friday: 13:00 – 14:00, 14:00 – 15:00
     Thursday: 08:00 – 10:00
     Tuesday: 13:00 – 15:00
     Wednesday: 10:00 – 12:00
@@ -673,6 +610,7 @@ Status: Full
   Section: Tl-C18, A1 - MANIKANDAN sp
     Date: 16-07-2026 to 26-09-2026
     Monday: 15:00 – 17:00
+    Saturday: 13:00 – 14:00, 14:00 – 15:00
     Thursday: 10:00 – 12:00
 
   Section: Tl-D19, A1 - MANIKANDAN sp
@@ -713,6 +651,7 @@ Status: Full
 
   Section: Tl-A14, A1 - MANIKANDAN sp
     Date: 16-07-2026 to 26-09-2026
+    Friday: 15:00 – 16:00, 16:00 – 17:00
     Saturday: 15:00 – 17:00
     Thursday: 13:00 – 15:00
 
@@ -809,7 +748,7 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Wednesday: 17:34 – 17:35
 
-  Section: UG - 25, Tl - A66, CHEMISTRY
+  Section: Tl-A66, CHEMISTRY - Lavanya G
     Date: 16-07-2026 to 26-09-2026
     Friday: 17:26 – 17:27
 
@@ -965,17 +904,6 @@ Status: Full
     Thursday: 10:00 – 12:00
     Wednesday: 08:00 – 10:00
 
-  Section: T14214, A1 - RAMSHANKAR N
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-    Friday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 08:00 – 10:00
-
   Section: Tl-E13, A1 - PREMNATH K
     Date: 16-07-2026 to 26-09-2026
     Friday: 10:00 – 12:00
@@ -1012,12 +940,6 @@ Status: Full
     Monday: 13:00 – 15:00
     Saturday: 08:00 – 10:00
     Tuesday: 13:00 – 15:00
-
-  Section: UG- 04, Tl - G15, Devi S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
 
   Section: Tl-Y6, CSE - DeviS
     Date: 16-07-2026 to 26-09-2026
@@ -1251,18 +1173,6 @@ Status: Full
     Monday: 15:00 – 17:00
     Thursday: 15:00 – 17:00
 
-  Section: UG- 04, A1 - Muthu bariharan S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-  Section: UG 04, Tl - P9, A1 Jaashika K M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
 Subject: 19PH602 [3 Credits]
 Type: OPEN ELECTIVE
 Course Name: Course pyerview
@@ -1289,30 +1199,12 @@ Type: PROFESSIONAL CORE
 Course Name: Neural Networks
 Status: Full
 
-  Section: PHASFA, AI - AIDS & AIML
-    Date: 21-06-2026 to 21-06-2026
-    Monday: 17:44 – 17:45
-
-  Section: Tl-z„18, A1 - LAVANYA G SCOFT
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-
   Section: Tl-Z9, A1 - LAVANYA G SCOFT
     Date: 16-07-2026 to 26-09-2026
     Friday: 10:00 – 12:00
     Monday: 13:00 – 15:00
     Thursday: 10:00 – 12:00
     Tuesday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
 
 Subject: 19AI307 [3 Credits]
 Type: ENGINEERING SCIENCES
@@ -1574,13 +1466,6 @@ Status: Full
     Tuesday: 08:00 – 10:00
     Wednesday: 10:00 – 12:00
 
-  Section: UG- 04, TI - UIO,AI D PAVAI
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
 Subject: 19EY710 [1 Credits]
 Type: EMPLOYABILITY ENHANCEMENT COURSES
 Course Name: Quantitative Ability I
@@ -1610,10 +1495,6 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Monday: 10:00 – 12:00
     Wednesday: 15:00 – 17:00
-
-  Section: PHASFA, TRAINING - AIDS & AIML
-    Date: 21-06-2026 to 21-06-2026
-    Tuesday: 22:30 – 22:31
 
   Section: Tl-C13, TRAINING - MATHIVANAN A
     Date: 16-07-2026 to 26-09-2026
@@ -1664,10 +1545,6 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Monday: 13:00 – 15:00
     Tuesday: 10:00 – 12:00
-
-  Section: PHASBI, TRAINING - AIDS & AIML
-    Date: 21-06-2026 to 21-06-2026
-    Tuesday: 22:32 – 22:33
 
   Section: Tl-K17, TRAINING - PREMKUMAR p
     Date: 16-07-2026 to 26-09-2026
@@ -1751,17 +1628,6 @@ Status: Full
     Date: 16-07-2026 to 26-09-2026
     Thursday: 15:00 – 17:00
     Wednesday: 10:00 – 12:00
-
-Subject: 19EE603 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Renewable Energy Sources
-Status: Full
-
-  Section: UG- 05, TI - RI, EEE Hemalatha R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
 
 Subject: 19CS422 [3 Credits]
 Type: PROFESSIONAL ELECTIVE
@@ -1854,18 +1720,6 @@ Status: Full
     Monday: 15:00 – 17:00
     Thursday: 15:00 – 17:00
     Wednesday: 10:00 – 12:00
-
-  Section: UG- 04, TI - IIO, CSE MANIS VJ
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Saturday: 15:00 – 17:00
-
-  Section: UG- 04, Tl - V19, CSE MANI S V J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
 
 Subject: 19AM401 [4 Credits]
 Type: PROFESSIONAL CORE
