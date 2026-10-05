@@ -79,3 +79,10 @@
 2026-09-30 20:45:39,867 - activity - INFO - REQ GET /staff/19AI307 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI307 staff=3
 2026-09-30 20:45:39,867 - activity - INFO - REQ GET /staff/19AI411 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI411 staff=2
 2026-09-30 20:45:39,882 - activity - INFO - REQ GET /staff/19AI410 status=200 user=fennixag@gmail.com ip=127.0.0.1 time=1ms subject=19AI410 staff=6
+2026-10-05 19:41:15,656 - activity - INFO - ================================================================================
+2026-10-05 19:41:15,656 - activity - INFO - Timetable Generator started
+2026-10-05 19:41:15,656 - activity - INFO - Rate limiting: 100 req/60s
+2026-10-05 19:41:15,656 - activity - INFO - CORS Origins: ['*']
+2026-10-05 19:41:15,656 - activity - INFO - ================================================================================
+2026-10-05 19:41:15,656 - activity - INFO - Loading courses...
+2026-10-05 19:41:15,802 - activity - INFO - Loaded 128 courses at startup
