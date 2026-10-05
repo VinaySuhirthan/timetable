@@ -1,1796 +1,1947 @@
-Subject: 19ME533 [4 Credits]
-Type: OPEN ELECTIVE
-Course Name: 3D Printing processes
-Status: Full
-
-  Section: Tl-B9, MECH - Sellakumar S
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-H8, MECH - RAJA T
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-W7, MECH - CALEB DANIEL R
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AI305 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: Advanced C Programming
-Status: Full
-
-  Section: Tl-119, A1 - KRISHNAMOORTHY J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-J18, A1 - ALAGUMANI S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 11:00, 11:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-N16, A1 - ALAGUMANI S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-
-  Section: TI-VII, AI - Kiruthika S S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-N18, A1 - Kiruthika S S
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-N17, A1 - Kumaravelu R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-D17, A1 - KRISHNAMOORTHY J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-C20, A1 - Nagendran k
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-P19, A1 - Kumaravelu R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-  Section: TI-TIO, AI - Nagendran k
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19AI553 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Advanced Java Web Applications
-Status: Full
-
-  Section: Tl-A24, A1 - Surabhi M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-N9, A1 - Surabhi M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-
-  Section: Tl-T13, A1 - MANOJ V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-V8, A1 - MANOJV
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 14:00, 14:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-D9, A1 - MANOJ V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19AI404 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Course pverview
-Status: Full
-
-  Section: Tl-Y8, A1 - MANICKAM S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-U8, A1 - MANICKAM S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Saturday: 10:00 – 12:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-C4, A1 - S S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-
-  Section: TI-PIO, AI - Sasikala K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-G8, A1 - Sasikala K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19AI409 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Applied Artificial Intelligence
-Status: Full
-
-  Section: Tl-B20, A1 - Swedha .V
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-J14, A1 - Saravanan N
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Saturday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-Y9, A1 - Swedba .V
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AI550 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Course pyerview
-Status: Full
-
-  Section: Tl-V17, AM - Uma Rani V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: TI-AIO, AM - Uma Rani V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19MSIS41 [3 Credits]
-Type: HUMANITIES AND SCIENCES
-Course Name: Basic F inancial Accounting
-Status: Full
-
-  Section: Tl-L12, MBA - ELANGO J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-
-  Section: TI-JIO, MBA - Anitha L
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-D15, MBA - PERIASAMY P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-
-Subject: 19AI516 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Big Data Mining and Analysis
-Status: Full
-
-  Section: Tl-C14, A1 - DHANALAKSHMI J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-
-  Section: TI-KII, A1 - DHANALAKSHMI J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-P13, A1 - DHANALAKSHMI J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19AI547 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Course pyerview
-Status: Full
-
-  Section: Tl-Y17, A1 - KALADEVIR (TSA1042)
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-X17, A1 - KALADEVIR (TSA1042)
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AIS41 [4 Credits]
-Type: OPEN ELECTIVE
-Course Name: Cloud Computing
-Status: Full
-
-  Section: Tl-BLENDED-2, A1 - Malathi K
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-
-  Section: TI-BLENDED-I, AI - Malathi K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 15:00 – 17:00
-
-  Section: Tl-R17, A1 - SARATHI SUBRAMANI
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-BLENDED-4, A1 - SHOBANA M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-
-  Section: Tl-BLENDED-3, A1 - SHOBANA M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 15:00 – 17:00
-
-  Section: Tl-P14, A1 - Balaji Palani.
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 16:00, 16:00 – 17:00
-    Monday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-
-  Section: TI-XIO, A1 - Balaji Palani .
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-D8, A1 - SARATHI SUBRAMANI
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 15:00 – 17:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-  Section: TI-BLENDED, AI - Malathi K
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-BLENDED-5, A1 - SHOBANA M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-
-Subject: 19CS416 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Cloud Security
-Status: Full
-
-  Section: Tl-U12, CSE - Selva ReeganA
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: TI-HII, CSE - A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-Subject: 19HS602 [2 Credits]
-Type: OPEN ELECTIVE
-Course Name: Course pyerview
-Status: Full
-
-  Section: Tl-L8, ENGLISH - GOPALARAMASUBRAMANIYAN G
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-
-  Section: Tl-J12, ENGLISH - GOPALAIWMASUBIWMANIYAN G
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 15:00 – 17:00
-
-Subject: 19CS409 [4 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Compiler Design
-Status: Full
-
-  Section: Tl-B14, CSE - Ramachandran A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-
-  Section: Tl-L13, CSE - Ramachandran A
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-  Section: TI-HIO, CSE - Anitha Julian
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: TI-RII, CSE - Ramachandran A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19EC604 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Consumer Electronics
-Status: Full
-
-  Section: TI-QI, ECE - Sowmiya Manoj M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19CS556 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Core Computing Concepts
-Status: Full
-
-  Section: Tl-X19, CSE - PREMKUMAR K
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-F15, CSE - PREMKUMAR K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-E19, CSE - PREMKUMAR K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19CS418 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Cyber Law and Compliance
-Status: Full
-
-  Section: Tl-A12, CSE - Sangeetha Priya M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 13:00 – 15:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-S7, CSE - Sangeetha Priya M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-
-Subject: 19AI408 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Course pvervie"'
-Status: Full
-
-  Section: Tl-F13, A1 - Silambarasi C
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Thursday: 15:00 – 17:00
-
-  Section: Tl-A13, A1 - RENUGADEVIR
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 11:00, 11:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: TI-LII, AI - POTNURI AMTHA
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-  Section: TI-ZIO, A1 - Dinesh Babu G L
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: TI-RIO, AI - Dinesh Babu G L
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-J9, A1 - Silambarasi C
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 15:00 – 17:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-U7, A1 - POTNURI AMTHA
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19CS404 [4 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Database Management System and its Applications
-Status: Full
-
-  Section: Tl-BLENDED-2, CSE - ABINAYA G
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-
-  Section: Tl-S20, CSE - MAHALAKSHMI G
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-  Section: TI-BLENDED, CSE - ABINAYA G
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 10:00 – 12:00
-
-  Section: Tl-X14, CSE - Panimalar S.P.
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-A30, CSE - Thirunavukkarasu S
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-R19, CSE - Panimalar S.p.
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-  Section: TI-BLENDED-I, CSE - ABINAYA G
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-118, CSE - KUMARAN U
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: TI-KIO, CSE - MAHALAKSHMI G
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 14:00, 14:00 – 15:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AI413 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Deep Learning and its Applications
-Status: Full
-
-  Section: TI-BLENDED-I, A1 - varalaksrrrni J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Wednesday: 15:00 – 17:00
-
-  Section: TI-BLENDED, AI - varalakshmi J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 15:00 – 17:00
-
-  Section: Tl-J17, A1 - SREE LAKSHMI S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-B17, A1 - SREE LAKSHMI S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-L16, A1 - MICHAEL MAHESH K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Saturday: 15:00 – 17:00
-    Thursday: 10:00 – 12:00
-
-  Section: Tl-BLENDED-2, A1 - Varalakshmi J
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-Subject: 19CS419 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Digital Forensics and Digital Investigations
-Status: Full
-
-  Section: TI-GII, CS - Suresh Kumar K
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-Subject: 19AI406 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Digital Image Processing Techniques
-Status: Full
-
-  Section: Tl-C18, A1 - MANIKANDAN sp
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 13:00 – 14:00, 14:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-  Section: Tl-D19, A1 - MANIKANDAN sp
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-M12, A1 - BHANU PRIYA p
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-V12, A1 - HEMA R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-X16, A1 - SUGUNA DEVI R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-T15, A1 - NARESH V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-H15, A1 - MICHAEL MAHESH K
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Thursday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-A14, A1 - MANIKANDAN sp
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 16:00, 16:00 – 17:00
-    Saturday: 15:00 – 17:00
-    Thursday: 13:00 – 15:00
-
-Subject: 19CS421 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: PROFESSIONAL ELECTIVE
-Status: Full
-
-  Section: Tl-Q18, CSE - ANNA PALAGAN C
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 10:00 – 12:00
-
-Subject: 19EY712 [1 Credits]
-Type: EMPLOYABILITY ENHANCEMENT COURSES
-Course Name: Employment Enrichment Skills
-Status: Full
-
-  Section: Tl-Y13, TRAINING - PRIYA DARSHINI S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-
-  Section: TI-CI, TRAINING - PRIYA DARSHINIS
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AI302 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: overview
-Status: Full
-
-  Section: Tl-H17, A1 - SUDHARSAN K
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-V14, A1 - SUDHARSAN K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-Q15, A1 - SUDHARSAN K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CS580 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Enterprise Cyber Security and Threat Detection
-Status: Full
-
-  Section: Tl-F19, CSE - AUGUSTIAN ISAAC R
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CS570 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Entrepreneurship and Small Business Development
-Status: Full
-
-  Section: Tl-N20, CSE - HAND IN HAND FACULTY - 1
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-M20, CSE - HAND IN HAND FACULTY - 1
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CY801 [2 Credits]
-Type: BASIC SCIENCES
-Course Name: Environmental Sciences and Sustainability
-Status: Full
-
-  Section: Tl-A69, CHEMISTRY - SHANTHI S
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 17:32 – 17:33
-
-  Section: Tl-A64, CHEMISTRY - Mettilda M
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 17:22 – 17:23
-
-  Section: Tl-A70, CHEMISTRY - B MOHAMAD ALI
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 17:34 – 17:35
-
-  Section: Tl-A66, CHEMISTRY - Lavanya G
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 17:26 – 17:27
-
-Subject: 19CS417 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Ethical Hacking Techniques
-Status: Full
-
-  Section: Tl-A15, CSE - AUGUSTIAN ISAAC R
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-G17, CSE - AUGUSTIAN ISAAC R
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19AI555 [3 Credits]
-Type: PROFESSIONAL ELECr1VE
-Course Name: Exploratory Data Analysis
-Status: Full
-
-  Section: Tl-P20, A1 - BHARATHIA
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-J15, A1 - BHARATHI A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-D14, A1 - BHARATHI A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CY601 [2 Credits]
-Type: OPEN ELECTIVE
-Course Name: Food Nutrition and Health Technology
-Status: Full
-
-  Section: Tl-A28, CHEMISTRY - B MOHAMAD ALI
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-
-  Section: Tl-M9, CHEMISTRY - Yamini B
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-
-  Section: Tl-W6, CHEMISTRY - Muthupandian P
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-
-  Section: TI-FS, CHEMISTRY - Lavanya G
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-
-  Section: Tl-F9, CHEMISTRY - Vivekanand p A
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-L7, CHEMISTRY - SHANTHI S
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-B4, CHEMISTRY - DOLLI H
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 15:00 – 17:00
-
-  Section: TI-EIO, CHEMISTRY - Anand S
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-
-  Section: Tl-Q7, CHEMISTRY - Shramna Queenthy S
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 08:00 – 10:00
-
-Subject: 19AI405 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Fundamentals of Artificial Intelligence
-Status: Full
-
-  Section: Tl-Y14, A1 - SUNITHA T
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-U13, AI - RAJALAKSHMI E
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-J13, A1 - PUGALENTHIR
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 08:00 – 10:00
-
-  Section: TI-NII, AI - Murugesan S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-S9, A1 - Murugesan S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-R9, A1 - PUGALENTHIR
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-19, A1 - RAJALAKSHMI E
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Saturday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-G9, A1 - PREMNATH K
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-W8, A1 - SUNITHA T
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-D4, A1 - YASHINI P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-E13, A1 - PREMNATH K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19AI304 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: Course pyerview
-Status: Full
-
-  Section: Tl-W18, A1 - Shankar P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-E16, A1 - Shankar P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19CSS47 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Fundamentals of Cryptocurrency
-Status: Full
-
-  Section: Tl-N15, CSE - Devi S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-Y6, CSE - DeviS
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AI513 [4 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Game Programming
-Status: Full
-
-  Section: Tl-A17, A1 - MONOLITH FACULTY
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-Z16, A1 - MONOLITH FACULTY
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19CS579 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Generative Al Application Development
-Status: Full
-
-  Section: TI-BLENDED, CSE - Jat,a Jasphin E.T
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-Subject: 19AM509 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Industrial Intemet of Things
-Status: Full
-
-  Section: Tl-B18, AM - ANNA PALAGAN C
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-
-Subject: 19GE628 [2 Credits]
-Type: OPEN ELECTIVE
-Course Name: Industrial Product Development and Prototyping
-Status: Full
-
-  Section: Tl-A26, A1 - Sellakumar S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Thursday: 15:00 – 17:00
-
-  Section: Tl-T7, A1 - YUVARAJ M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-Subject: 19PH601 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Instrumentation and Applied Physics in Engineering
-Status: Full
-
-  Section: Tl-J2, PHYSICS - Priya M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-
-Subject: 19AI403 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Conrse overview
-Status: Full
-
-  Section: Tl-117, A1 - VISHNUPRIYA K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-Y16, A1 - VISHNUPRIYAK
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-T16, A1 - Karthi Govindharaju
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: TI-DII, A1 - Dhinesh Kumar KS
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-W17, A1 - VISHNUPRIYAK
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AM508 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Conrse overview
-Status: Full
-
-  Section: TI-EII, IOT - SAVITHA V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: TI-FIO, IOT - KarthigaM
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-E9, IOT - ANNA PALAGAN C
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-Subject: 19EC602 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Introduction to Micro Electro Mechanical Systems
-Status: Full
-
-  Section: TI-NS, ECE - Lingaraja D
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AI533 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Introduction to Robotics
-Status: Full
-
-  Section: Tl-Z17, A1 - RAJAT
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AI534 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Kinematics and Dynamics of Robots
-Status: Full
-
-  Section: Tl-L20, A1 - RAJAT
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-X20, A1 - Sellakumar S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 15:00 – 17:00
-    Saturday: 10:00 – 12:00
-
-Subject: 19AI539 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Mobile User Interface Development
-Status: Full
-
-  Section: Tl-E18, A1 - Surya S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-H20, A1 - Surya S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-T18, A1 - Surya S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-
-Subject: 19EN605 [2 Credits]
-Type: OPEN ELECTIVE
-Course Name: Modern Trends in Physical Education and Sports Sciences
-Status: Full
-
-  Section: TI-UIS, ENGLISH - Balasingh D
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 08:00 – 10:00
-
-  Section: TI-SI, ENGLISH - Prabhakaran G
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 15:00 – 17:00
-
-Subject: 19AI545 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Modem Web Application Development
-Status: Full
-
-  Section: Tl-114, A1 - Muthu hariharan S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-H12, A1 - J•aashika K M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: TI-BII, AI - Jaashika KM
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-  Section: TI-GIO, AI - Muthu hariharan S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-
-Subject: 19PH602 [3 Credits]
-Type: OPEN ELECTIVE
-Course Name: Course pyerview
-Status: Full
-
-  Section: TI-PI, PHYSICS - Silambarasan M
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-
-Subject: 19CS581 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Network Infrastructure and Protocols
-Status: Full
-
-  Section: Tl-U19, CSE - SUNDARAVADIVEL P
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 08:00 – 10:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-
-Subject: 19AI411 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Neural Networks
-Status: Full
-
-  Section: Tl-Z9, A1 - LAVANYA G SCOFT
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19AI307 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: Object Oriented Programming using Java
-Status: Full
-
-  Section: Tl-C17, A1 - Tenali Ravi Kumar
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-A16, A1 - Shanmuga Priya S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-N7, A1 - Shanmuga Priya S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-
-  Section: Tl-S13, A1 - NANDAKUMAR S D
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-Z12, A1 - Magitha Nirmala Tennyson
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Saturday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-X9, A1 - TenaliRavi Kumar
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-
-  Section: Tl-T9, A1 - KSARANYA
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-L9, A1 - NANDAKUMAR S D
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CS545 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Open Source Operating System
-Status: Full
-
-  Section: Tl-A22, CSE - ADVANTAGE PRO FACULTY
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-A21, CSE - ADVANTAGE PRO FACULTY
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19AI407 [4 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Parallel Computing Architecture
-Status: Full
-
-  Section: Tl-Z19, A1 - Sathya U
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-  Section: TI-BLENDED-I, A1 - Aswini J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Tuesday: 15:00 – 17:00
-
-  Section: TI-BLENDED, A1 - Aswini J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-
-  Section: Tl-N12, A1 - Sathya U
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-T19, A1 - Sathya U
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19PH814 [3 Credits]
-Type: BASIC SCIENCES
-Course Name: Physics for Quantum Computing
-Status: Full
-
-  Section: Tl-E15, PHYSICS - Sangeetha L
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-  Section: TI-PIS, PHYSICS - Silambarasan M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-
-Subject: 19EE309 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: Programming Microcontrollers
-Status: Full
-
-  Section: Tl-Q20, A1 - VAIGUNDAMOORTHI M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-U17, A1 - SAVITHA V
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-A25, A1 - VAIGUNDAMOORTHI M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-
-  Section: Tl-W12, A1 - M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Saturday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-U16, A1 - PRABHU M S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 13:00 – 15:00
-    Thursday: 15:00 – 17:00
-
-  Section: Tl-H14, A1 - MARISARGUNAM S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-
-Subject: 19AI540 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Programming Mobile Devices
-Status: Full
-
-  Section: Tl-W20, A1 - THAVA VINU A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-S18, A1 - THAVA VINU A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-D18, A1 - THAVA VINU A
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19TD608 [2 Credits]
-Type: OPEN ELECTIVE
-Course Name: prompt Engineering
-Status: Full
-
-  Section: Tl-V7, A1 - Dr C. Rajendra Thilahar
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-
-  Section: Tl-R7, A1 - Dr C. Rajendra Thilahar
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-M7, A1 - Hemavathy P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-X15, A1 - P
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-    Thursday: 10:00 – 12:00
-
-  Section: TI-GS, AI - Dr C. Rajendra Thilahar
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Saturday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-
-Subject: 19CS420 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: PROFESSIONAL ELECTIVE
-Status: Full
-
-  Section: Tl-G18, IOT - Sripriya Ranganathan
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Saturday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19AI301 [3 Credits]
-Type: ENGINEERING SCIENCES
-Course Name: Python Programming
-Status: Full
-
-  Section: Tl-A45, A1 - D PAVAI
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-A42, AI - Mariya Monica Celestina A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-A54, A1 - Mariya Monica Celestina A
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19EY710 [1 Credits]
-Type: EMPLOYABILITY ENHANCEMENT COURSES
-Course Name: Quantitative Ability I
-Status: Full
-
-  Section: Tl-E17, TRAINING - AYILYABL
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 15:00 – 17:00
-
-  Section: Tl-Z14, TRAINING - SHABANAS
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-
-  Section: Tl-G13, TRAINING - MEGALAJ
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: TI-PII, TRAINING - ELUMALAI K
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Tuesday: 13:00 – 15:00
-
-  Section: TI-BIO, TRAINING - RAVINDRA BABU G
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-C13, TRAINING - MATHIVANAN A
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-R14, TRAINING - PREMKUMARP
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Thursday: 15:00 – 17:00
-
-  Section: TI-WIO, TRAINING - ARUNACHALAM S
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-Y12, TRAINING - Manoj Krishna M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Saturday: 15:00 – 17:00
-
-Subject: 19EV711 [1 Credits]
-Type: EMPLOYABILITY ENHANCEMENT COURSES
-Course Name: Quantitative Ability 11
-Status: Full
-
-  Section: Tl-P16, TRAINING - PRASATH M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-R13, TRAINING - Manoj Krishna M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Saturday: 08:00 – 10:00
-
-  Section: Tl-H9, TRAINING - MATHIVANAN A
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-A9, TRAINING - ELUMALAI K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-
-  Section: TI-KI, TRAINING - SHABANA S
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-K17, TRAINING - PREMKUMAR p
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-C16, TRAINING - MATHIVANAN A
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-K8, TRAINING - ARUNACHALAM S
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-E8, TRAINING - PREMKUMAR p
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-Y7, TRAINING - Manoj Krishna M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-X13, TRAINING - PRASATH M
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-V9, TRAINING - MEGALAJ
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Wednesday: 15:00 – 17:00
-
-  Section: Tl-U18, TRAINING - SHABANA S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Thursday: 10:00 – 12:00
-
-Subject: 19CS529 [3 Credits]
-Type: PROFESSIONAL ELECr1VE
-Course Name: Quantum Computing
-Status: Full
-
-  Section: Tl-A40, A1 - GOBALAKRISHNAN N
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-
-  Section: Tl-AS5, A1 - GOBALAKRISHNAN N
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-
-  Section: Tl-ll, A1 - GOBALAKRISHNAN N
-    Date: 16-07-2026 to 26-09-2026
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AI505 [3 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Course pyerview
-Status: Full
-
-  Section: TI-BLENDED-I, A1 - Jaba Jas-phil' E.T
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-L14, A1 - Jayanthi G
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-BLENDED-2, A1 - Jaba Jasphin E.T
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19CS422 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Security for IoT Systems
-Status: Full
-
-  Section: Tl-R18, CSE - Sripriya Ranganathan
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Saturday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CS408 [4 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Software Engineering
-Status: Full
-
-  Section: Tl-F17, CSE - VIMITHA R VIDHYA LAKSHMI
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-K15, CSE - DIVYA K TSCS228
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-B15, CSE - N.V
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 15:00 – 17:00
-    Tuesday: 13:00 – 15:00
-
-  Section: Tl-S14, CSE - VIMITHAR VIDHYA LAKSHMI
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Monday: 10:00 – 12:00
-    Saturday: 13:00 – 15:00
-
-  Section: Tl-W16, CSE - DIVYAK TSCS228
-    Date: 16-07-2026 to 26-09-2026
-    Thursday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-R16, CSE - VIMITHA R VIDHYA LAKSHMI
-    Date: 16-07-2026 to 26-09-2026
-    Saturday: 10:00 – 12:00
-    Tuesday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-112, CSE - DIVYA K TSCS228
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-    Wednesday: 08:00 – 10:00
-
-Subject: 19MS1551 [3 Credits]
-Type: HUMANITIES AND SCIENCES
-Course Name: Stock Market and Company Operations
-Status: Full
-
-  Section: Tl-P12, MBA - SEEMABALAN
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 10:00 – 12:00
-    Saturday: 10:00 – 12:00
-    Wednesday: 10:00 – 12:00
-
-  Section: TI-SIO, MBA - GANESAN ALIAS KANAGARAJ M
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 08:00 – 10:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 08:00 – 10:00
-
-  Section: Tl-D12, MBA - Sathiyamurthi K
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 10:00 – 12:00
-    Tuesday: 10:00 – 12:00
-
-Subject: 19CS407 [3 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Theory Of Computation
-Status: Full
-
-  Section: Tl-Y19, CSE - MANI S V J
-    Date: 16-07-2026 to 26-09-2026
-    Monday: 15:00 – 17:00
-    Thursday: 15:00 – 17:00
-    Wednesday: 10:00 – 12:00
-
-Subject: 19AM401 [4 Credits]
-Type: PROFESSIONAL CORE
-Course Name: Time Series Analysis and Forecasting
-Status: Full
-
-  Section: Tl-Q13, AM - Sathish Babu S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 13:00 – 15:00
-
-Subject: 19MA219 [4 Credits]
-Type: BASIC SCIENCES
-Course Name: Transforms and its Applications
-Status: Full
-
-  Section: Tl-T17, Maths - Radha M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-    Tuesday: 10:00 – 12:00
-
-  Section: Tl-A20, Maths - SUREKHA S S
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Thursday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-    Wednesday: 15:00 – 17:00
-
-Subject: 19AI412 [4 Credits]
-Type: PROFESSIONAL ELECTIVE
-Course Name: Web Data Mining
-Status: Full
-
-  Section: TI-QIO, AI - VINOTHINI M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 08:00 – 10:00
-    Monday: 13:00 – 15:00
-    Saturday: 08:00 – 10:00
-    Thursday: 08:00 – 10:00
-
-  Section: Tl-U9, A1 - SATHEESKUMAR R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 15:00 – 17:00
-    Monday: 15:00 – 17:00
-    Saturday: 13:00 – 15:00
-    Tuesday: 15:00 – 17:00
-
-  Section: Tl-E4, A1 - VINOTHINI M
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 13:00 – 15:00
-    Monday: 10:00 – 12:00
-    Thursday: 13:00 – 15:00
-    Wednesday: 10:00 – 12:00
-
-  Section: Tl-Q9, A1 - SATHEESKUMAR R
-    Date: 16-07-2026 to 26-09-2026
-    Friday: 10:00 – 12:00
-    Saturday: 15:00 – 17:00
-
-Subject: 19EN616 [1 Credits]
-Type: OPEN ELECTIVE
-Course Name: Yoga and Meditation
-Status: Full
-
-  Section: Tl-A60, PED - Raghuram G
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 08:00 – 10:00
-
-  Section: Tl-A61, PED - Raghuram G
-    Date: 16-07-2026 to 26-09-2026
-    Tuesday: 10:00 – 12:00
+19ME533 14 Creditsl
+OPEN ELECTIVE - OPEN ELECTIVE
+Course overview
+3D Printing processes
+UG - 08, PHASE-I, MECH - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 23:34 - 23:35
+UG - 08, Tl-B9, MECH - Sellakumar S
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+Wednesday: 15:00 - - 17:00
+UG - 08, Tl-H8, MECH- RAJA T
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Thursday: 10:00 - 12:00
+Wednesday: 15:00- 17:00
+UG - 08, Tl-W7, MECH - CALEB DANIEL R
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+19TD609 p Creditsl
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course overview
+Abroad Studies Entry Preparation
+UG - 25, Tl-R8, ENGLISH - Saranya V
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Thursday: 13:00 - 15:00
+UG - 25, PHASE-I, ENGLISH - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:12 - 0:13
+UG - 25, Tl-Z7, ENGLISH - MEGALA J
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Wednesday: 10:00 - 12:00
+19A1305 [3 Creditsl
+ENGINEERING SCIENCES
+Course Overview
+Advanced C Programming
+ENGINEERING SCIENCES
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:24 - 17:25
+UG - 04, Tl-119, A1- KRISHNAMOORTHY J
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-J18, A1 - ALAGUMANI S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Monday: 10:00 - 11:0011 - 12:00
+Saturday: 15:00 - 17:00
+Wednesday: 15:00 - 17:00
+UG - 04, Tl-N16, A1 - ALAGUMANI S
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 15:00 - 17:00
+UG 04, TI-VII,AI- Kiruthika S S
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - - 10:00
+Tuesday: 13:00 - 15:00
+UG- 04, Tl-N18,A1 - Kiruthika S S
+Date: 16-07-2026 to 26-09-2026
+Friday: 12:00
+Thursday: 13:00 15:00
+Tuesday: 10:00 - 12:00
+Wednesday: 12:00
+UG - 04, Tl-N17, A1- Kumaravelu R
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Thursday: 13:00 - - 15:00
+Tuesday: 13:00 - - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-D17, A1- KRISHNAMOORTHY J
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - 15:00
+Thursday: 15:00 - - 17:00
+Tuesday: - - 12:00
+Wednesday: 10:00- 12:00
+UG- 04, Tl-C20, A1- Nagendran k
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Saturday: 13:00 - 15:00
+Thursday: 13:00 - - 15:00
+Tuesday: 15:00 - - 17:00
+UG- 04, Tl-P19,A1- Kumaravelu R
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Thursday: 08:00 - - 10:00
+Tuesday: 08:00 - - 10:00
+UG- 04, TI-TIO,AI - Nagendran k
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+Wednesday: 10:00 - 110011:00 - 12:00
+19A1553 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Advanced Java Web Applications
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:16 18:17
+UG - 04, Tl-A24, A1 - Surabhi M
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Monday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-N9, A1 - Surabhi M
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 08:00 - - 10:00
+Thursday: 13:00 - 15:00
+UG - 04, Tl-T13, A1- MANOJ V
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Saturday: 15:00 - - 17:00
+Tuesday: 15:00 - 17:00
+UG 04, Tl-V8, A1- MANOJV
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 14001400- 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG 04, Tl-D9, A1 - MANOJ V
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Thursday: 15:00 - 17:00
+Wednesday: 15:00 - - 17:00
+UG 04, A1 - Surabhi M
+Date: 16-07-2026 to 26-09-2026
+Saturday: 12:00
+Thursday. 08:00 - 10:00
+Wednesday: 10:00 12:00
+19A1404 [3 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE PC
+Course pverview
+Analysis of Algorithms
+UG - 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:30 - 17:31
+UG - 04, Tl-Y8, A1 - MANICKAM S
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Monday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-U8, A1 - MANICKAM S
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 08:00 - 10:00
+Saturday: 10:00 - 12:00
+Thursday: 08:00 - 10:00
+UG- 04, Tl-C4, A1 - S S
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Tuesday: 13:00 - 15:00
+UG- 04, TI-PIO,AI- Sasikala K
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Saturday: 13:00 15:00
+Tuesday: 08:00 - 10:00
+Wednesday: 10:00 12:00
+UG 04, Tl-G8, A1 - Sasikala K
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Saturday: - 12:00
+Thursday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+19A1409 [3 credibl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Applied Artificial Intelligence
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:40 - 17:41
+UG - 04, Tl-A19, A1 - Saravanan N
+Date: 16-07-2026 to 2609-2026
+Friday: 08:00 - - 10:00
+Monday: 08:00 - 10:00
+Saturday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+UG - 04, Tl-B20, A1- Swedha .V
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 10:00 12:00
+Thursday: 10:00 - 12:00
+Wednesday: 10:00 - 12:00
+UG 04, Tl-J14, A1 - Saravanan N
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Saturday: 13:00 - 15:00
+Wednesday: 10:00 - - 12:00
+UG 04, Tl-Y9,A1 - Swedba .V
+Date: 16-07-2026 to 26-09-2026
+Saturday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+19A1550 [3 Credits'
+PROFESSIONAL CORE - PROFESSIONAL CORE PC
+Course pyerview
+Artificial Intelligence for Games
+UG - 04, PHASE-I,AM- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:14 - 18:15
+UG 04, Tl-V17, AM - Uma Rani V
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Saturday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG- 04, TI-AIO,AM - Uma Rani V
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Saturday: 10:00 - 12:00
+Wednesday: 10:00 - - 12:00
+19MSIS413 Creditsl
+HUMANITIES AND SCIENCES - HUMANITIES AND SCIENCES
+Course overview
+Basic F inancial Accounting
+UG 04, Tl-L12, MBA- ELANGO J
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Thursday: 15:00 17:00
+UG - 04, PHASE-I, MBA - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 23:52 - 23:53
+UG- 04, TI-JIO, MBA - Anitha L
+Date: 16-07-2026 to 26-09-2026
+Saturday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Tuesday: 15:00 - 17:00
+UG - 04, Tl-D15, MBA - PERIASAMY P
+Date: 16-07-2026 to 26-09-2026
+Friday. 08:00 - - 10:00
+Saturday: - 12:00
+Thursday: 13:00 - 15:00
+19A1516 [3 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Big Data Mining and Analysis
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:58 - 17:59
+UG - 04, Tl-C14, A1 - DHANALAKSHMI J
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 08:00 - 10:00
+UG - 04, TI-KII, A1 - DHANALAKSHMI J
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-P13, A1- DHANALAKSHMI J
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Saturday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+19A1547 [3 Credits'
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course pyerview
+Blockchain for Business
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:12 - 18:13
+UG - 04, Tl-Y17, A1 - KALADEVIR (TSA1042)
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Thursday: 10:00 - 12:00
+Wednesday: 10:00 - - 12:00
+UG - 04, Tl-X17, A1 - KALADEVIR (TSA1042)
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+19AIS41 14 Creditsl
+OPEN ELECTIVE - OPEN ELECHVE-OE
+Course overview
+Cloud Computing
+UG - 04, PHASBI, A1 - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:08 - 18:09
+UG - 04, Tl-BLENDED-2, A1- Malathi K
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 15:00 17:00
+UG - 04, TI-BLENDED-I, AI - Malathi K
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Monday: 15:00 17:00
+UG - 04, Tl-R17, A1- SARATHI SUBRAMANI
+Date: 16-07-2026 to 26-09-2026
+Friday. - 15:00
+Monday: - 12:00
+Saturday: 17:00
+Tuesday: 15:00 - - 17:00
+UG - 04, Tl-BLENDED-4,A1- SHOBANA M
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+UG - 04, Tl-BLENDED-3,A1- SHOBANA M
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - 15:00
+Monday: 15:00 - 17:00
+UG- 04, Tl-P14,A1- Balaji Palani.
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 16001600- 17:00
+Monday: 10:00 - 12:00
+Saturday: 15:00 17:00
+Tuesday: 10:00 110011:00 - 12:00
+UG- 04, TI-XIO, A1- Balaji Palani .
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Monday: 13:00 - 15:00
+Tuesday: 15:00 17:00
+Wednesday: 15:00- - 17:00
+UG - 04, Tl-D8, A1 - SARATHI SUBRAMANI
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - - 17:00
+Monday: 15:00 - 17:00
+Saturday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+UG 04, TI-BLENDED,AI- Malathi K
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 08:00 - 10:00
+UG - 04, Tl-BLENDED-5, A1- SHOBANA M
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Thursday: 15:00 - 17:00
+19CS416 13 CreditSl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Cloud Security
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:38 - 19:39
+UG- 04, Tl-U12, CSE- Selva ReeganA
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG- 04, TI-HII, CSE - A
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Saturday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+UG- 04, Tl-M13, selva ReeganA
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+Wednesday: 10:00 12:00
+19HS602 [2 Credits'
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course pyerview
+Community Engagement and Social Responsibility
+UG - 25, Tl-L8, ENGLISH - GOPALARAMASUBRAMANIYAN G
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+UG - 25, PHASE-I, ENGLISH - AIDS & AIMI,
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:38 - 22:39
+UG - 25, Tl-J12, ENGLISH - GOPALAIWMASUBIWMANIYAN G
+Date: 16-07-2026 to 26-09-2026
+Saturday: 15:00 - 17:00
+19CS409 14 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Compiler Design
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:34 - 19:35
+UG - 04, Tl-B14, CSE - Ramachandran A
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+UG 04, Tl-L13, CSE - Ramachandran A
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 12:00
+Thursday: 10:00 - 12:00
+UG 04, TI-HIO, CSE - Anitha Julian
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+Wednesday: 15:00 - 17:00
+UG- 04, TI-RII, CSE - Ramachandran A
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Saturday: 15:00 - - 17:00
+Wednesday. 15:00 - - 17:00
+19EC604 13 Credibl
+OPEN ELECTIVE - OPEN ELECTIVE
+Course overview
+Consumer Electronics
+UG - 06, PHASE-I, ECE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 21:10 21:11
+UG - 06, TI-QI, ECE - Sowmiya Manoj M
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Thursday: 10:00 - 12:00
+Wednesday: 08:00 - - 10:00
+19CS556 13 Creditsl
+PROFESSIONAL ELECTIVE
+Course overview
+Core Computing Concepts
+PROFESSIONAL ELECTIVE
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:58 - 19:59
+UG - 04, Tl-X19, CSE - PREMKUMAR K
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-F15, CSE - PREMKUMAR K
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 15:00 - 17:00
+Tuesday: 15:00 - 17:00
+UG - 04, Tl-E19, CSE - PREMKUMAR K
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Saturday: 10:00 - - 12:00
+Wednesday: 08:00 - - 10:00
+19CS415 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:36 - 19:37
+UG- 04, Tl-L17, CSE Arul O" A
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 10:00 - - 12:00
+Saturday: 10:00 12:00
+Wednesday: 10:00 - 12:00
+UG 04, Tl-T12, CSE - Saravanan T
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 15:00
+Monday: 08:00 - 10:00
+Tuesday: 13:00 15:00
+Wednesday: 10:00 - - 12:00
+UG- 04, TI-UII, CSE Arul OKA
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+UG - 04, Tl-G19, CSE - Saravanan T
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Thursday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+Wednesday: 08:00 - - 10:00
+19CS418 13 Creditsl
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course overview
+Cyber Law and Compliance
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:42 - 19:43
+UG- 04, Tl-A12, CSE - Sangeetha Priya M
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 17:00
+Monday: 13:00 - - 15:00
+Wednesday: 15:00 - - 17:00
+UG- 04, TI-JII, Nagappan G
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+UG 04, Tl-S7, CSE - Sangeetha Priya M
+Date: 16-07-2026 to 26-09-2026
+Friday: 12:00
+Monday: 10:00 - - 12:00
+Saturday: 15:00 - 17:00
+19A1408 [3 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course pvervie"'
+Data Structures
+UG - 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:38 - 17:39
+UG- 04, Tl-F13,A1- Silambarasi C
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Monday: 10:00 - - 12:00
+Saturday: 10:00 - 12:00
+Thursday: 15:00 - 17:00
+UG - 04, Tl-A13, A1 - RENUGADEVIR
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - 11:0011 - 12:00
+Saturday: 10:00 - - 12:00
+Tuesday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, TI-LII,AI- POTNURI AMTHA
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 10:00 - - 12:00
+Saturday: 15:00 - 17:00
+Wednesday: 10:00- 12:00
+UG- 04, TI-ZIO, A1- Dinesh Babu G L
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 15:00 - - 17:00
+Tuesday: 13:00 15:00
+Wednesday: 10:00- 12:00
+UG- 04, TI-RIO,AI - Dinesh Babu G L
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Monday: 10:00 - 12:00
+Thursday: 110011:00 - 12:00
+Tuesday: 15:00 - - 17:00
+UG 04, Tl-J9, A1- Silambarasi C
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 15:00 - - 17:00
+Thursday: 10:00 - - 12:00
+Wednesday: 15:00- - 17:00
+UG 04, Tl-X8, R
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 13:00 - 15:00
+Saturday: 08:00 - - 10:00
+Tuesday: 08:00 - - 10:00
+UG- 04, Tl-F8,A1 -
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Monday: 13:00 - 15:00
+Saturday: 15:00 - - 17:00
+Tuesday: 15:00 - - 17:00
+UG - 04, Tl-U7, A1- POTNURI AMTHA
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Saturday: 10:00 - - 12:00
+Thursday: 15:00 - 17:00
+Wednesday: 15:00 - - 17:00
+19CS404 14 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Database Management System and its Applications
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:24 - 19:25
+UG - 04, Tl-BLENDED-2, CSE - ABINAYA G
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 13:00 - 15:00
+UG - 04, Tl-S20, CSE - MAHALAKSHMI G
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 10:00 - - 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+UG - 04, TI-BLENDED, CSE - ABINAYA G
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Monday: 10:00 - - 12:00
+UG - 04, Tl-X14, CSE - Panimalar S.P.
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-A30, CSE - Thirunavukkarasu S
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Thursday: 10:00 - 11 - 12:00
+Tuesday: 13:00 15:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-R19, CSE - Panimalar S.p.
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+Wednesday: 08:00 - 10:00
+UG - 04, TI-BLENDED-I, CSE - ABINAYA G
+Date: 16-07-2026 to 26-09-2026
+Thursday: 15:00 - - 17:00
+Tuesday: 15:00 - - 17:00
+UG - 04, Tl-118, CSE - KUMARAN U
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 10:00 - 11 - 12:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-Z13, CSE - KUMARAN U
+Date: 16-07-2026 to 2+09-2026
+Friday. 15:00 - 17:00
+Saturday: 10:00 - 12:00
+Tuesday: 13:00 - - 15:00
+Wednesday: 15:00- - 17:00
+UG - 04, TI-MII, CSE - Thirunavukkarasu S
+Date: 16-07-2026 to 2609-2026
+Friday: 08:00 - 10:00
+Saturday: 13:00 15:00
+Thursday: 08:00 - - 10:00
+Tuesday: 10:00 - 110011:00 - 12:00
+UG - 04, TI-KIO, CSE - MAHALAKSHMI G
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 14001400- 15:00
+Thursday: 08:00 - - 10:00
+Tuesday: 13:00 15:00
+Wednesday: 10:00 - 12:00
+19A1413 13 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE pc
+Course overview
+Deep Learning and its Applications
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:48 - 17:49
+UG 04, TI-BLENDED-I, A1- varalaksrrrni J
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Wednesday: 15:00 - - 17:00
+UG - 04, TI-BLENDED,AI - varalakshmi J
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Monday: 15:00 - 17:00
+UG - 04, Tl-J17, A1- SREE LAKSHMI S
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+UG - 04, Tl-B17, A1- SREE LAKSHMI S
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-L16, A1- MICHAEL MAHESH K
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 08:00 - 10:00
+Saturday: 15:00 - 17:00
+Thursday: 10:00 - 12:00
+UG - 04, Tl-BLENDED-2, A1 - Varalakshmi J
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Thursday: 10:00 12:00
+19CS419 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course Overview
+Digital Forensics and Digital Investigations
+UG - 04, PHASE-I, CS - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:44 _ 19:45
+UG- 04, TI-GII, CS - Suresh Kumar K
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 15:00 - 17:00
+Wednesday: 10:00- 110011:00 - 12:00
+19A1406 [3 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Digital Image Processing Techniques
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:34 - 17:35
+UG - 04, Tl-C18, A1 - MANIKANDAN sp
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 13:00 - 14001400- 15:00
+Thursday: 10:00 - 12:00
+UG - 04, Tl-D19, A1 - MANIKANDAN sp
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 13:00 - 15:00
+Wednesday: 15:00- 17:00
+UG - 04, Tl-M12, A1 - BHANU PRIYA p
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Monday: 08:00 - 10:00
+Tuesday: 10:00 - - 12:00
+UG- 04, Tl-V12,A1- HEMA R
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Tuesday: 08:00 - - 10:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-X16, A1- SUGUNA DEVI R
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Thursday: 08:00 - - 10:00
+Wednesday: 08:00 - - 10:00
+UG- 04, Tl-T15, A1- NARESH V
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Saturday: 10:00 - 12:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-H15, A1 - MICHAEL MAHESH K
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 12:00
+Thursday: 08:00 - - 10:00
+Wednesday: 10:00- - 12:00
+UG - 04, Tl-A14, A1- MANIKANDAN sp
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 16001600- 17:00
+Saturday: 15:00 17:00
+Thursday: 13:00 - - 15:00
+19CS421 13 Creditsl
+PROFESSIONAL ELECTIVE
+PROFESSIONAL ELECTIVE
+Course overview
+Edge C
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:48 - 19:49
+UG 04, Tl-Q18, CSE - ANNA PALAGAN C
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 10:00 - 12:00
+Wednesday: - - 12:00
+19EY712 11 Credits'
+EMPLOYABILITY ENHANCEMENT COURSES - EMPLOYABILITY ENHANCEMENT COURSES
+Course overview
+Employment Enrichment Skills
+UG - 25, Tl-Y13, TRAINING - PRIYA DARSHINI S
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+UG - 25, PHASE-I, TRAINING - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:34 - 22:35
+UG - 25, TI-CI, TRAINING - PRIYA DARSHINIS
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 10:00 - 12:00
+Wednesday: 10:00 - 12:00
+19A1302 [3 Creditsl
+ENGINEERING SCIENCES - ENGINEERING SCIENCES
+overview
+Engineering Design and Modelling
+UG 04, PHASE-I, AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:18 17:19
+UG - 04, Tl-H17,A1 - SUDHARSAN K
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-V14, A1 - SUDHARSAN K
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Monday: 13:00 - 15:00
+Tuesday: 15:00 17:00
+UG- 04, Tl-Q15,A1 - SUDHARSAN K
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+19CS580 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Enterprise Cyber Security and Threat Detection
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 20:04 - 20:05
+UG - 04, Tl-F19, CSE - AUGUSTIAN ISAAC R
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+19CS570 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Entrepreneurship and Small Business Development
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 20:00 - 20:01
+UG - 04, Tl-N20, CSE - HAND IN HAND FACULTY - 1
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-M20, CSE - HAND IN HAND FACULTY - 1
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+19CY801 12 Credits]
+BASIC SCIENCES - BASIC SCIENCES
+Course overview
+Environmental Sciences and Sustainability
+UG - 25, PHASE-I, CHEMISTRY - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 20:14 - 20:15
+UG - 25, Tl-A69, CHEMISTRY - SHANTHI S
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 17:32 - 17:33
+UG - 25, Tl-A64, CHEMISTRY - Mettilda M
+Date: 16-07-2026 to 26-09-2026
+Wednesday: 17:22 - 17:23
+UG - 25, Tl-A70, CHEMISTRY - B MOHAMAD ALI
+Date: 16-07-2026 to 26-09-2026
+Wednesday: 17:34- 17:35
+UG - 25, Tl-A66, CHEMISTRY
+Lavanya G
+Date: 16-07-2026 to 26-09-2026
+Friday. 17:26 - 17:27
+19CS417 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Ethical Hacking Techniques
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:40 _ 19:41
+UG - 04, Tl-A15, CSE - AUGUSTIAN ISAAC R
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Wednesday: 10:00 - - 12:00
+UG - 04, Tl-G17, CSE - AUGUSTIAN ISAAC R
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 13:00 - 15:00
+Wednesday: 15:00 - - 17:00
+19A1555 [3 Creditsl
+PROFESSIONAL ELECr1VE - PROFESSIONAL ELECTIVE
+Course overview
+Exploratory Data Analysis
+UG - 04, PHASE-ISAI - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:18 18:19
+UG - 04, Tl-P20, A1- BHARATHIA
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Wednesday: 15:00 - - 17:00
+UG 04, Tl-J15, A1 - BHARATHI A
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Tuesday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-D14, A1 - BHARATHI A
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+19CY601 12 credits]
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course overview
+Food Nutrition and Health Technology
+UG - 25, PHASE-I, CHEMISTRY - AIDS &
+Date: to 21-06-2026
+Monday: 20:12 - 20:13
+UG - 25, Tl-A28, CHEMISTRY - B MOHAMAD ALI
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+UG - 25, Tl-M9, CHEMISTRY - Yamini B
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+UG - 25, Tl-W6, CHEMISTRY - Muthupandian P
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+UG - 25, TI-FS, CHEMISTRY - Lavanya G
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+UG - 25, Tl-F9, CHEMISTRY - Vivekanand p A
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 13:00 15:00
+UG - 25, Tl-L7, CHEMISTRY - SHANTHI S
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 08:00 - 10:00
+UG - 25, Tl-B4, CHEMISTRY - DOLLI H
+Date: 16-07-2026 to 26-09-2026
+Wednesday: 15:00 - - 1700
+UG - 25, TI-EIO, CHEMISTRY - Anand S
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+UG - 25, Tl-Q7, CHEMISTRY - Shramna Queenthy S
+Date: 16-07-2026 to 26-09-2026
+Saturday: 08:00 - 10:00
+19A1405 13 Credibl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Fundamentals of Artificial Intelligence
+UG - 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:32 - 17:33
+UG- 04, YASHINIP
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 10:00 - - 12:00
+Saturday: 10:00 12:00
+Thursday: 13:00 - - 15:00
+UG- 04, Tl-Y14,A1 - SUNITHA T
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+Wednesday: 08:00 - 10:00
+UG 04, Tl-U13, AI - RAJALAKSHMI E
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 15:00
+Saturday: Io:oo - - 12:00
+Tuesday: 08:00 - - 10:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-J13, A1- PUGALENTHIR
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Monday: 13:00 - 15:00
+Thursday: 08:00 - - 10:00
+Tuesday: 08:00 - - 10:00
+UG- 04, TI-NII,AI- Murugesan S
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - 15:00
+Monday: 13:00 - 15:00
+Saturday: 10:00 - 11 - 12:00
+Wednesday: 08:00 - - 10:00
+UG- 04, Tl-S9, A1 - Murugesan S
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-R9, A1- PUGALENTHIR
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 08:00 - 10:00
+Thursday: 10:00 - 11 - 12:00
+Wednesday: 08:00 - 10:00
+UG - 04, Tl-19,A1- RAJALAKSHMI E
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 15:00
+Monday: 08:00 - 10:00
+Saturday: 08:00 - - 10:00
+Wednesday: 08:00 - 10:00
+UG - 04, Tl-G9, A1 - PREMNATH K
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - 12:00
+Saturday: 10:00 - 12:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-W8, A1- SUNITHA T
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - 15:00
+Monday: 12:00
+Thursday: 10:00 - - 12:00
+Wednesday: 10:00- 12:00
+UG - 04, Tl-D4, A1- YASHINI P
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+Wednesday: 08:00 - - 10:00
+UG - 04, T14214, A1 - RAMSHANKAR N
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - - 15:00
+Thursday: 13:00 - - 15:00
+Tuesday: 13:00 - - 15:00
+Wednesday: 10:00- 12:00
+UG - 04, - RAMSHANKAR N
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Saturday: 08:00 - 10:00
+Thursday: 15:00 - 17:00
+Tuesday: 08:00 - 10:00
+UG- 04, Tl-E13,A1 - PREMNATH K
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Saturday: 15:00 17:00
+Thursday: 10:00 12:00
+Wednesday: 15:00 - - 17:00
+19A1304 [3 Credits'
+ENGINEERING SCIENCES - ENGINEERING SCIENCES
+Course pyerview
+Fundamentals of C Programming
+UG - 04, PHASE-I,AI- AIDS & AIMI,
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:22 - 17:23
+UG- 04, Tl-W18,A1- Shankar P
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Saturday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+Tuesday: 13:00 - 15:00
+UG- 04, Tl-E16, A1- Shankar P
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - - 17:00
+Saturday: 15:00 - 17:00
+Tuesday: 15:00 - 17:00
+Wednesday: 10:00 - - 12:00
+19CSS47 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Fundamentals of Cryptocurrency
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:54 - 19:55
+UG- 04, Tl-N15, CSE- Devi S
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Tuesday: 13:00 15:00
+UG- 04, Tl-G15, Devi S
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+UG- 04, Tl-Y6, CSE- DeviS
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Saturday: 10:00 - 12:00
+Wednesday: 08:00 - - 10:00
+19A1513 [4 Credits)
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Game Programming
+UG - 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:56 - 17:57
+UG - 04, Tl-A17, A1 - MONOLITH FACULTY
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00 - 12:00
+UG - 04, Tl-Z16, A1- MONOLITH FACULTY
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Thursday: 10:00 - 12:00
+Wednesday: 15:00 - - 17:00
+19CS579 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Generative Al Application Development
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 20:02 - 20:03
+UG - 04, TI-BLENDED, CSE - Jat,a Jasphin E.T
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Tuesday: 13:00 - 15:00
+19AM509 13 Credits]
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Industrial Intemet of Things
+UG - 04, PHASE-I, AM - AIDS & AIMI,
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:28 - 18:29
+UG - 04, Tl-B18, AM - ANNA PALAGAN C
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 13:00 - 15:00
+Thursday: 15:00 - 17:00
+19GE628 12 Credits]
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course overview
+Industrial Product Development and Prototyping
+UG - 23, Tl-A26, A1 - Sellakumar S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Monday: 10:00 - - 12:00
+Thursday: 15:00 - 17:00
+UG - 23, Tl-T7, A1- YUVARAJ M
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+UG - 23, PHASE-I,AI- AIDS & AIMI,
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:36 - 22:37
+19PH601 13 Credibl
+OPEN ELECTIVE - OPEN ELECTIVE
+Course overview
+Instrumentation and Applied Physics in Engineering
+UG- 04, Tl-J2, PHYSICS - Priya M
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 15:00 - 17:00
+Tuesday: 15:00 - 17:00
+UG - 04, PHASE-I, PHYSICS - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:04 - 0:05
+19A1403 [3 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Conrse overview
+Introduction to Data Science
+UG 04, PHASE-I, A1 - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:28 - 17:29
+UG 04, Tl-117, A1- VISHNUPRIYA K
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - - 17:00
+Monday: 10:00 - - 12:00
+Tuesday: 15:00 - 17:00
+UG - 04, Tl-Y16, A1 - VISHNUPRIYAK
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Tuesday: 10:00 - 12:00
+UG - 04, Tl-T16, A1- Karthi Govindharaju
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Tuesday: 10:00 - 12:00
+Wednesday: 15:00 - - 17:00
+UG - 04, TI-DII, A1- Dhinesh Kumar KS
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 15:00 - 17:00
+Wednesday: 15:00 - - 17:00
+UG - 04, Tl-W17, A1 - VISHNUPRIYAK
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Thursday: 10:00 - 12:00
+Wednesday: 10:00 - 12:00
+19AM508 13 Credits]
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Conrse overview
+Introduction to 10T
+UG- 04, PHASE-I, 10T - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:26 - 18:27
+UG 04, TI-EII, IOT - SAVITHA V
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Wednesday: 10:00 - - 12:00
+UG- 04, TI-FIO, IOT - KarthigaM
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Saturday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-E9, IOT - ANNA PALAGAN C
+Date: 16-07-2026 to 26-09-2026
+Friday. 15:00 - - 17:00
+Saturday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+19EC602 13 Creditsl
+OPEN ELECTIVE - OPEN ELECVIVE
+Course overview
+Introduction to Micro Electro Mechanical Systems
+UG - 06, PHASE-I, ECE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 21:08 21
+UG- 06, TI-NS, ECE - Lingaraja D
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 12:00
+Tuesday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+19A1533 13 Creditsl
+PROFESSIONAL ELECTIVE
+Course overview
+Introduction to Robotics
+PROFESSIONAL ELECTIVE
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:00 - 18:01
+UG- 04, Tl-Z17,A1- RAJAT
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Tuesday: 15:00 - 17:00
+Wednesday: 10:00- - 1200
+19A1534 [3 Credibl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Kinematics and Dynamics of Robots
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:02 - 18:03
+UG- 04, Tl-L20, A1- RAJAT
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-X20, A1 - Sellakumar S
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 15:00 - 17:00
+Saturday: 10:00 - 12:00
+19A1539 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Mobile User Interface Development
+UG - 04, PHASE-I,AI AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:04 - 18:05
+UG- 04, Tl-E18,A1- Surya S
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+UG- 04, Tl-H20,A1 - Surya S
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+Wednesday: 10:00 - 110011:00 - 12:00
+UG- 04, Tl-T18,A1- Surya S
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Thursday: 13:00 - 15:00
+Tuesday: 08:00 - 10:00
+19EN605 12 Creditsl
+OPEN ELECTIVE - OPEN ELECI'IVE-OE
+Course overview
+Modern Trends in Physical Education and Sports Sciences
+UG - 25, PHASE-I, ENGLISH - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:22 - 22:23
+UG - 25, TI-UIS, ENGLISH - Balasingh D
+Date: 16-07-2026 to 26-09-2026
+Wednesday: 08:00 - - 10:00
+UG - 25, TI-SI, ENGLISH - Prabhakaran G
+Date: 16-07-2026 to 26-09-2026
+Wednesday: 15:00 - - 17:00
+19A1545 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Modem Web Application Development
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:10 - 18:11
+UG- 04, Tl-114, A1- Muthu hariharan S
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Wednesday: 15:00 - - 17:00
+UG- 04, Tl-H12,A1 - J•aashika K M
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Wednesday: 15:00 - - 17:00
+UG- 04, TI-BII,AI- Jaashika KM
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 10:00 - - 12:00
+Tuesday: 15:00 - 17:00
+UG- 04, TI-GIO,AI - Muthu hariharan S
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Wednesday: 10:00 110011:00 - 12:00
+UG- 04, A1 - Muthu bariharan S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Thursday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+UG 04, Tl-P9, A1 Jaashika K M
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Saturday: 13:00 15:00
+Tuesday: 13:00 - 15:00
+19PH602 13 Credibl
+OPEN ELECTIVE - OPEN ELECTIVE
+Course pyerview
+Nanophotonics: Physics, Fabrication and Technologies
+UG - 25, PHASE-I, PHYSICS - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:06 - 0:07
+UG - 25, TI-PI, PHYSICS - Silambarasan M
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00 - 110011:00 - 12:00
+19CS581 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Network Infrastructure and Protocols
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 20:06 - 20:07
+UG - 04, Tl-U19, CSE - SUNDARAVADIVEL P
+Date: 16-07-2026 to 26-09-2026
+Saturday: 08:00 - 10:00
+Thursday: 15:00 - 17:00
+Tuesday: 13:00 - 15:00
+19A1411 13 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course overview
+Neural Networks
+UG 04, PHASFA,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:44 - 17:45
+UG 04, Tl-z„18, A1- LAVANYA G SCOFT
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Thursday: 15:00 - 17:00
+Tuesday: 13:00 - 15:00
+Wednesday: - - 12:00
+UG - 04, Tl-Z9, A1- LAVANYA G SCOFT
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Monday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+UG- 04, J
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Saturday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+Wednesday: 08:00 - - 10:00
+UG- 04, J
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Tuesday: 08:00 - 10:00
+19A1307 13 Creditsl
+ENGINEERING SCIENCES - ENGINEERING SCIENCES
+Course overview
+Object Oriented Programming using Java
+UG 04, PHASE-I, A1- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:26 - 17:27
+UG 04, Tl-C17, A1 - Tenali Ravi Kumar
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 10:00 - 12:00
+Thursday: 10:00 - 12:00
+Wednesday: 15:00 - - 17:00
+UG - 04, Tl-A16, A1 - Shanmuga Priya S
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Saturday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Wednesday: 10:00 - - 12:00
+UG - 04, Tl-N7, A1 - Shanmuga Priya S
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - - 17:00
+Monday: 15:00 - 17:00
+Saturday: 13:00 - 15:00
+Thursday: 13:00 - 15:00
+UG - 04, Tl-S13,A1 - NANDAKUMAR S D
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 160016:oo - 17:00
+Monday: 15:00 - 17:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 15:00
+UG - 04, Tl-Z12,A1- Magitha Nirmala Tennyson
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 10:00
+Monday: 08:00 - 09-0009-00 - 10:00
+Saturday: 13:00 15:00
+Thursday: 08:00 - - 10:00
+UG- 04, TIMO, A1 - K SARANYA
+Date: 16-07-2026 to 26-09-2026
+Fnday•. 12:00
+Monday: 08:00 - 10:00
+Saturday: 10:00 - 12:00
+Thursday: 10:00 - - 12:00
+UG - 04, TI-MIO, AI - Magitha Nirmala Tennyson
+Date: 16-07-2026 to 2&09-2026
+Monday: 10:00 - 12:00
+Saturday: 10:00 - 12:00
+Thursday: 13:00 - - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-X9, A1- TenaliRavi Kumar
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 15:00 - 17:00
+Saturday: 13:00 - 15:00
+Thursday: 15:00 - - 17:00
+UG- 04, Tl-T9,A1- KSARANYA
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - 15:00
+Monday: 10:00 - 12:00
+Saturday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-L9, A1- NANDAKUMAR S D
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 12:00
+Monday: 13:00 - 15:00
+Thursday: 15:00 - - 17:00
+Tuesday: 10:00 - 12:00
+19CS545 13 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Open Source Operating System
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:52 - 19:53
+UG - 04, Tl-A22, CSE - ADVANTAGE PRO FACULTY
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 13:00 - 15:00
+UG - 04, Tl-A21, CSE - ADVANTAGE PRO FACULTY
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+19A1407 [4 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Parallel Computing Architecture
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:36 - 17:37
+UG- 04, Tl-Z19,A1- Sathya U
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 12:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 12:00
+UG - 04, TI-BLENDED-I, A1- Aswini J
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Tuesday: 15:00 - 17:00
+UG - 04, TI-BLENDED, A1- Aswini J
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+UG- 04, Tl-N12,A1 - Sathya U
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Tuesday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG- 04, Tl-T19,A1- Sathya U
+Date: 16-07-2026 to 26-09-2026
+Friday. 08:00 - - 10:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00 - - 12:00
+19PH814 13 creditsl
+BASIC SCIENCES - BASIC SCIENCES
+Course overview
+Physics for Quantum Computing
+UG - 25, Tl-E15, PHYSICS - Sangeetha L
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+UG - 25, TI-PIS, PHYSICS - Silambarasan M
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Thursday: 10:00 - 12:00
+Tuesday: 08:00 - 10:00
+UG - 25, PHASE-I, PHYSICS - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:08 - 0:09
+19EE309 13 Creditsl
+ENGINEERING SCIENCES - ENGINEERING SCIENCES
+Course overview
+Programming Microcontrollers
+UG - 05, Tl-Q20, A1 - VAIGUNDAMOORTHI M
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Saturday: 12:00
+Wednesday: 08:00 - - 10:00
+UG- 05, Tl-U17,A1 - SAVITHA V
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 10:00 - 12:00
+Tuesday: 08:00 - 10:00
+UG - 05, Tl-A25, A1 - VAIGUNDAMOORTHI M
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Saturday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+UG 05, Tl-W12, A1 - M
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Saturday: 10:00 - 12:00
+Tuesday: 15:00 - 17:00
+UG - 05, PHASE-ISAI - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 21:22 21:23
+UG - as, VAIGUNDAMOORTHIM
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - 090009:OO - 10:00
+Thursday: 08:00 - 10:00
+Wednesday: 10:00 - 12:00
+UG- 05, Tl-U16,A1 - PRABHU M S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Saturday: 13:00 - 15:00
+Thursday: 15:00 - 17:00
+UG - 05, Tl-H14, A1 - MARISARGUNAM S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 12:00
+Saturday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+19A1540 [3 Credits'
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Programming Mobile Devices
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:06 - 18:07
+UG - 04, Tl-W20, A1 - THAVA VINU A
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Monday: 10:00 - - 12:00
+Tuesday: 08:00 - 10:00
+UG - 04, Tl-S18,A1 - THAVA VINU A
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-D18, A1 - THAVA VINU A
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 13:00 15:00
+Wednesday: 10:00- - 12:00
+19TD608 12 Creditsl
+OPEN ELECTIVE - OPEN ELECTIVE-OE
+Course overview
+prompt Engineering
+UG - 25, Tl-V7, A1 - Dr C. Rajendra Thilahar
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Monday: 10:00 - - 12:00
+Saturday: 08:00 - 10:00
+UG - 25, Tl-R7, A1 - Dr C. Rajendra Thilahar
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00 - - 12:00
+UG - 25, Tl-M7, A1- Hemavathy P
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Thursday: 08:00 - 10:00
+UG - 25, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:10 - 0:11
+UG- 25, Tl-X15, A1 - P
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - - 12:00
+Saturday: 08:00 - 10:00
+Thursday: 10:00 - 12:00
+UG - 25, TI-GS,AI - Dr C. Rajendra Thilahar
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Saturday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+19CS420 13 Creditsl
+PROFESSIONAL ELECTIVE
+PROFESSIONAL ELECTIVE
+Course overview
+Prototyping Of 10T Systems
+UG 04, PHASE-I, IOT - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:46 _ 19:47
+UG 04, Tl-G18, IOT - Sripriya Ranganathan
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Saturday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+19A1301 [3 Credibl
+ENGINEERING SCIENCES - ENGINEERING SCIENCES
+Course overview
+Python Programming
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:16 - 17:17
+UG- 04, Tl-A45, A1 - D PAVAI
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Saturday: 10:00 - 12:00
+Tuesday: 10:00 - 110011 :oo- 12:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-A42, AI - Mariya Monica Celestina A
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+UG - 04, Tl-A54, A1 - Mariya Monica Celestina A
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 13:00 15:00
+Tuesday: 08:00 - 10:00
+Wednesday: 10:00 - 12:00
+UG- 04, TI-UIO,AI D PAVAI
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Saturday: 08:00 - 10:00
+Tuesday: 13:00 - 15:00
+19EY710 11 Credibl
+EMPLOYABILITY ENHANCEMENT COURSES - EMPLOYABILITY ENHANCEMENT COURSES
+Course overview
+Quantitative Ability I
+UG - 25, Tl-E17, TRAINING - AYILYABL
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 15:00 - 17:00
+UG - 25, Tl-Z14, TRAINING - SHABANAS
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 10:00 - - 12:00
+UG - 25, Tl-K14, TRAINING - PRASATH M
+Date: to 26-09-2026
+Monday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+UG - 25, Tl-G13, TRAINING - MEGALAJ
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+UG 25, TI-PII, TRAINING - ELUMALAI K
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Tuesday: 13:00 - 15:00
+UG - 25, TI-BIO, TRAINING - RAVINDRA BABU G
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 12:00
+Wednesday: 15:00- 17:00
+UG - 25, PHASFA, TRAINING - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:30 - 22:31
+UG - 25, Tl-C13, TRAINING - MATHIVANAN A
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 10:00 - - 12:00
+Wednesday: 10:00- 12:00
+UG - 25, Tl-E5, TRAINING - AYILYA BL
+Date: 16-07-2026 to 2609-2026
+Thursday: 10:00 - - 12:00
+Tuesday: 13:00 - - 15:00
+UG - 25, Tl-Q17, TRAINING - RAVINDRA BABU G
+Date: 16-07-2026 to 2+09-2026
+Saturday: 10:00 12:00
+Thursday: 10:00 - - 12:00
+UG - 25, Tl-R14, TRAINING - PREMKUMARP
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Thursday: 15:00 - - 17:00
+UG - 25, TI-WIO, TRAINING - ARUNACHALAM S
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Thursday: 08:00 - 10:00
+UG 25, Tl-Y12, TRAINING - Manoj Krishna M
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Saturday: 15:00 - 17:00
+19EV711 11 Creditsl
+EMPLOYABILITY ENHANCEMENT COURSES - EMPLOYABILITY ENHANCEMENT COURSES
+Course overview
+Quantitative Ability 11
+UG 25, Tl-P16, TRAINING - PRASATH M
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Wednesday: 10:00- - 12:00
+UG - 25, Tl-R13, TRAINING - Manoj Krishna M
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Saturday: 08:00 - 10:00
+UG - 25, Tl-H9, TRAINING - MATHIVANAN A
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Wednesday: 08:00 - - 10:00
+UG - 25, Tl-A9, TRAINING - ELUMALAI K
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 10:00 - - 12:00
+UG - 25, TI-KI, TRAINING - SHABANA S
+Date: 16-07-2026 to 26-09-2026
+Monday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+UG - 25, PHASBI, TRAINING - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:32 - 22:33
+UG - 25, Tl-K17, TRAINING - PREMKUMAR p
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 15:00 - 17:00
+UG - 25, Tl-C16, TRAINING - MATHIVANAN A
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Tuesday: 08:00 - - 10:00
+UG - 25, Tl-K13, TRAINING - ELUMALAI K
+Date: 16-07-2026 to 26-09-2026
+Saturday: - 15:00
+Tuesday: 10:00 - 11 - 12:00
+UG - 25, TI-AII, TRAINING - ARUNACHALAM S
+Date: 16-07-2026 to 2+09-2026
+Tuesday: 10:00 - 110011:00 - 12:00
+Wednesday: 08:00 - - 10:00
+UG - 25, TI-NIO, TRAINING - RAVINDRABABU G
+Date: 16-07-2026 to 2609-2026
+Saturday: 13:00 - 15:00
+Tuesday: 15:00 - - 17:00
+UG - 25, Tl-K9, TRAINING - AYILYABL
+Date: 16-07-2026 to 2609-2026
+Friday: 15:00 - 16001600- 17:00
+Tuesday: 15:00 - 17:00
+UG - 25, Tl-K8, TRAINING - ARUNACHALAM S
+Date: 16-07-2026 to 26-09-2026
+Thursday: 10:00 - 12:00
+Tuesday: 13:00 - - 15:00
+UG - 25, Tl-E8, TRAINING - PREMKUMAR p
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Tuesday: 13:00 15:00
+UG - 25, Tl-Y7, TRAINING - Manoj Krishna M
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Tuesday: 10:00 - 12:00
+UG - 25, Tl-X13, TRAINING - PRASATH M
+Date: 16-07-2026 to 26-09-2026
+Saturday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 25, Tl-V9, TRAINING - MEGALAJ
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Wednesday: 15:00 - - 17:00
+UG - 25, Tl-U18, TRAINING - SHABANA S
+Date: 16-07-2026 to 26-09-2026
+Friday. 08:00 - - 10:00
+Thursday: 10:00 - 12:00
+19CS529 13 Creditsl
+PROFESSIONAL ELECr1VE - PROFESSIONAL ELECTIVE PE
+Course overview
+Quantum Computing
+UG 23, PHASE-I,AI- AIDS & AIML
+Date. 21-06-2026 to 21-06-2026
+Monday: 18:20 - 18:21
+UG - 23, Tl-A40, A1 - GOBALAKRISHNAN N
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+UG - 23, Tl-AS5, A1 - GOBALAKRISHNAN N
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 10:00 - - 12:00
+Saturday: 08:00 - 10:00
+UG 23, Tl-ll, A1 - GOBALAKRISHNAN N
+Date: 16-07-2026 to 26-09-2026
+Saturday: 12:00
+Thursday. 08:00 - 09.000900 - 10:00
+Wednesday: 10:00 12:00
+19A1505 [3 Credits'
+PROFESSIONAL CORE - PROFESSIONAL CORE
+Course pyerview
+Reinforcement Leaming
+UG - 04, PHASE-I,AI- AIDS & AIMI,
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:52 - 17:53
+UG - 04, TI-BLENDED-I, A1- Jaba Jas-phil' E.T
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Tuesday: 15:00 - 17:00
+UG- 04, Tl-L14,A1- Jayanthi G
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Tuesday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, Tl-BLENDED-2, A1- Jaba Jasphin E.T
+Date: 16-07-2026 to 26-09-2026
+Thursday: 15:00 - 17:00
+Wednesday: 10:00 - 12:00
+19EE603 [3 Creditsl
+OPEN ELECTIVE - OPEN ELECTIVE
+Course overview
+Renewable Energy Sources
+UG- 05, TI-RI, EEE Hemalatha R
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Tuesday: 10:00 - 12:00
+UG 05, PHASE-I, EEE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 21:52 21:53
+19CS422 13 Credits]
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE
+Course overview
+Security for IoT Systems
+UG - 04, Tl-R18, CSE - Sripriya Ranganathan
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Saturday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Wednesday: 0:22 - 0:23
+19CS408 14 Creditsl
+PROFESSIONAL CORE - PROFESSIONAL CORE pc
+Course overview
+Software Engineering
+UG - 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:32 - 19:33
+UG - 04, Tl-F17, CSE - VIMITHA R VIDHYA LAKSHMI
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Monday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+UG 04, Tl-K15, CSE - DIVYA K TSCS228
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - - 10:00
+UG- 04, Tl-B15, CSE - N.V
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 15:00 - 17:00
+Tuesday: 13:00 - - 15:00
+UG - 04, Tl-S14, CSE - VIMITHAR VIDHYA LAKSHMI
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 10:00 - 12:00
+Saturday: 13:00 - 15:00
+UG- 04, TI-QII, CSE - Ravindhar N.V
+Date: 16-07-2026 to 2+09-2026
+Friday: 13:00 - 15:00
+Monday: 13:00 - 15:00
+Thursday: 10:00 - - 12:00
+UG - 04, Tl-W16, CSE - DIVYAK TSCS228
+Date: 16-07-2026 to 26-09-2026
+Thursday: 13:00 - - 15:00
+Tuesday: 13:00 - - 15:00
+Wednesday: 10:00- - 12:00
+UG - 04, Tl-R16, CSE - VIMITHA R VIDHYA LAKSHMI
+Date: 16-07-2026 to 26-09-2026
+Saturday: 10:00 - 12:00
+Tuesday: 13:00 15:00
+Wednesday: 08:00 - - 10:00
+UG- 04, Tl-112, CSE - DIVYA K TSCS228
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Tuesday: 10:00 12:00
+Wednesday: 08:00 - - 10:00
+19MS15513 Credits]
+HUMANITIES AND SCIENCES - HUMANITIES AND SCIENCES
+Course Overview
+Stock Market and Company Operations
+UG - 04, Tl-P12, MBA- SEEMABALAN
+Date: 16-07-2026 to 26-09-2026
+Monday: 10:00 - - 12:00
+Saturday: 10:00 - - 12:00
+Wednesday. 10:00 - - 12:00
+UG - 04, TI-SIO, MBA - GANESAN ALIAS KANAGARAJ M
+Date: 16-07-2026 to 26-09-2026
+Monday: 08:00 - 10:00
+Thursday: 13:00 - 15:00
+Wednesday: 08:00 - - 10:00
+UG - 04, PHASE-I, MBA - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 23:54 - 23:55
+UG - 04, Tl-D12, MBA - Sathiyamurthi K
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - 15:00
+Thursday: 10:00 - 12:00
+Tuesday: 10:00 - 12:00
+19CS407 13 Creditsl
+PROFESSIONAL ELECTIVE
+Course overview
+Theory Of Computation
+PROFESSIONAL ELECTIVE
+UG 04, PHASE-I, CSE - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 19:30 - 19:31
+UG- 04, Tl-Y19, CSE- MANI S V J
+Date: 16-07-2026 to 26-09-2026
+Monday: 15:00 - 17:00
+Thursday: 15:00 - 17:00
+Wednesday: 10:00 - - 12:00
+UG- 04, TI-IIO, CSE MANIS VJ
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - 12:00
+Monday: 13:00 - 15:00
+Saturday: 15:00 - 17:00
+UG- 04, Tl-V19, CSE MANI S V J
+Date: 16-07-2026 to 26-09-2026
+Friday: 13:00 - - 15:00
+Saturday: 10:00 - 12:00
+Thursday: 10:00 - 12:00
+19AM401 14 Credits]
+PROFESSIONAL CORE - PROFESSIONAL CORE pc
+Course overview
+Time Series Analysis and Forecasting
+UG - 04, PHASE-I,AM- MDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 18:24 - 18:25
+UG- 04, Tl-Q13,AM- Sathish Babu S
+Date: 16-07-2026 to 26-09-2026
+Friday: 10:00 - 12:00
+Saturday: 13:00 - 15:00
+Tuesday: 13:00 15:00
+19MA219 14 Credits]
+BASIC SCIENCES - BASIC SCIENCES
+Course overview
+Transforms and its Applications
+UG - 25, Tl-T17, Maths - Radha M
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+Tuesday: 10:00 - 12:00
+UG - 25, PHASE-I, Maths - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:56 - 22:57
+UG - 25, Tl-A20, Maths - SUREKHA S S
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Thursday: 13:00 - 15:00
+Tuesday: 15:00 - 17:00
+Wednesday: 15:00 - - 17:00
+19A1412 14 Creditsl
+PROFESSIONAL ELECTIVE - PROFESSIONAL ELECTIVE PE
+Course overview
+Web Data Mining
+UG - 04, PHASE-I,AI- AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Monday: 17:46 17:47
+UG- 04, TI-QIO,AI - VINOTHINI M
+Date: 16-07-2026 to 26-09-2026
+Friday: 08:00 - - 10:00
+Monday: 13:00 - 15:00
+Saturday: 08:00 - 10:00
+Thursday: 08:00 - 10:00
+UG - 04, Tl-U9, A1 - SATHEESKUMAR R
+Date: 16-07-2026 to 26-09-2026
+Friday: 15:00 - 17:00
+Monday: 15:00 - 17:00
+Saturday: 13:00 15:00
+Tuesday: 15:00 - 17:00
+UG - 04, Tl-E4, A1- VINOTHINI M
+Date: 16-07-2026 to 26-09-2026
+Friday. 13:00 - - 15:00
+Monday: 10:00 - - 12:00
+Thursday: 13:00 - 15:00
+Wednesday: 10:00 - - 12:00
+UG - 04, Tl-Q9, A1 - SATHEESKUMAR R
+Date: 16-07-2026 to 26-09-2026
+Friday. 10:00 - - 12:00
+Saturday: 15:00 - 17:00
+Tuesday: 12:00
+Wednesday: 10:00 - 110011:00 - 12:00
+19EN616 11 Creditsl
+OPEN ELECTIVE - OPEN ELECVIVE-OE
+Course overview
+Yoga and Meditation
+UG - 25, PHASE-I, PED - AIDS & AIML
+Date: 21-06-2026 to 21-06-2026
+Tuesday: 22:24 - 22:25
+UG - 25, Tl-A60, PED - Raghuram G
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 08:00 - 10:00
+UG- 25, Tl-A61, PED - Raghuram G
+Date: 16-07-2026 to 26-09-2026
+Tuesday: 10:00 - 12:00
