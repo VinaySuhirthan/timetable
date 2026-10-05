@@ -1985,3 +1985,171 @@ Date: 08-10-2026 to 19-12-2026
 Friday: 13:00 - 14:00, 14:00 - 15:00
 Saturday: 15:00 - 16:00, 16:00 - 17:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EE306 [3 Credits]
+Course Name: Basic Electrical, Electronics and Instrumentation Engineering
+
+Section: T2-N27, EEE - PRABHU M S
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19CH407 [4 Credits]
+Course Name: Chemical Reaction Engineering I
+
+Section: T2-G22, CHEM - Senthilkumar P
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19CH408 [4 Credits]
+Course Name: Mass Transfer II
+
+Section: T2-G23, CHEM - Balasubramanian A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19AI301 [3 Credits]
+Course Name: Python Programming
+
+Section: T2-G31, AI - Mariya Monica Celestina A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-G21, AI - GAYATHRI N
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-D24, AI - Mariya Monica Celestina A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-J26, AI - GAYATHRI N
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EY710 [1 Credits]
+Course Name: Quantitative Ability I
+
+Section: T2-L26, TRAINING - PRASATH M
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-J29, TRAINING - ELUMALAI K
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-J25, TRAINING - SHABANA S
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-J22, TRAINING - ELUMALAI K
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I25, TRAINING - SHABANA S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-M21, TRAINING - ELUMALAI K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I34, TRAINING - ELUMALAI K
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-H340, TRAINING - MEGALA J
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-H31, TRAINING - PRASATH M
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-F25, TRAINING - SHABANA S
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-L22, TRAINING - SHABANA S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-G29, TRAINING - ELUMALAI K
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-K35, TRAINING - PRASATH M
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-K23, TRAINING - PRASATH M
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I38, TRAINING - SHABANA S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EN107 [2 Credits]
+Course Name: Technical Writing and Presentation
+
+Section: T2-L29, ENGLISH - Pariventhan K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19MA224 [4 Credits]
+Course Name: Transforms and Differential Equations
+
+Section: T2-S32, Maths - Jayamani V N
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19CH410 [4 Credits]
+Course Name: Transport Phenomena
+
+Section: T2-N26, CHEM - Kumar A .
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
