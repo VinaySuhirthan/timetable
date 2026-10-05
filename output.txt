@@ -2635,3 +2635,48 @@ Date: 08-10-2026 to 19-12-2026
 Saturday: 13:00 - 14:00, 14:00 - 15:00
 Thursday: 15:00 - 16:00, 16:00 - 17:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00, 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19CS408 [4 Credits]
+Course Name: Software Engineering
+
+Section: T2-R32, CSE - JEHAN C
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-K32, CSE - JEHAN C
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-H23, CSE - VIMITHA R VIDHYA LAKSHMI
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-E22, CSE - Ravindhar N.V
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-N40, CSE - VIMITHA R VIDHYA LAKSHMI
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-L38, CSE - Ravindhar N.V
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-A40, CSE - JEHAN C
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
