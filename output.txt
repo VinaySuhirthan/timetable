@@ -2153,3 +2153,470 @@ Friday: 08:00 - 09:00, 09:00 - 10:00
 Monday: 08:00 - 09:00, 09:00 - 10:00
 Saturday: 08:00 - 09:00, 09:00 - 10:00
 Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 9MS156 [3 Credits]
+Course Name: Human Resource Management and Team Building
+
+Section: T2-M25, MBA - Deepa M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I31, MBA - DIVYA RANJANI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-H27, MBA - DIVYAKALA C
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC420 [4 Credits]
+Course Name: Analog Communication
+
+Section: T2-V22, ECE - Chanthirasekaran K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-T48, ECE - Sugitha N
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-R40, ECE - VINOD KUMAR
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-Q30, ECE - Sugitha N
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC411 [4 Credits]
+Course Name: Antennas and Microwave Engineering
+
+Section: T2-S22, ECE - RAVICHANDRAN V
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-K22, ECE - SHARMILA J
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-E27, ECE - RAVICHANDRAN V
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19AI801 [3 Credits]
+Course Name: Artificial Intelligence and Applications
+
+Section: T2-V31, AI - Johncy G
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-V24, AI - KATHIRVEL A
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-U21, AI - Johncy G
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-S30, AI - Nalinipriya G
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-L21, AI - KATHIRVEL A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-S35, AI - KATHIRVEL A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-Q34, AI - Johncy G
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC418 [3 Credits]
+Course Name: Communication Networks and Security
+
+Section: T2-W31, ECE - Asha S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-W40, ECE - VINOD KUMAR
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EE312 [3 Credits]
+Course Name: Control System Engineering
+
+Section: T2-R39, EEE - Srinivasan P TSEE067
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-B40, EEE - LELEEDHAR RAO K
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-T47, EEE - LELEEDHAR RAO K
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC504 [3 Credits]
+Course Name: DSP Processors
+
+Section: T2-R23, ECE - Vinayagam P
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19CS404 [4 Credits]
+Course Name: Database Management System and its Applications
+
+Section: T2-I35, CSE - MAHALAKSHMI G
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I21, CSE - Panimalar S.P.
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-F33, CSE - ABINAYA G
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-D33, CSE - MAHALAKSHMI G
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-F26, CSE - KUMARAN U
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-D28, CSE - Panimalar S.P.
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-A24, CSE - Thirunavukkarasu S
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-J23, CSE - KUMARAN U
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-H32, CSE - Thirunavukkarasu S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC406 [4 Credits]
+Course Name: Digital Communication
+
+Section: T2-K37, ECE - Sathish Babu S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC801 [4 Credits]
+Course Name: Digital Logic Circuits Design
+
+Section: T2-W30, ECE - Jenisha C
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC409 [4 Credits]
+Course Name: Discrete Time Signal Processing
+
+Section: T2-V41, ECE - MUTHU KRISHNAMMAL P
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-W34, ECE - Thirumalai M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-C43, ECE - Sakthi K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC424 [3 Credits]
+Course Name: Embedded Systems and IoT
+
+Section: T2-B41, ECE - J.Jeffin Gracewell
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-D43, ECE - Chanthirasekaran K
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-U30, ECE - Arokia Nerling Rasoni G
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-K36, ECE - NirmalaDevi K
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EC520 [3 Credits]
+Course Name: Introduction to MEMS and NEMS
+
+Section: T2-K39, ECE - Aravind T
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-E26, ECE - Archana T
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC817 [3 Credits]
+Course Name: MEMS Fabrication and Integration
+
+Section: T2-V32, ECE - DINESH RAM G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC820 [3 Credits]
+Course Name: Nanoscience and Nano Technology
+
+Section: T2-S23, ECE - Ramya S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EC425 [3 Credits]
+Course Name: Optical Communication and Networks
+
+Section: T2-J40, ECE - JEYARANI J
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-B39, ECE - MAHENDRAN K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EC522 [3 Credits]
+Course Name: Physical Design for VLSI
+
+Section: T2-D39, ECE - Navaneetha Velammal
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC527 [4 Credits]
+Course Name: Real Time Operating System using QNX
+
+Section: T2-D38, ECE - ARUN P
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC511 [3 Credits]
+Course Name: Satellite Communication
+
+Section: T2-T45, ECE - JEYARANI J
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC806 [3 Credits]
+Course Name: Software for Embedded System
+
+Section: T2-K40, ECE - NirmalaDevi K
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC519 [3 Credits]
+Course Name: Testing of VLSI Circuits
+
+Section: T2-G41, ECE - Resmi R Nair
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EC410 [4 Credits]
+Course Name: VLSI Design
+
+Section: T2-U29, ECE - Resmi R Nair
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-S40, ECE - UMAMAHESWARI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-U38, ECE - POOVANNAN E
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC526 [3 Credits]
+Course Name: Verilog HDL
+
+Section: T2-Q28, ECE - DURGA DEVI A
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-K21, ECE - Karthiga M
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EC413 [3 Credits]
+Course Name: Wireless Communication
+
+Section: T2-J39, ECE - Selvi M
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-Q33, ECE - Hema Malini A
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
