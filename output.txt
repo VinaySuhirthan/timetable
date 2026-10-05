@@ -1962,3 +1962,26 @@ Thursday: 15:00 - 16:00, 16:00 - 17:00
 Section: T2-U22, PED - Raghuram G
 Date: 08-10-2026 to 19-12-2026
 Saturday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19MA222 [4 Credits]
+Course Name: Probability and Queueing Models
+
+Section: T2-E24, Maths - Kamalakannan V
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-B22, Maths - SUREKHA S S
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-F22, Maths - Gayathri Lakshmi M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
