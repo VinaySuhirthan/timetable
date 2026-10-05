@@ -1,1763 +1,1964 @@
 Subject: 19ME533 [4 Credits]
-Course Name: 3D Printing processes
+Course Name: 3D Printing Processes
 
-Section: 08, Tl-B9, MECH - Sellakumar S
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-N35, MECH - CALEB DANIEL R
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 08, Tl-H8, MECH- RAJA T
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-S43, MECH - Sellakumar S
+Date: 08-10-2026 to 19-12-2026
+Friday: 17:00 - 18:00, 18:00 - 19:00
+Saturday: 17:00 - 18:00, 18:00 - 19:00
+Thursday: 17:00 - 18:00, 18:00 - 19:00
 
-Section: 08, Tl-W7, MECH - CALEB DANIEL R
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
-
-Subject: 19TD609
+Subject: 19TD609 [2 Credits]
 Course Name: Abroad Studies Entry Preparation
 
-Section: 25, Tl-R8, ENGLISH - Saranya V
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
+Section: T2-N38, ENGLISH - RAVINDRA BABU G
+Date: 08-10-2026 to 19-12-2026
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 25, Tl-Z7, ENGLISH - MEGALA J
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-H38, ENGLISH - Saranya V
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI305 [3 Credits]
 Course Name: Advanced C Programming
 
-Section: 04, Tl-119, A1- KRISHNAMOORTHY J
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-
-Section: 04, Tl-J18, A1 - ALAGUMANI S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
+Section: T2-V28, AI - ALAGUMANI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
 Monday: 10:00 - 11:00, 11:00 - 12:00
-Saturday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-N16, A1 - ALAGUMANI S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, TI-VII,AI- Kiruthika S S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
-
-Section: 04, Tl-N18,A1 - Kiruthika S S
-Date: 16-07-2026 to 26-09-2026
-Thursday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
-
-Section: 04, Tl-N17, A1- Kumaravelu R
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-D17, A1- KRISHNAMOORTHY J
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-C20, A1- Nagendran k
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, Tl-P19,A1- Kumaravelu R
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
-
-Section: 04, TI-TIO,AI - Nagendran k
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-U37, AI - Kiruthika S S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I27, AI - ALAGUMANI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-H21, AI - Kiruthika S S
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-U28, AI - Kumaravelu R
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-D29, AI - Nagendran k
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-L27, AI - Nagendran k
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-I36, AI - SUBISHEK M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-F32, AI - Kumaravelu R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-B28, AI - SUBISHEK M
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI553 [3 Credits]
 Course Name: Advanced Java Web Applications
 
-Section: 04, Tl-A24, A1 - Surabhi M
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-U35, AI - Surabhi M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-N9, A1 - Surabhi M
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
+Section: T2-U39, AI - MANOJ V
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-T13, A1- MANOJ V
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
+Section: T2-U31, AI - MANOJ V
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-V8, A1- MANOJV
-Date: 16-07-2026 to 26-09-2026
+Section: T2-U23, AI - Surabhi M
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-T34, AI - MANOJ V
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
 Saturday: 13:00 - 14:00, 14:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-D9, A1 - MANOJ V
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
-
-Section: 04, A1 - Surabhi M
-Date: 16-07-2026 to 26-09-2026
-Thursday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
+Section: T2-B32, AI - Surabhi M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI404 [3 Credits]
 Course Name: Analysis of Algorithms
 
-Section: 04, Tl-Y8, A1 - MANICKAM S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-B30, AI - Selvanayaki S S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-U8, A1 - MANICKAM S
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Saturday: 10:00 - 12:00
-Thursday: 08:00 - 10:00
+Section: T2-A21, AI - Sasikala K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-C4, A1 - S S
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Tuesday: 13:00 - 15:00
+Section: T2-C30, AI - MANICKAM S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, TI-PIO,AI- Sasikala K
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
+Section: T2-C21, AI - Sasikala K
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-G8, A1 - Sasikala K
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
+Section: T2-A31, AI - MANICKAM S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI409 [3 Credits]
 Course Name: Applied Artificial Intelligence
 
-Section: 04, Tl-A19, A1 - Saravanan N
-Date: 16-07-2026 to 2609-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Saturday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-F31, AI - Saravanan N
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-B20, A1- Swedha .V
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-E33, AI - Swedha .V
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-J14, A1 - Saravanan N
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Saturday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-C24, AI - Saravanan N
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-Y9,A1 - Swedba .V
-Date: 16-07-2026 to 26-09-2026
-Saturday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-B29, AI - Swedha .V
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI550 [3 Credits]
 Course Name: Artificial Intelligence for Games
 
-Section: 04, Tl-V17, AM - Uma Rani V
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-P25, AM - Uma Rani V
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-AIO,AM - Uma Rani V
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Saturday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-F23, AM - Uma Rani V
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Subject: 19MSIS41 [3 Credits]
-Course Name: Basic F inancial Accounting
+Subject: 19MS154 [3 Credits]
+Course Name: Basic Financial Accounting
 
-Section: 04, Tl-L12, MBA- ELANGO J
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
+Section: T2-I30, MBA - SUGANYA BHARATHI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-JIO, MBA - Anitha L
-Date: 16-07-2026 to 26-09-2026
-Saturday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
+Section: T2-F24, MBA - PERIASAMY P
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-D15, MBA - PERIASAMY P
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
+Section: T2-M24, MBA - Anitha L
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI516 [3 Credits]
 Course Name: Big Data Mining and Analysis
 
-Section: 04, Tl-C14, A1 - DHANALAKSHMI J
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-
-Section: 04, TI-KII, A1 - DHANALAKSHMI J
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-P13, A1- DHANALAKSHMI J
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Saturday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
+Section: T2-P31, AI - DHANALAKSHMI J
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI547 [3 Credits]
 Course Name: Blockchain for Business
 
-Section: 04, Tl-Y17, A1 - KALADEVIR (TSA1042)
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-P30, AI - KALADEVI R (TSAI042)
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-X17, A1 - KALADEVIR (TSA1042)
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-L25, AI - KALADEVI R (TSAI042)
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Subject: 19AIS41 [4 Credits]
+Subject: 19CY602 [3 Credits]
+Course Name: Climate Change and Sustainability
+
+Section: T2-H37, CHEMISTRY - Yamini B
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-F36, CHEMISTRY - Muthupandian P
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-C39, CHEMISTRY - SHANTHI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-B37, CHEMISTRY - Shramila Queenthy S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19AI541 [4 Credits]
 Course Name: Cloud Computing
 
-Section: 04, Tl-BLENDED-2, A1- Malathi K
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
+Section: T2-P34, AI - Malathi K
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-BLENDED-I, AI - Malathi K
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 15:00 - 17:00
-
-Section: 04, Tl-R17, A1- SARATHI SUBRAMANI
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 15:00 - 17:00
-
-Section: 04, Tl-BLENDED-4,A1- SHOBANA M
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-
-Section: 04, Tl-BLENDED-3,A1- SHOBANA M
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 15:00 - 17:00
-
-Section: 04, Tl-P14,A1- Balaji Palani.
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 16:00, 16:00 - 17:00
-Monday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
+Section: T2-L24, AI - Balaji Palani
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-XIO, A1- Balaji Palani .
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
+Section: T2-F28, AI - Malathi K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, Tl-D8, A1 - SARATHI SUBRAMANI
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 15:00 - 17:00
-Saturday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
+Section: T2-C23, AI - SHOBANA M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-BLENDED,AI- Malathi K
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
-
-Section: 04, Tl-BLENDED-5, A1- SHOBANA M
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
+Section: T2-M34, AI - SHOBANA M
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00, 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS416 [3 Credits]
 Course Name: Cloud Security
 
-Section: 04, Tl-U12, CSE- Selva ReeganA
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-P29, CSE - Selva Reegan A
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, TI-HII, CSE - A
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Saturday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
+Section: T2-T35, CSE - Selva Reegan A
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19HS602 [2 Credits]
 Course Name: Community Engagement and Social Responsibility
 
-Section: 25, Tl-L8, ENGLISH - GOPALARAMASUBRAMANIYAN G
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
+Section: T2-Q32, ENGLISH - GOPALARAMASUBRAMANIYAN G
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 25, Tl-J12, ENGLISH - GOPALAIWMASUBIWMANIYAN G
-Date: 16-07-2026 to 26-09-2026
-Saturday: 15:00 - 17:00
+Section: T2-P28, ENGLISH - GOPALARAMASUBRAMANIYAN G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS409 [4 Credits]
 Course Name: Compiler Design
 
-Section: 04, Tl-B14, CSE - Ramachandran A
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
+Section: T2-H24, CSE - Ramachandran A
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-L13, CSE - Ramachandran A
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
+Section: T2-B21, CSE - Anitha Julian
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, TI-HIO, CSE - Anitha Julian
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-A30, CSE - Ramachandran A
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, TI-RII, CSE - Ramachandran A
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Saturday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
+Section: T2-G37, CSE - Ramachandran A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19CS305 [3 Credits]
+Course Name: Computer Architecture
+
+Section: T2-N28, CSE - C M VELU
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-K31, CSE - C M VELU
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-L37, CSE - C M VELU
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19AI509 [3 Credits]
+Course Name: Concepts of Virtual and Augmented Reality
+
+Section: T2-Q37, AI - Archana S H
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19EC604 [3 Credits]
 Course Name: Consumer Electronics
 
-Section: 06, TI-QI, ECE - Sowmiya Manoj M
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-U36, ECE - Sowmiya Manoj M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Subject: 19CS556 [3 Credits]
-Course Name: Core Computing Concepts
+Subject: 19CS415 [3 Credits]
+Course Name: Cryptography
 
-Section: 04, Tl-X19, CSE - PREMKUMAR K
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
+Section: T2-P37, CSE - Arul Oli A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-F15, CSE - PREMKUMAR K
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
+Section: T2-M32, CSE - Saravanan T
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-E19, CSE - PREMKUMAR K
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-I28, CSE - SUPRIYA S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-D35, CSE - Arul Oli A
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-C29, CSE - Saravanan T
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19CS418 [3 Credits]
 Course Name: Cyber Law and Compliance
 
-Section: 04, Tl-A12, CSE - Sangeetha Priya M
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 13:00 - 15:00
-Wednesday: 15:00 - 17:00
+Section: T2-E28, CSE - PONMATHI JEBA KIRUBA P
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-S7, CSE - Sangeetha Priya M
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
+Section: T2-C36, CSE - PONMATHI JEBA KIRUBA P
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-D37, CSE - PONMATHI JEBA KIRUBA P
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI408 [3 Credits]
 Course Name: Data Structures
 
-Section: 04, Tl-F13,A1- Silambarasi C
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Thursday: 15:00 - 17:00
+Section: T2-J30, AI - POTNURI ANITHA
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, Tl-A13, A1 - RENUGADEVIR
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 11:00, 11:00 - 12:00
-Saturday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-I39, AI - RENUGADEVI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, TI-LII,AI- POTNURI AMTHA
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-E37, AI - Silambarasi C
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, TI-ZIO, A1- Dinesh Babu G L
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-C22, AI - Joel Jhon
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, TI-RIO,AI - Dinesh Babu G L
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 10:00 - 12:00
-Thursday: 11:00 - 12:00
-Tuesday: 15:00 - 17:00
+Section: T2-B31, AI - POTNURI ANITHA
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-J9, A1- Silambarasi C
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 15:00 - 17:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
-
-Section: 04, Tl-U7, A1- POTNURI AMTHA
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 10:00 - 12:00
-Thursday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
-
-Subject: 19CS404 [4 Credits]
-Course Name: Database Management System and its Applications
-
-Section: 04, Tl-BLENDED-2, CSE - ABINAYA G
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-
-Section: 04, Tl-S20, CSE - MAHALAKSHMI G
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
-
-Section: 04, TI-BLENDED, CSE - ABINAYA G
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 10:00 - 12:00
-
-Section: 04, Tl-X14, CSE - Panimalar S.P.
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
-
-Section: 04, Tl-A30, CSE - Thirunavukkarasu S
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-R19, CSE - Panimalar S.p.
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, TI-BLENDED-I, CSE - ABINAYA G
-Date: 16-07-2026 to 26-09-2026
-Thursday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, Tl-118, CSE - KUMARAN U
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-Z13, CSE - KUMARAN U
-Date: 16-07-2026 to 2+09-2026
-Friday: 15:00 - 17:00
-Saturday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 15:00 - 17:00
-
-Section: 04, TI-MII, CSE - Thirunavukkarasu S
-Date: 16-07-2026 to 2609-2026
-Friday: 08:00 - 10:00
-Saturday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
+Section: T2-A32, AI - RENUGADEVI R
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
 Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-KIO, CSE - MAHALAKSHMI G
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 14:00, 14:00 - 15:00
-Thursday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-A22, AI - Silambarasi C
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI413 [3 Credits]
 Course Name: Deep Learning and its Applications
 
-Section: 04, TI-BLENDED-I, A1- varalaksrrrni J
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Wednesday: 15:00 - 17:00
+Section: T2-P36, AI - SREE LAKSHMI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-BLENDED,AI - varalakshmi J
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 15:00 - 17:00
+Section: T2-BLENDED-5, AI - Varalakshmi J
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-J17, A1- SREE LAKSHMI S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
+Section: T2-H34, AI - SREE LAKSHMI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-B17, A1- SREE LAKSHMI S
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-BLENDED-4, AI - Varalakshmi J
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-L16, A1- MICHAEL MAHESH K
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 08:00 - 10:00
-Saturday: 15:00 - 17:00
-Thursday: 10:00 - 12:00
+Section: T2-K24, AI - MICHAEL MAHESH K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-BLENDED-2, A1 - Varalakshmi J
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
+Section: T2-BLENDED-6, AI - Varalakshmi J
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19CS419 [3 Credits]
 Course Name: Digital Forensics and Digital Investigations
 
-Section: 04, TI-GII, CS - Suresh Kumar K
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
+Section: T2-P32, CS - Devi S
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-L40, CS - Suresh Kumar K
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EC503 [3 Credits]
+Course Name: Digital Image Processing
+
+Section: T2-T44, ECE - Keerthiga G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-B38, ECE - Vanitha M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI406 [3 Credits]
 Course Name: Digital Image Processing Techniques
 
-Section: 04, Tl-C18, A1 - MANIKANDAN sp
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 13:00 - 14:00, 14:00 - 15:00
-Thursday: 10:00 - 12:00
+Section: T2-T38, AI - MANIKANDAN SP
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-D19, A1 - MANIKANDAN sp
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Wednesday: 15:00 - 17:00
+Section: T2-R34, AI - MICHAEL MAHESH K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-M12, A1 - BHANU PRIYA p
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
+Section: T2-R29, AI - MANIKANDAN SP
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-V12,A1- HEMA R
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
+Section: T2-H22, AI - SUGUNA DEVI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-X16, A1- SUGUNA DEVI R
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-P23, AI - BHANU PRIYA P
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-T15, A1- NARESH V
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-M27, AI - HEMA R
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-H15, A1 - MICHAEL MAHESH K
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Thursday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-A14, A1- MANIKANDAN sp
-Date: 16-07-2026 to 26-09-2026
+Section: T2-K27, AI - NARESH V
+Date: 08-10-2026 to 19-12-2026
 Friday: 15:00 - 16:00, 16:00 - 17:00
-Saturday: 15:00 - 17:00
-Thursday: 13:00 - 15:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-D40, AI - MANIKANDAN SP
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS421 [3 Credits]
-Course Name: Edge C
+Course Name: Edge Computing
 
-Section: 04, Tl-Q18, CSE - ANNA PALAGAN C
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 10:00 - 12:00
+Section: T2-U32, CSE - Sripriya Ranganathan
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EC605 [3 Credits]
+Course Name: Electronic System Design
+
+Section: T2-S36, ECE - Praveen M
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19EY712 [1 Credits]
 Course Name: Employment Enrichment Skills
 
-Section: 25, Tl-Y13, TRAINING - PRIYA DARSHINI S
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
+Section: T2-N25, TRAINING - PRIYA DARSHINI S
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 25, TI-CI, TRAINING - PRIYA DARSHINIS
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-E39, TRAINING - PRIYA DARSHINI S
+Date: 08-10-2026 to 19-12-2026
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Subject: 19AI302 [3 Credits]
-Course Name: Engineering Design and Modelling
+Section: T2-I29, TRAINING - EVANGELIN HELEN
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-H17,A1 - SUDHARSAN K
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Subject: 19AI303 [3 Credits]
+Course Name: Engineering Mechanics and Product Development
 
-Section: 04, Tl-V14, A1 - SUDHARSAN K
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
+Section: T2-N31, AI - CALEB DANIEL R
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-Q15,A1 - SUDHARSAN K
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
+Section: T2-P21, AI - CALEB DANIEL R
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Subject: 19CS580 [3 Credits]
-Course Name: Enterprise Cyber Security and Threat Detection
+Subject: 19CS582 [4 Credits]
+Course Name: Enterprise Networking and Network Security
 
-Section: 04, Tl-F19, CSE - AUGUSTIAN ISAAC R
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
+Section: T2-N36, CSE - AUGUSTIAN ISAAC R
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS570 [3 Credits]
 Course Name: Entrepreneurship and Small Business Development
 
-Section: 04, Tl-N20, CSE - HAND IN HAND FACULTY - 1
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-R30, CSE - HAND IN HAND FACULTY - I
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-M20, CSE - HAND IN HAND FACULTY - 1
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
-
-Subject: 19CY801 [2 Credits]
-Course Name: Environmental Sciences and Sustainability
-
-Section: 25, Tl-A69, CHEMISTRY - SHANTHI S
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 17:32 - 17:33
-
-Section: 25, Tl-A64, CHEMISTRY - Mettilda M
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 17:22 - 17:23
-
-Section: 25, Tl-A70, CHEMISTRY - B MOHAMAD ALI
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 17:34 - 17:35
-
-Section: 25, Tl-A66, CHEMISTRY - Lavanya G
-Date: 16-07-2026 to 26-09-2026
-Friday: 17:26 - 17:27
+Section: T2-M28, CSE - HAND IN HAND FACULTY - I
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19CS417 [3 Credits]
 Course Name: Ethical Hacking Techniques
 
-Section: 04, Tl-A15, CSE - AUGUSTIAN ISAAC R
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-G17, CSE - AUGUSTIAN ISAAC R
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 15:00 - 17:00
+Section: T2-R35, CSE - Gowri Ganesh N S
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AI555 [3 Credits]
 Course Name: Exploratory Data Analysis
 
-Section: 04, Tl-P20, A1- BHARATHIA
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
+Section: T2-M29, AI - BHARATHI A
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, Tl-J15, A1 - BHARATHI A
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-D14, A1 - BHARATHI A
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-Q25, AI - BHARATHI A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19CY601 [2 Credits]
 Course Name: Food Nutrition and Health Technology
 
-Section: 25, Tl-A28, CHEMISTRY - B MOHAMAD ALI
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
+Section: T2-K38, CHEMISTRY - SHANTHI S
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, Tl-M9, CHEMISTRY - Yamini B
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
+Section: T2-G35, CHEMISTRY - Anand S
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 25, Tl-W6, CHEMISTRY - Muthupandian P
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
+Section: T2-G25, CHEMISTRY - B MOHAMAD ALI
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, TI-FS, CHEMISTRY - Lavanya G
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
+Section: T2-E25, CHEMISTRY - Mettilda M
+Date: 08-10-2026 to 19-12-2026
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, Tl-F9, CHEMISTRY - Vivekanand p A
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 13:00 - 15:00
+Section: T2-B36, CHEMISTRY - Vivekanand P A
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, Tl-L7, CHEMISTRY - SHANTHI S
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 08:00 - 10:00
+Section: T2-A25, CHEMISTRY - Yamini B
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 25, Tl-B4, CHEMISTRY - DOLLI H
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 15:00 - 17:00
+Section: T2-J38, CHEMISTRY - Shramila Queenthy S
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, TI-EIO, CHEMISTRY - Anand S
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-
-Section: 25, Tl-Q7, CHEMISTRY - Shramna Queenthy S
-Date: 16-07-2026 to 26-09-2026
-Saturday: 08:00 - 10:00
+Section: T2-E40, CHEMISTRY - DOLLI H
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI405 [3 Credits]
 Course Name: Fundamentals of Artificial Intelligence
 
-Section: 04, Tl-Y14,A1 - SUNITHA T
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-U26, AI - Murugesan S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-U13, AI - RAJALAKSHMI E
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
+Section: T2-M22, AI - PREMNATH K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-J13, A1- PUGALENTHIR
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
-Tuesday: 08:00 - 10:00
+Section: T2-L23, AI - PUGALENTHI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, TI-NII,AI- Murugesan S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-J24, AI - RAJALAKSHMI E
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-S9, A1 - Murugesan S
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-F29, AI - SUNITHA T
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-R9, A1- PUGALENTHIR
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-E36, AI - YASHINI P
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-19,A1- RAJALAKSHMI E
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 08:00 - 10:00
-Saturday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-D32, AI - Murugesan S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-G9, A1 - PREMNATH K
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-D27, AI - PREMNATH K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-W8, A1- SUNITHA T
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-C32, AI - PUGALENTHI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-D4, A1- YASHINI P
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-C27, AI - RAJALAKSHMI E
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, T14214, A1 - RAMSHANKAR N
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-A33, AI - YASHINI P
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-E13,A1 - PREMNATH K
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-I26, AI - RAMSHANKAR N
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-B27, AI - RAMSHANKAR N
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-A37, AI - SUNITHA T
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AI304 [3 Credits]
 Course Name: Fundamentals of C Programming
 
-Section: 04, Tl-W18,A1- Shankar P
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
+Section: T2-I23, AI - Shankar P
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-E16, A1- Shankar P
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Saturday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-D34, AI - Shankar P
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Subject: 19CSS47 [3 Credits]
+Subject: 19CS547 [3 Credits]
 Course Name: Fundamentals of Cryptocurrency
 
-Section: 04, Tl-N15, CSE- Devi S
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
-
-Section: 04, Tl-Y6, CSE- DeviS
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-U33, CSE - Devi S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AI513 [4 Credits]
 Course Name: Game Programming
 
-Section: 04, Tl-A17, A1 - MONOLITH FACULTY
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-A29, AI - MONOLITH FACULTY
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-Z16, A1- MONOLITH FACULTY
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-K34, AI - MONOLITH FACULTY
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19CS579 [3 Credits]
-Course Name: Generative Al Application Development
+Course Name: Generative AI Application Development
 
-Section: 04, TI-BLENDED, CSE - Jat,a Jasphin E.T
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-BLENDED-9, CSE - Jaba Jasphin E.T
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19GE627 [2 Credits]
+Course Name: German Language A1 Advanced
+
+Section: T2-W29, ENGLISH - RAJA BOBBILI
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-W32, ENGLISH - SRIDEVI UDAYASHANKAR
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-W22, ENGLISH - SRIDEVI UDAYASHANKAR
+Date: 08-10-2026 to 19-12-2026
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-W39, ENGLISH - RAJA BOBBILI
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19GE626 [2 Credits]
+Course Name: German Language A1 Basic
+
+Section: T2-D25, ENGLISH - RAJA BOBBILI
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-C34, ENGLISH - SRIDEVI UDAYASHANKAR
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19CS509 [3 Credits]
+Course Name: Graph Theory and Applications
+
+Section: T2-R31, CSE - Aswini J
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AM509 [3 Credits]
-Course Name: Industrial Intemet of Things
+Course Name: Industrial Internet of Things
 
-Section: 04, Tl-B18, AM - ANNA PALAGAN C
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
+Section: T2-Q26, AM - SAVITHA V
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19GE628 [2 Credits]
 Course Name: Industrial Product Development and Prototyping
 
-Section: 23, Tl-A26, A1 - Sellakumar S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Thursday: 15:00 - 17:00
+Section: T2-V25, AI - Sellakumar S
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 23, Tl-T7, A1- YUVARAJ M
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
+Section: T2-I33, AI - RAJA T
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-H29, AI - Sellakumar S
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19GE629 [3 Credits]
+Course Name: Innovation and Venture Development
+
+Section: T2-S25, ENGLISH - VIMITHA R VIDHYA LAKSHMI
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-S29, ENGLISH - DHANALAKSHMI J
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-Q31, ENGLISH - J.Jeffin Gracewell
+Date: 08-10-2026 to 19-12-2026
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-N23, ENGLISH - Kannan R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19PH601 [3 Credits]
 Course Name: Instrumentation and Applied Physics in Engineering
 
-Section: 04, Tl-J2, PHYSICS - Priya M
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
-
-Subject: 19AI403 [3 Credits]
-Course Name: Introduction to Data Science
-
-Section: 04, Tl-117, A1- VISHNUPRIYA K
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, Tl-Y16, A1 - VISHNUPRIYAK
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Tuesday: 10:00 - 12:00
-
-Section: 04, Tl-T16, A1- Karthi Govindharaju
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Tuesday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
-
-Section: 04, TI-DII, A1- Dhinesh Kumar KS
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
-
-Section: 04, Tl-W17, A1 - VISHNUPRIYAK
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-H30, PHYSICS - S VARALAKSHMI
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AM508 [3 Credits]
-Course Name: Introduction to 10T
+Course Name: Introduction to IoT
 
-Section: 04, TI-EII, IOT - SAVITHA V
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-V33, IOT - Karthiga M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-FIO, IOT - KarthigaM
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-T36, IOT - SAVITHA V
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-E9, IOT - ANNA PALAGAN C
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
+Subject: 19AI410 [3 Credits]
+Course Name: Introduction to Machine Learning
+
+Section: T2-T31, AI - PRABU SANKAR N
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-BLENDED-1, AI - PRIYADHARSHINI S
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-S28, AI - SUHASINI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-R37, AI - THAMIZHARASI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-J31, AI - ANISH ANTONY .
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-J28, AI - PRABU SANKAR N
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-G40, AI - SUHASINI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-C28, AI - THAMIZHARASI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-T40, AI - ANISH ANTONY .
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-P39, AI - ATHIRAJA A
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-BLENDED, AI - PRIYADHARSHINI S
+Date: 08-10-2026 to 19-12-2026
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-BLENDED-2, AI - PRIYADHARSHINI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19EC602 [3 Credits]
 Course Name: Introduction to Micro Electro Mechanical Systems
 
-Section: 06, TI-NS, ECE - Lingaraja D
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-U40, ECE - Lingaraja D
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19AI533 [3 Credits]
 Course Name: Introduction to Robotics
 
-Section: 04, Tl-Z17,A1- RAJAT
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-N30, AI - RAJA T
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EN619 [2 Credits]
+Course Name: Inventions and Discoveries
+
+Section: T2-U24, ENGLISH - Rangarathnam Gopu
+Date: 08-10-2026 to 19-12-2026
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-P43, ENGLISH - Rangarathnam Gopu
+Date: 08-10-2026 to 19-12-2026
+Thursday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19GE625 [2 Credits]
+Course Name: Japanese Language N5 Advanced
+
+Section: T2-L43, ENGLISH - Subashini D
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-A43, ENGLISH - Subashini D
+Date: 08-10-2026 to 19-12-2026
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-I43, ENGLISH - ANISH KUMAR B
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19GE624 [2 Credits]
+Course Name: Japanese Language N5 Basic
+
+Section: T2-L30, ENGLISH - ANISH KUMAR B
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-J32, ENGLISH - Subashini D
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI534 [3 Credits]
 Course Name: Kinematics and Dynamics of Robots
 
-Section: 04, Tl-L20, A1- RAJAT
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-M31, AI - RAJA T
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, Tl-X20, A1 - Sellakumar S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 15:00 - 17:00
-Saturday: 10:00 - 12:00
+Subject: 19EC408 [4 Credits]
+Course Name: Microprocessor and Microcontroller
+
+Section: T2-W33, ECE - BHANU PRIYA P
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00, 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-U41, ECE - SUGUNA DEVI R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-B43, ECE - NARESH V
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00, 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI539 [3 Credits]
 Course Name: Mobile User Interface Development
 
-Section: 04, Tl-E18,A1- Surya S
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
+Section: T2-Q21, AI - Surya S
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-H20,A1 - Surya S
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-B33, AI - Surya S
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-M36, AI - Surya S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00
-
-Section: 04, Tl-T18,A1- Surya S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
 
 Subject: 19EN605 [2 Credits]
 Course Name: Modern Trends in Physical Education and Sports Sciences
 
-Section: 25, TI-UIS, ENGLISH - Balasingh D
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 08:00 - 10:00
+Section: T2-R21, ENGLISH - Balasingh D
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 25, TI-SI, ENGLISH - Prabhakaran G
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 15:00 - 17:00
+Section: T2-N33, ENGLISH - Prabhakaran G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI545 [3 Credits]
-Course Name: Modem Web Application Development
+Course Name: Modern Web Application Development
 
-Section: 04, Tl-114, A1- Muthu hariharan S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-M38, AI - Jaashika K M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-H12,A1 - J•aashika K M
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-A27, AI - Jaashika K M
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-BII,AI- Jaashika KM
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, TI-GIO,AI - Muthu hariharan S
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Wednesday: 10:00 - 11:00, 11:00 - 12:00
-
-Section: 04, A1 - Muthu bariharan S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
-
-Subject: 19PH602 [3 Credits]
-Course Name: Nanophotonics: Physics, Fabrication and Technologies
-
-Section: 25, TI-PI, PHYSICS - Silambarasan M
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 11:00, 11:00 - 12:00
+Section: T2-L39, AI - Jaashika K M
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS581 [3 Credits]
 Course Name: Network Infrastructure and Protocols
 
-Section: 04, Tl-U19, CSE - SUNDARAVADIVEL P
-Date: 16-07-2026 to 26-09-2026
-Saturday: 08:00 - 10:00
-Thursday: 15:00 - 17:00
-Tuesday: 13:00 - 15:00
+Section: T2-T52, CSE - SUNDARAVADIVEL P
+Date: 08-10-2026 to 19-12-2026
+Thursday: 17:00 - 18:00, 18:00 - 19:00
+Tuesday: 17:00 - 18:00, 18:00 - 19:00
+Wednesday: 17:00 - 18:00, 18:00 - 19:00
+
+Section: T2-U43, CSE - AUGUSTIAN ISAAC R
+Date: 08-10-2026 to 19-12-2026
+Thursday: 17:00 - 18:00, 18:00 - 19:00
+Tuesday: 17:00 - 18:00, 18:00 - 19:00
+Wednesday: 17:00 - 18:00, 18:00 - 19:00
+
+Section: T2-R22, CSE - AUGUSTIAN ISAAC R
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-Q23, CSE - SUNDARAVADIVEL P
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19CS583 [4 Credits]
+Course Name: Network Switching, Routing and Wireless Technologies
+
+Section: T2-M39, CSE - SUNDARAVADIVEL P
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI411 [3 Credits]
 Course Name: Neural Networks
 
-Section: 04, Tl-Z9, A1- LAVANYA G SCOFT
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-H33, AI - Jesila mol J
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-E38, AI - SARATHI SUBRAMANI
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-E32, AI - Jesila mol J
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-A39, AI - LAVANYA G SCOFT
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-F34, AI - LAVANYA G SCOFT
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI307 [3 Credits]
 Course Name: Object Oriented Programming using Java
 
-Section: 04, Tl-C17, A1 - Tenali Ravi Kumar
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-F27, AI - Magitha Nirmala Tennyson
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-A16, A1 - Shanmuga Priya S
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-E31, AI - NANDAKUMAR S D
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-N7, A1 - Shanmuga Priya S
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
+Section: T2-D22, AI - Shanmuga Priya S
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-S13,A1 - NANDAKUMAR S D
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-C31, AI - Tenali Ravi Kumar
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-Z12,A1- Magitha Nirmala Tennyson
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Saturday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
+Section: T2-C26, AI - Magitha Nirmala Tennyson
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, TI-MIO, AI - Magitha Nirmala Tennyson
-Date: 16-07-2026 to 2&09-2026
-Monday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-B26, AI - NANDAKUMAR S D
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-X9, A1- TenaliRavi Kumar
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
+Section: T2-A36, AI - Shanmuga Priya S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-T9,A1- KSARANYA
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Saturday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-L9, A1- NANDAKUMAR S D
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
-Tuesday: 10:00 - 12:00
+Section: T2-A23, AI - Tenali Ravi Kumar
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19CS545 [3 Credits]
 Course Name: Open Source Operating System
 
-Section: 04, Tl-A22, CSE - ADVANTAGE PRO FACULTY
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
+Section: T2-P22, CSE - ADVANTAGE PRO FACULTY
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-A21, CSE - ADVANTAGE PRO FACULTY
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
+Section: T2-N37, CSE - ADVANTAGE PRO FACULTY
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19AI407 [4 Credits]
 Course Name: Parallel Computing Architecture
 
-Section: 04, Tl-Z19,A1- Sathya U
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-BLENDED-1, AI - Aswini J
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-BLENDED-I, A1- Aswini J
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Tuesday: 15:00 - 17:00
+Section: T2-K29, AI - Sathya U
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, TI-BLENDED, A1- Aswini J
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
+Section: T2-BLENDED, AI - Aswini J
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-N12,A1 - Sathya U
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-E21, AI - Sathya U
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-T19,A1- Sathya U
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-K33, AI - Sathya U
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Subject: 19PH814 [3 Credits]
-Course Name: Physics for Quantum Computing
+Subject: 19CS301 [4 Credits]
+Course Name: Problem Solving and Python Programming
 
-Section: 25, Tl-E15, PHYSICS - Sangeetha L
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
-
-Section: 25, TI-PIS, PHYSICS - Silambarasan M
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
+Section: T2-G32, IT - KIRUTHIKA A
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19EE309 [3 Credits]
 Course Name: Programming Microcontrollers
 
-Section: 05, Tl-Q20, A1 - VAIGUNDAMOORTHI M
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
+Section: T2-Q35, AI - MARISARGUNAM S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 05, Tl-U17,A1 - SAVITHA V
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
+Section: T2-G27, AI - PRABHU M S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 05, Tl-A25, A1 - VAIGUNDAMOORTHI M
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
+Section: T2-C37, AI - VAIGUNDAMOORTHI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 05, Tl-W12, A1 - M
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Saturday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
-
-Section: 05, Tl-U16,A1 - PRABHU M S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 13:00 - 15:00
-Thursday: 15:00 - 17:00
-
-Section: 05, Tl-H14, A1 - MARISARGUNAM S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
+Section: T2-A26, AI - MARISARGUNAM S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19AI540 [3 Credits]
 Course Name: Programming Mobile Devices
 
-Section: 04, Tl-W20, A1 - THAVA VINU A
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Tuesday: 08:00 - 10:00
+Section: T2-Q22, AI - THAVA VINU A
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-S18,A1 - THAVA VINU A
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-M37, AI - THAVA VINU A
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 04, Tl-D18, A1 - THAVA VINU A
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-L31, AI - THAVA VINU A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19TD608 [2 Credits]
-Course Name: prompt Engineering
+Course Name: Prompt Engineering
 
-Section: 25, Tl-V7, A1 - Dr C. Rajendra Thilahar
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Saturday: 08:00 - 10:00
+Section: T2-G34, AI - Dr C. Rajendra Thilahar
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 25, Tl-R7, A1 - Dr C. Rajendra Thilahar
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
+Section: T2-G24, AI - Hemavathy P
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 25, Tl-M7, A1- Hemavathy P
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Thursday: 08:00 - 10:00
+Section: T2-D36, AI - Dr C. Rajendra Thilahar
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, Tl-X15, A1 - P
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 08:00 - 10:00
-Thursday: 10:00 - 12:00
+Section: T2-C35, AI - Hemavathy P
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
-Section: 25, TI-GS,AI - Dr C. Rajendra Thilahar
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Saturday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
+Section: T2-B35, AI - Dr C. Rajendra Thilahar
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
 Subject: 19CS420 [3 Credits]
-Course Name: Prototyping Of 10T Systems
+Course Name: Prototyping of IoT Systems
 
-Section: 04, Tl-G18, IOT - Sripriya Ranganathan
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Saturday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-L33, IOT - Sripriya Ranganathan
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
 
-Subject: 19AI301 [3 Credits]
-Course Name: Python Programming
+Subject: 19EN105 [3 Credits]
+Course Name: Public Speaking
 
-Section: 04, Tl-A45, A1 - D PAVAI
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Saturday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-A42, AI - Mariya Monica Celestina A
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
-
-Section: 04, Tl-A54, A1 - Mariya Monica Celestina A
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-Wednesday: 10:00 - 12:00
-
-Subject: 19EY710 [1 Credits]
-Course Name: Quantitative Ability I
-
-Section: 25, Tl-E17, TRAINING - AYILYABL
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 15:00 - 17:00
-
-Section: 25, Tl-Z14, TRAINING - SHABANAS
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-
-Section: 25, Tl-K14, TRAINING - PRASATH M
-Date: to 26-09-2026
-Monday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
-
-Section: 25, Tl-G13, TRAINING - MEGALAJ
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-
-Section: 25, TI-PII, TRAINING - ELUMALAI K
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Tuesday: 13:00 - 15:00
-
-Section: 25, TI-BIO, TRAINING - RAVINDRA BABU G
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
-
-Section: 25, Tl-C13, TRAINING - MATHIVANAN A
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
-
-Section: 25, Tl-E5, TRAINING - AYILYA BL
-Date: 16-07-2026 to 2609-2026
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-
-Section: 25, Tl-Q17, TRAINING - RAVINDRA BABU G
-Date: 16-07-2026 to 2+09-2026
-Saturday: 10:00 - 12:00
-Thursday: 10:00 - 12:00
-
-Section: 25, Tl-R14, TRAINING - PREMKUMARP
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Thursday: 15:00 - 17:00
-
-Section: 25, TI-WIO, TRAINING - ARUNACHALAM S
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Thursday: 08:00 - 10:00
-
-Section: 25, Tl-Y12, TRAINING - Manoj Krishna M
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Saturday: 15:00 - 17:00
-
-Subject: 19EV711 [1 Credits]
-Course Name: Quantitative Ability 11
-
-Section: 25, Tl-P16, TRAINING - PRASATH M
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
-
-Section: 25, Tl-R13, TRAINING - Manoj Krishna M
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Saturday: 08:00 - 10:00
-
-Section: 25, Tl-H9, TRAINING - MATHIVANAN A
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Wednesday: 08:00 - 10:00
-
-Section: 25, Tl-A9, TRAINING - ELUMALAI K
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-
-Section: 25, TI-KI, TRAINING - SHABANA S
-Date: 16-07-2026 to 26-09-2026
-Monday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
-
-Section: 25, PHASBI, TRAINING - AIDS & AIML
-Date: 21-06-2026 to 21-06-2026
-Tuesday: 22:32 - 22:33
-
-Section: 25, Tl-K17, TRAINING - PREMKUMAR p
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 15:00 - 17:00
-
-Section: 25, Tl-C16, TRAINING - MATHIVANAN A
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Tuesday: 08:00 - 10:00
-
-Section: 25, TI-AII, TRAINING - ARUNACHALAM S
-Date: 16-07-2026 to 2+09-2026
-Tuesday: 10:00 - 11:00, 11:00 - 12:00
-Wednesday: 08:00 - 10:00
-
-Section: 25, TI-NIO, TRAINING - RAVINDRABABU G
-Date: 16-07-2026 to 2609-2026
-Saturday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-
-Section: 25, Tl-K9, TRAINING - AYILYABL
-Date: 16-07-2026 to 2609-2026
+Section: T2-V38, ENGLISH - EVANGELIN HELEN
+Date: 08-10-2026 to 19-12-2026
 Friday: 15:00 - 16:00, 16:00 - 17:00
-Tuesday: 15:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 25, Tl-K8, TRAINING - ARUNACHALAM S
-Date: 16-07-2026 to 26-09-2026
-Thursday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
+Subject: 19EY711 [1 Credits]
+Course Name: Quantitative Ability II
 
-Section: 25, Tl-E8, TRAINING - PREMKUMAR p
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-H36, TRAINING - Manoj Krishna M
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, Tl-Y7, TRAINING - Manoj Krishna M
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Tuesday: 10:00 - 12:00
+Section: T2-F35, TRAINING - RAVINDRA BABU G
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, Tl-X13, TRAINING - PRASATH M
-Date: 16-07-2026 to 26-09-2026
-Saturday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-D26, TRAINING - MATHIVANAN A
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, Tl-V9, TRAINING - MEGALAJ
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Wednesday: 15:00 - 17:00
+Section: T2-B34, TRAINING - RAVINDRA BABU G
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 25, Tl-U18, TRAINING - SHABANA S
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Thursday: 10:00 - 12:00
+Section: T2-B25, TRAINING - Manoj Krishna M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-A35, TRAINING - MATHIVANAN A
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-F40, TRAINING - RAVINDRA BABU G
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-E35, TRAINING - Manoj Krishna M
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-E30, TRAINING - MATHIVANAN A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-D31, TRAINING - Manoj Krishna M
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-C25, TRAINING - MATHIVANAN A
+Date: 08-10-2026 to 19-12-2026
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-G38, TRAINING - MATHIVANAN A
+Date: 08-10-2026 to 19-12-2026
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-D21, TRAINING - Manoj Krishna M
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-F30, TRAINING - RAVINDRA BABU G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19CS529 [3 Credits]
 Course Name: Quantum Computing
 
-Section: 23, Tl-A40, A1 - GOBALAKRISHNAN N
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
+Section: T2-L32, AI - GOBALAKRISHNAN N
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 23, Tl-AS5, A1 - GOBALAKRISHNAN N
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 10:00 - 12:00
-Saturday: 08:00 - 10:00
+Section: T2-Q24, AI - GOBALAKRISHNAN N
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 23, Tl-ll, A1 - GOBALAKRISHNAN N
-Date: 16-07-2026 to 26-09-2026
-Wednesday: 10:00 - 12:00
+Section: T2-N32, AI - GOBALAKRISHNAN N
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Subject: 19EY709 [1 Credits]
+Course Name: Reasoning Ability
+
+Section: T2-T42, TRAINING - JAYPREETHA V R
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-T39, TRAINING - MEGALA J
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-S39, TRAINING - Saranya V
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-S37, TRAINING - Saranya V
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-H35, TRAINING - JAYPREETHA V R
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-Q38, TRAINING - Sneha Priya p
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 10:00 - 11:00, 11:00 - 12:00, 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-T30, TRAINING - Sneha Priya p
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-R36, TRAINING - Saranya V
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-I37, TRAINING - JAYPREETHA V R
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-G33, TRAINING - Sneha Priya p
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-S26, TRAINING - Saranya V
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-R25, TRAINING - JAYPREETHA V R
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-P40, TRAINING - JAYPREETHA V R
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-P33, TRAINING - Sneha Priya p
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-I24, TRAINING - Sneha Priya p
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI505 [3 Credits]
-Course Name: Reinforcement Leaming
+Course Name: Reinforcement Learning
 
-Section: 04, TI-BLENDED-I, A1- Jaba Jas-phil' E.T
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Tuesday: 15:00 - 17:00
+Section: T2-BLENDED-7, AI - Jaba Jasphin E.T
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-L14,A1- Jayanthi G
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-K26, AI - Jayanthi G
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Section: 04, Tl-BLENDED-2, A1- Jaba Jasphin E.T
-Date: 16-07-2026 to 26-09-2026
-Thursday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-BLENDED-8, AI - Jaba Jasphin E.T
+Date: 08-10-2026 to 19-12-2026
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
 
-Subject: 19CS422 [3 Credits]
-Course Name: Security for IoT Systems
+Subject: 19CS565 [3 Credits]
+Course Name: Robotic Process Automation
 
-Section: 04, Tl-R18, CSE - Sripriya Ranganathan
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Saturday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
-
-Subject: 19CS408 [4 Credits]
-Course Name: Software Engineering
-
-Section: 04, Tl-F17, CSE - VIMITHA R VIDHYA LAKSHMI
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
-
-Section: 04, Tl-K15, CSE - DIVYA K TSCS228
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-
-Section: 04, Tl-B15, CSE - N.V
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 15:00 - 17:00
-Tuesday: 13:00 - 15:00
-
-Section: 04, Tl-S14, CSE - VIMITHAR VIDHYA LAKSHMI
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Monday: 10:00 - 12:00
-Saturday: 13:00 - 15:00
-
-Section: 04, TI-QII, CSE - Ravindhar N.V
-Date: 16-07-2026 to 2+09-2026
-Friday: 13:00 - 15:00
-Monday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-
-Section: 04, Tl-W16, CSE - DIVYAK TSCS228
-Date: 16-07-2026 to 26-09-2026
-Thursday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-R16, CSE - VIMITHA R VIDHYA LAKSHMI
-Date: 16-07-2026 to 26-09-2026
-Saturday: 10:00 - 12:00
-Tuesday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
-
-Section: 04, Tl-112, CSE - DIVYA K TSCS228
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
-Wednesday: 08:00 - 10:00
+Section: T2-L34, CSE - Nagappan G
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
 
 Subject: 19MS155 [3 Credits]
 Course Name: Stock Market and Company Operations
 
-Section: 04, Tl-P12, MBA- SEEMABALAN
-Date: 16-07-2026 to 26-09-2026
-Monday: 10:00 - 12:00
-Saturday: 10:00 - 12:00
-Wednesday: 10:00 - 12:00
+Section: T2-I32, MBA - NAYEEMUNNISA A
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, TI-SIO, MBA - GANESAN ALIAS KANAGARAJ M
-Date: 16-07-2026 to 26-09-2026
-Monday: 08:00 - 10:00
-Thursday: 13:00 - 15:00
-Wednesday: 08:00 - 10:00
+Section: T2-H39, MBA - Sathiyamurthi K
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 04, Tl-D12, MBA - Sathiyamurthi K
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 10:00 - 12:00
-Tuesday: 10:00 - 12:00
+Section: T2-H26, MBA - SELVI K
+Date: 08-10-2026 to 19-12-2026
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19CY603 [3 Credits]
+Course Name: Sustainable Materials and Technologies
+
+Section: T2-S34, CHEMISTRY - B MOHAMAD ALI
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-J33, CHEMISTRY - Thirumavalavan M
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-T37, CHEMISTRY - Anand S
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-S24, CHEMISTRY - DOLLI H
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-Q27, CHEMISTRY - Mettilda M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-N22, CHEMISTRY - Vivekanand P A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19EN624 [2 Credits]
+Course Name: Theatre Art
+
+Section: T2-N34, ENGLISH - Rajkumar M
+Date: 08-10-2026 to 19-12-2026
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-M43, ENGLISH - Rajkumar M
+Date: 08-10-2026 to 19-12-2026
+Wednesday: 08:00 - 09:00, 09:00 - 10:00, 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19CS407 [3 Credits]
-Course Name: Theory Of Computation
+Course Name: Theory of Computation
 
-Section: 04, Tl-Y19, CSE- MANI S V J
-Date: 16-07-2026 to 26-09-2026
-Monday: 15:00 - 17:00
-Thursday: 15:00 - 17:00
-Wednesday: 10:00 - 12:00
+Section: T2-G36, CSE - MANI S V J
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-E23, CSE - MANI S V J
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-L36, CSE - MANI S V J
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AM401 [4 Credits]
 Course Name: Time Series Analysis and Forecasting
 
-Section: 04, Tl-Q13,AM- Sathish Babu S
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 13:00 - 15:00
-Tuesday: 13:00 - 15:00
+Section: T2-P24, AM - Sathish Babu S
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19MA219 [4 Credits]
 Course Name: Transforms and its Applications
 
-Section: 25, Tl-T17, Maths - Radha M
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
-Tuesday: 10:00 - 12:00
+Section: T2-K28, Maths - SUREKHA S S
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, Tl-A20, Maths - SUREKHA S S
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Thursday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-Wednesday: 15:00 - 17:00
+Section: T2-F21, Maths - Radha M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19CS549 [3 Credits]
+Course Name: UI and UX Design
+
+Section: T2-Q36, CSE - Loganathan V
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
 Subject: 19AI412 [4 Credits]
 Course Name: Web Data Mining
 
-Section: 04, TI-QIO,AI - VINOTHINI M
-Date: 16-07-2026 to 26-09-2026
-Friday: 08:00 - 10:00
-Monday: 13:00 - 15:00
-Saturday: 08:00 - 10:00
-Thursday: 08:00 - 10:00
+Section: T2-I22, AI - SATHEESKUMAR R
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
 
-Section: 04, Tl-U9, A1 - SATHEESKUMAR R
-Date: 16-07-2026 to 26-09-2026
-Friday: 15:00 - 17:00
-Monday: 15:00 - 17:00
-Saturday: 13:00 - 15:00
-Tuesday: 15:00 - 17:00
-
-Section: 04, Tl-E4, A1- VINOTHINI M
-Date: 16-07-2026 to 26-09-2026
-Friday: 13:00 - 15:00
-Monday: 10:00 - 12:00
-Thursday: 13:00 - 15:00
-Wednesday: 10:00 - 12:00
-
-Section: 04, Tl-Q9, A1 - SATHEESKUMAR R
-Date: 16-07-2026 to 26-09-2026
-Friday: 10:00 - 12:00
-Saturday: 15:00 - 17:00
+Section: T2-G39, AI - VINOTHINI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
 Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-G30, AI - SATHEESKUMAR R
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00, 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-A38, AI - VINOTHINI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
 
 Subject: 19EN616 [1 Credits]
 Course Name: Yoga and Meditation
 
-Section: 25, Tl-A60, PED - Raghuram G
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 08:00 - 10:00
+Section: T2-Q43, PED - Raghuram G
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
 
-Section: 25, Tl-A61, PED - Raghuram G
-Date: 16-07-2026 to 26-09-2026
-Tuesday: 10:00 - 12:00
+Section: T2-N43, PED - Raghuram G
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-U25, PED - Raghuram G
+Date: 08-10-2026 to 19-12-2026
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-U22, PED - Raghuram G
+Date: 08-10-2026 to 19-12-2026
+Saturday: 15:00 - 16:00, 16:00 - 17:00
