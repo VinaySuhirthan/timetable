@@ -2918,3 +2918,27 @@ Date: 08-10-2026 to 19-12-2026
 Friday: 15:00 - 16:00, 16:00 - 17:00
 Saturday: 15:00 - 16:00, 16:00 - 17:00
 Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19MA223 [4 Credits]
+Course Name: Linear Algebra and Probability
+
+Section: T2-V23, Maths - Radha M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-N24, Maths - Jayamani V N
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-E29, Maths - Ruth Isabels K
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
