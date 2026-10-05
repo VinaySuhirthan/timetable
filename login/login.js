@@ -1,4 +1,7 @@
 (async () => {
+  const normalUserSessionMinutes = Number(window.ENV?.NORMAL_USER_SESSION_MINUTES) || 10;
+  const vipUserSessionMinutes = Number(window.ENV?.VIP_USER_SESSION_MINUTES) || 10;
+
   const status = document.getElementById("status");
   const btn = document.getElementById("loginBtn");
 
@@ -49,12 +52,13 @@
         .maybeSingle();
 
       if (vip) {
+        const sessionDurationSeconds = vipUserSessionMinutes * 60;
         status.textContent = "Accessing as VIP user ";
         console.log(" Access granted as VIP user");
         await new Promise(r => setTimeout(r, 1000));
         localStorage.setItem("user_email", email);
-        localStorage.setItem("session_expires_at", Date.now() + (10 * 60 * 1000));
-        startConsoleTimer(10 * 60);
+        localStorage.setItem("session_expires_at", Date.now() + (sessionDurationSeconds * 1000));
+        startConsoleTimer(sessionDurationSeconds);
         setTimeout(() => window.location.replace("/front.html"), 500);
         return;
       }
@@ -80,13 +84,14 @@
       }
 
       if (data === "OK") {
+        const sessionDurationSeconds = normalUserSessionMinutes * 60;
         status.textContent = "Accessing as normal user ";
         console.log(" Access granted as normal user");
         await new Promise(r => setTimeout(r, 1000));
-        console.log("NORMAL USER - 10 minute trial");
+        console.log(`NORMAL USER - ${normalUserSessionMinutes} minute trial`);
         localStorage.setItem("user_email", email);
-        localStorage.setItem("session_expires_at", Date.now() + (10 * 60 * 1000));
-        startConsoleTimer(10 * 60);
+        localStorage.setItem("session_expires_at", Date.now() + (sessionDurationSeconds * 1000));
+        startConsoleTimer(sessionDurationSeconds);
         setTimeout(() => window.location.replace("/front.html"), 500);
         return;
       }

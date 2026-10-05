@@ -68,6 +68,8 @@ def config_js():
     payload = {
         "SUPABASE_URL": supabase_url,
         "SUPABASE_ANON_KEY": supabase_publishable_key,
+        "NORMAL_USER_SESSION_MINUTES": NORMAL_USER_SESSION_MINUTES,
+        "VIP_USER_SESSION_MINUTES": VIP_USER_SESSION_MINUTES,
     }
 
     warn_snippet = ""
@@ -90,6 +92,8 @@ def config_js():
 
 # Environment-based configuration
 OUTPUT_FILE = os.getenv("OUTPUT_FILE", "output.txt")
+NORMAL_USER_SESSION_MINUTES = max(1, int(os.getenv("NORMAL_USER_SESSION_MINUTES", "10")))
+VIP_USER_SESSION_MINUTES = max(1, int(os.getenv("VIP_USER_SESSION_MINUTES", "10")))
 TIMETABLE_TIMEOUT = int(os.getenv("TIMETABLE_TIMEOUT", "30"))
 CORS_ORIGINS = os.getenv("CORS_ORIGINS", "*").split(",") if os.getenv("CORS_ORIGINS") else ["*"]
 if CORS_ORIGINS != ["*"]:
