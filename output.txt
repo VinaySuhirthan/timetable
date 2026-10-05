@@ -2620,3 +2620,18 @@ Date: 08-10-2026 to 19-12-2026
 Saturday: 10:00 - 11:00, 11:00 - 12:00
 Tuesday: 10:00 - 11:00, 11:00 - 12:00
 Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19MA211 [4 Credits]
+Course Name: Statistics and Numerical Methods
+
+Section: T2-J37, Maths - Kavitha N
+Date: 08-10-2026 to 19-12-2026
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00, 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-H25, Maths - Thirumalai K
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00, 15:00 - 16:00, 16:00 - 17:00
