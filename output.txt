@@ -2680,3 +2680,241 @@ Date: 08-10-2026 to 19-12-2026
 Friday: 13:00 - 14:00, 14:00 - 15:00
 Thursday: 15:00 - 16:00, 16:00 - 17:00
 Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19MA212 [4 Credits]
+Course Name: Algebra and Number Theory
+
+Section: T2-M26, Maths - Premila S C
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-H28, Maths - SWATHI S
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Subject: 19EE305 [3 Credits]
+Course Name: Basic Electrical, Electronics and Measurement Engineering
+
+Section: T2-N39, EEE - LELEEDHAR RAO K
+Date: 08-10-2026 to 19-12-2026
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-R33, EEE - LELEEDHAR RAO K
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19EY708 [1 Credits]
+Course Name: Career Development Skills
+
+Section: T2-T33, TRAINING - Pandiyan R
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-U27, TRAINING - EVANGELIN HELEN
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-R28, TRAINING - Pandiyan R
+Date: 08-10-2026 to 19-12-2026
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19CS406 [4 Credits]
+Course Name: Computer Networks
+
+Section: T2-R43, CSE - ANBARASAN M
+Date: 08-10-2026 to 19-12-2026
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-H41, CSE - PREMKUMAR K
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-V29, CSE - Vijay Anand M
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-V39, CSE - THULASI DEVI M
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-L41, CSE - Ramyadevi R
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-R27, CSE - ANBARASAN M
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-J21, CSE - Ramyadevi R
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-M41, CSE - JAGANNATHAN TSCS223 A
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-Q40, CSE - JAGANNATHAN TSCS223 A
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Thursday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19AI302 [3 Credits]
+Course Name: Engineering Design and Modelling
+
+Section: T2-P26, AI - SUDHARSAN K
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-M40, AI - SUDHARSAN K
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-G28, AI - SUDHARSAN K
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19AI403 [3 Credits]
+Course Name: Introduction to Data Science
+
+Section: T2-N29, AI - BHARATHI A
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-B23, AI - Dhinesh Kumar K S
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-A34, AI - Karthi Govindharaju
+Date: 08-10-2026 to 19-12-2026
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Subject: 19MA220 [4 Credits]
+Course Name: Mathematics for Artificial Intelligence
+
+Section: T2-K30, AI - ARUN P
+Date: 08-10-2026 to 19-12-2026
+Friday: 13:00 - 14:00, 14:00 - 15:00
+Monday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19CS405 [4 Credits]
+Course Name: Operating System
+
+Section: T2-T43, CSE - ARUL DALTON G
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Section: T2-Q39, CSE - Sujatha Elumalai
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-P35, CSE - VIJAYAN P
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 10:00 - 11:00, 11:00 - 12:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-M23, CSE - ARUL DALTON G
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-J27, CSE - Kolli Amos Daniel
+Date: 08-10-2026 to 19-12-2026
+Monday: 13:00 - 14:00, 14:00 - 15:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Tuesday: 13:00 - 14:00, 14:00 - 15:00
+Wednesday: 13:00 - 14:00, 14:00 - 15:00
+
+Section: T2-E34, CSE - Sujatha Elumalai
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 13:00 - 14:00, 14:00 - 15:00
+Thursday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-D30, CSE - VIJAYAN P
+Date: 08-10-2026 to 19-12-2026
+Friday: 08:00 - 09:00, 09:00 - 10:00
+Monday: 08:00 - 09:00, 09:00 - 10:00
+Saturday: 08:00 - 09:00, 09:00 - 10:00
+Wednesday: 08:00 - 09:00, 09:00 - 10:00
+
+Section: T2-S27, CSE - Kolli Amos Daniel
+Date: 08-10-2026 to 19-12-2026
+Friday: 10:00 - 11:00, 11:00 - 12:00
+Saturday: 10:00 - 11:00, 11:00 - 12:00
+Tuesday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 10:00 - 11:00, 11:00 - 12:00
+
+Subject: 19PH814 [3 Credits]
+Course Name: Physics for Quantum Computing
+
+Section: T2-N21, PHYSICS - Ganapathi Raman
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
+
+Section: T2-C40, PHYSICS - Sivakumar T
+Date: 08-10-2026 to 19-12-2026
+Friday: 15:00 - 16:00, 16:00 - 17:00
+Saturday: 15:00 - 16:00, 16:00 - 17:00
+Wednesday: 15:00 - 16:00, 16:00 - 17:00
